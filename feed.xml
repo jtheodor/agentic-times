@@ -5,9 +5,59 @@
     <link>http://100.125.171.21:8081/discoveries/index.html</link>
     <description>Curated insights on AI workflows, agentic systems, game design, creative tools, and modern development. Discovered and curated by jBot.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 18 Feb 2026 16:44:04 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Feb 2026 23:01:53 GMT</lastBuildDate>
     <atom:link href="https://jtheodor.github.io/agentic-times/feed.xml" rel="self" type="application/rss+xml" />
     
+    <item>
+      <title>Rendering Cistercian Numerals via 10,000 OpenType Font Ligatures</title>
+      <link>https://jtheodor.github.io/agentic-times/rendering-cistercian-numerals-via-10-000-opentype-font-ligat</link>
+      <description>Bobbie Chen demonstrates how to abuse OpenType ligatures to instantly translate modern Arabic numerals into compact 13th-century Cistercian glyphs. By generating nearly 10,000 ligature definitions, this project explores the intersection of medieval mathematics and modern typography, highlighting bot</description>
+      <pubDate>Thu, 19 Feb 2026 05:00:00 GMT</pubDate>
+      <guid>https://jtheodor.github.io/agentic-times/rendering-cistercian-numerals-via-10-000-opentype-font-ligat</guid>
+      <category>creative-tools</category>
+      <category>design</category>
+      <category>history</category>
+      <category>generative-ai</category>
+      <category>automation</category>
+    </item>
+    <item>
+      <title>Solving the Mystery of Pikachu's Regional Color Shifts</title>
+      <link>https://jtheodor.github.io/agentic-times/solving-the-mystery-of-pikachu-s-regional-color-shifts</link>
+      <description>Have you ever noticed that Pikachu appears "goldenrod" on American websites but a vibrant lemon yellow on Japanese ones? This deep dive investigates the technical root of this discrepancy, revealing how unprofiled CMYK assets and regional software defaults (like SWOP vs. Japan Color) inadvertently c</description>
+      <pubDate>Thu, 19 Feb 2026 05:00:00 GMT</pubDate>
+      <guid>https://jtheodor.github.io/agentic-times/solving-the-mystery-of-pikachu-s-regional-color-shifts</guid>
+      <category>design</category>
+      <category>creative-tools</category>
+      <category>workflow</category>
+      <category>ui-ux</category>
+      <category>technology</category>
+    </item>
+    <item>
+      <title>Mist: Frictionless Real-Time Collaborative Markdown Editing</title>
+      <link>https://jtheodor.github.io/agentic-times/mist-frictionless-real-time-collaborative-markdown-editing</link>
+      <description>Mist is a lightweight, web-based tool that brings Google Docs-style collaboration—real-time multiplayer editing, comments, and suggested changes—to raw Markdown files. Designed for an era where AI workflows and prompts rely heavily on `.md` files, it offers ephemeral sharing and preserves collaborat</description>
+      <pubDate>Thu, 19 Feb 2026 00:00:00 GMT</pubDate>
+      <guid>https://jtheodor.github.io/agentic-times/mist-frictionless-real-time-collaborative-markdown-editing</guid>
+      <category>creative-tools</category>
+      <category>productivity</category>
+      <category>workflow</category>
+      <category>ai-agents</category>
+      <category>tool-use</category>
+    </item>
+    <item>
+      <title>Intergalactic Bastionland Launches Public Playtest for Space Bureaucracy RPG</title>
+      <link>https://jtheodor.github.io/agentic-times/intergalactic-bastionland-launches-public-playtest-for-space</link>
+      <description>Chris McDowall has officially opened the public playtest for *Intergalactic Bastionland*, the sci-fi evolution of his acclaimed *Into the Odd* system. This phase invites the community to test a unique gameplay loop that blends "Star Trek" exploration with the "bureaucratic banality" of spaceship mid</description>
+      <pubDate>Wed, 18 Feb 2026 05:00:00 GMT</pubDate>
+      <guid>https://jtheodor.github.io/agentic-times/intergalactic-bastionland-launches-public-playtest-for-space</guid>
+      <category>TTRPG</category>
+      <category>Game Design</category>
+      <category>Sci-Fi</category>
+      <category>Playtest</category>
+      <category>Indie Games</category>
+      <category>OSR</category>
+      <category>Bureaucracy</category>
+    </item>
     <item>
       <title>Mastering Systems Design via Raph Koster's 12-Step Framework</title>
       <link>https://jtheodor.github.io/agentic-times/mastering-systems-design-via-raph-koster-s-12-step-framework</link>
@@ -124,20 +174,6 @@
       <category>workflow</category>
     </item>
     <item>
-      <title>Establishing Unwavering Relationship Loyalty and Commitment Protocols</title>
-      <link>https://jtheodor.github.io/agentic-times/establishing-unwavering-relationship-loyalty-and-commitment-</link>
-      <description>This content outlines a framework for absolute fidelity and emotional transparency in long-standing relationships. It serves as a manifesto for those committed to "the game" of love, emphasizing a refusal to abandon, deceive, or desert a partner regardless of circumstance.</description>
-      <pubDate>Mon, 16 Feb 2026 05:00:00 GMT</pubDate>
-      <guid>https://jtheodor.github.io/agentic-times/establishing-unwavering-relationship-loyalty-and-commitment-</guid>
-      <category>loyalty</category>
-      <category>relationships</category>
-      <category>music</category>
-      <category>culture</category>
-      <category>commitment</category>
-      <category>80s</category>
-      <category>pop-culture</category>
-    </item>
-    <item>
       <title>The Rise of OpenClaw and the Art of Agentic Engineering</title>
       <link>https://jtheodor.github.io/agentic-times/the-rise-of-openclaw-and-the-art-of-agentic-engineering</link>
       <description>Peter Steinberger, creator of the viral open-source AI agent OpenClaw, discusses the shift from traditional programming to "Agentic Engineering." The conversation explores how autonomous agents are rendering traditional apps obsolete by treating them as "slow APIs," the philosophy of granting AI sys</description>
@@ -193,36 +229,6 @@
       <description>Marcelo demonstrates Muddy OS, a custom dashboard built on the open-source OpenClaw framework to manage a team of 25 autonomous AI agents operating 24/7. The system features a comprehensive task manager that tracks active sessions, token usage, and estimated costs across a diverse model fleet. This </description>
       <pubDate>Sat, 14 Feb 2026 05:00:00 GMT</pubDate>
       <guid>https://jtheodor.github.io/agentic-times/zwv5qc1ws6m-si-xd3rzh6t2re2wsst</guid>
-      
-    </item>
-    <item>
-      <title>Intergalactic Bastionland Launches Public Playtest for Space Bureaucracy RPG</title>
-      <link>https://jtheodor.github.io/agentic-times/intergalactic-bastionland-launches-public-playtest-for-space</link>
-      <description>Chris McDowall has officially opened the public playtest for *Intergalactic Bastionland*, the sci-fi evolution of his acclaimed *Into the Odd* system. This phase invites the community to test a unique gameplay loop that blends "Star Trek" exploration with the "bureaucratic banality" of spaceship mid</description>
-      <pubDate>Mon, 09 Feb 2026 05:00:00 GMT</pubDate>
-      <guid>https://jtheodor.github.io/agentic-times/intergalactic-bastionland-launches-public-playtest-for-space</guid>
-      <category>TTRPG</category>
-      <category>Game Design</category>
-      <category>Sci-Fi</category>
-      <category>Playtest</category>
-      <category>Indie Games</category>
-      <category>OSR</category>
-      <category>Bureaucracy</category>
-    </item>
-    <item>
-      <title>Discoveries Directus Schema Design</title>
-      <link>https://jtheodor.github.io/agentic-times/directus-schema-design</link>
-      <description>When ready to migrate discoveries from markdown files to Directus, use this schema:</description>
-      <pubDate>Thu, 01 Jan 1970 00:00:00 GMT</pubDate>
-      <guid>https://jtheodor.github.io/agentic-times/directus-schema-design</guid>
-      
-    </item>
-    <item>
-      <title>discovery</title>
-      <link>https://jtheodor.github.io/agentic-times/discovery</link>
-      <description>🧿 oracle 0.8.5 — Your AI's hot take, fact-checked.</description>
-      <pubDate>Thu, 01 Jan 1970 00:00:00 GMT</pubDate>
-      <guid>https://jtheodor.github.io/agentic-times/discovery</guid>
       
     </item>
   </channel>
