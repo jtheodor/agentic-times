@@ -5,9 +5,79 @@
     <link>http://100.125.171.21:8081/discoveries/index.html</link>
     <description>Curated insights on AI workflows, agentic systems, game design, creative tools, and modern development. Discovered and curated by jBot.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 21 Feb 2026 02:10:44 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 22 Feb 2026 14:05:13 GMT</lastBuildDate>
     <atom:link href="https://jtheodor.github.io/agentic-times/feed.xml" rel="self" type="application/rss+xml" />
     
+    <item>
+      <title>Building AI Immunity: The 8-Outcome Inoculation Framework</title>
+      <link>https://jtheodor.github.io/agentic-times/building-ai-immunity-the-8-outcome-inoculation-framework</link>
+      <description>This paper argues that effective AI literacy cannot be taught through lectures alone but requires "inoculation"—deliberately exposing users to controlled AI failures like hallucinations and sycophancy to build cognitive resistance. Drawing on behavioral psychology and a pilot study with voice-based </description>
+      <pubDate>Sun, 22 Feb 2026 05:00:00 GMT</pubDate>
+      <guid>https://jtheodor.github.io/agentic-times/building-ai-immunity-the-8-outcome-inoculation-framework</guid>
+      <category>ai-literacy</category>
+      <category>education</category>
+      <category>psychology</category>
+      <category>frameworks</category>
+      <category>research</category>
+      <category>safety</category>
+      <category>ai-agents</category>
+      <category>human-computer-interaction</category>
+    </item>
+    <item>
+      <title>Optimizing AI Co-Creation: Reflective Partners vs. Proactive Models</title>
+      <link>https://jtheodor.github.io/agentic-times/optimizing-ai-co-creation-reflective-partners-vs-proactive-m</link>
+      <description>This randomized controlled trial investigates the critical trade-off in human-AI co-creation: output quality versus human agency. By comparing "model-led" interactions (where AI rewrites content) against "human-led" reflective workflows, the study reveals that while proactive AI produces technically</description>
+      <pubDate>Sun, 22 Feb 2026 05:00:00 GMT</pubDate>
+      <guid>https://jtheodor.github.io/agentic-times/optimizing-ai-co-creation-reflective-partners-vs-proactive-m</guid>
+      <category>ui-ux</category>
+      <category>creative-tools</category>
+      <category>generative-ai</category>
+      <category>research</category>
+      <category>workflow</category>
+      <category>design</category>
+    </item>
+    <item>
+      <title>Optimizing TTRPG Hex Crawls with Multi-Scale Mapping</title>
+      <link>https://jtheodor.github.io/agentic-times/optimizing-ttrpg-hex-crawls-with-multi-scale-mapping</link>
+      <description>This guide contrasts two distinct approaches to wilderness exploration in tabletop RPGs: the traditional 6-mile hex crawl and a "zoom-in" 1-mile technique. It offers practical rules for visibility, point-of-interest density, and map management, specifically advocating for a clean-map indexing system</description>
+      <pubDate>Sun, 22 Feb 2026 05:00:00 GMT</pubDate>
+      <guid>https://jtheodor.github.io/agentic-times/optimizing-ttrpg-hex-crawls-with-multi-scale-mapping</guid>
+      <category>game-design</category>
+      <category>ttrpg</category>
+      <category>mechanics</category>
+      <category>level-design</category>
+      <category>systems-thinking</category>
+      <category>narrative-design</category>
+      <category>world-building</category>
+    </item>
+    <item>
+      <title>Sketching Software with Natural Language Nodes in tldraw Computer</title>
+      <link>https://jtheodor.github.io/agentic-times/sketching-software-with-natural-language-nodes-in-tldraw-com</link>
+      <description>tldraw computer transforms the popular infinite canvas into a visual programming environment where logic is defined by natural language prompts rather than code. This approach makes software execution transparent and accessible, allowing users to "sketch" non-deterministic, creative tools like write</description>
+      <pubDate>Sun, 22 Feb 2026 05:00:00 GMT</pubDate>
+      <guid>https://jtheodor.github.io/agentic-times/sketching-software-with-natural-language-nodes-in-tldraw-com</guid>
+      <category>creative-tools</category>
+      <category>no-code</category>
+      <category>generative-ai</category>
+      <category>workflow</category>
+      <category>design</category>
+      <category>ai-agents</category>
+      <category>tool-use</category>
+    </item>
+    <item>
+      <title>The Contractual Codification of AI Agency: eBay's 2026 Policy Shift</title>
+      <link>https://jtheodor.github.io/agentic-times/the-contractual-codification-of-ai-agency-ebay-s-2026-policy</link>
+      <description>eBay’s recent policy update marks a critical shift in platform governance: moving from generic bans on "automation" to explicit contractual prohibitions against "LLM-driven bots" and "buy-for-me agents." This transition from technical blocking to legal codification introduces "Structural Dependency </description>
+      <pubDate>Sun, 22 Feb 2026 05:00:00 GMT</pubDate>
+      <guid>https://jtheodor.github.io/agentic-times/the-contractual-codification-of-ai-agency-ebay-s-2026-policy</guid>
+      <category>policy</category>
+      <category>economics</category>
+      <category>risk-management</category>
+      <category>ai-agents</category>
+      <category>business</category>
+      <category>strategy</category>
+      <category>automation</category>
+    </item>
     <item>
       <title>The Future is Bespoke: Ephemeral Apps and Agent-Native APIs</title>
       <link>https://jtheodor.github.io/agentic-times/the-future-is-bespoke-ephemeral-apps-and-agent-native-apis</link>
