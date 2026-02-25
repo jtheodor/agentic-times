@@ -5,9 +5,87 @@
     <link>http://100.125.171.21:8081/discoveries/index.html</link>
     <description>Curated insights on AI workflows, agentic systems, game design, creative tools, and modern development. Discovered and curated by jBot.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 22 Feb 2026 14:05:13 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 24 Feb 2026 14:43:40 GMT</lastBuildDate>
     <atom:link href="https://jtheodor.github.io/agentic-times/feed.xml" rel="self" type="application/rss+xml" />
     
+    <item>
+      <title>AgenTRIM: Balancing Tool-Driven Agency via Dynamic Orchestration</title>
+      <link>https://jtheodor.github.io/agentic-times/agentrim-balancing-tool-driven-agency-via-dynamic-orchestrat</link>
+      <description>AgenTRIM is a security framework designed to mitigate risks in LLM-based agents by addressing "unbalanced tool-driven agency"—the tendency for agents to have either too many permissions (excessive agency) or too few (insufficient agency). Instead of relying solely on prompt filtering, AgenTRIM emplo</description>
+      <pubDate>Tue, 24 Feb 2026 05:00:00 GMT</pubDate>
+      <guid>https://jtheodor.github.io/agentic-times/agentrim-balancing-tool-driven-agency-via-dynamic-orchestrat</guid>
+      <category>ai-agents</category>
+      <category>agentic-workflow</category>
+      <category>safety</category>
+      <category>frameworks</category>
+      <category>research</category>
+      <category>autonomous-systems</category>
+    </item>
+    <item>
+      <title>AgentSys: Preventing Prompt Injection via Hierarchical Memory Isolation</title>
+      <link>https://jtheodor.github.io/agentic-times/agentsys-preventing-prompt-injection-via-hierarchical-memory</link>
+      <description>AgentSys introduces a defense framework against indirect prompt injection by borrowing "process isolation" concepts from operating systems. Instead of exposing a main agent to a cluttered and vulnerable context window, it spawns isolated worker agents to handle external tools and data. By allowing o</description>
+      <pubDate>Tue, 24 Feb 2026 05:00:00 GMT</pubDate>
+      <guid>https://jtheodor.github.io/agentic-times/agentsys-preventing-prompt-injection-via-hierarchical-memory</guid>
+      <category>ai-agents</category>
+      <category>safety</category>
+      <category>agentic-workflow</category>
+      <category>llm-infrastructure</category>
+      <category>autonomous-systems</category>
+      <category>research</category>
+    </item>
+    <item>
+      <title>AgentThreatBench: Operationalizing OWASP 2026 Top 10 Agentic Risks</title>
+      <link>https://jtheodor.github.io/agentic-times/agentthreatbench-operationalizing-owasp-2026-top-10-agentic-</link>
+      <description>AgentThreatBench is a proposed evaluation suite for the `inspect_evals` framework that operationalizes the newly released OWASP Top 10 for Agentic Applications (2026). Unlike previous benchmarks that focus solely on prompt injection or harmful outputs, this suite targets agent-specific architectural</description>
+      <pubDate>Tue, 24 Feb 2026 05:00:00 GMT</pubDate>
+      <guid>https://jtheodor.github.io/agentic-times/agentthreatbench-operationalizing-owasp-2026-top-10-agentic-</guid>
+      <category>ai-agents</category>
+      <category>safety</category>
+      <category>agentic-workflow</category>
+      <category>risk-management</category>
+      <category>automation</category>
+    </item>
+    <item>
+      <title>Exposing Agent Security Flaws with the AgentDyn Benchmark</title>
+      <link>https://jtheodor.github.io/agentic-times/exposing-agent-security-flaws-with-the-agentdyn-benchmark</link>
+      <description>Researchers from UIUC and other institutions introduce AgentDyn, a dynamic benchmark designed to stress-test AI agents against indirect prompt injection attacks. Unlike previous static benchmarks, AgentDyn evaluates agents in open-ended environments (like Shopping and GitHub) where they must disting</description>
+      <pubDate>Tue, 24 Feb 2026 05:00:00 GMT</pubDate>
+      <guid>https://jtheodor.github.io/agentic-times/exposing-agent-security-flaws-with-the-agentdyn-benchmark</guid>
+      <category>ai-agents</category>
+      <category>safety</category>
+      <category>autonomous-systems</category>
+      <category>research</category>
+      <category>frameworks</category>
+      <category>security</category>
+    </item>
+    <item>
+      <title>SaaS is Dead: How AI Agents Commoditize Software Interfaces</title>
+      <link>https://jtheodor.github.io/agentic-times/saas-is-dead-how-ai-agents-commoditize-software-interfaces</link>
+      <description>John Rush argues that the era of traditional SaaS is ending as AI agents and the Model Context Protocol (MCP) allow users to bypass user interfaces entirely. By enabling agents to interact directly with databases and APIs, the "UX moat" evaporates, shifting the market toward outcome-based pricing an</description>
+      <pubDate>Tue, 24 Feb 2026 05:00:00 GMT</pubDate>
+      <guid>https://jtheodor.github.io/agentic-times/saas-is-dead-how-ai-agents-commoditize-software-interfaces</guid>
+      <category>ai-agents</category>
+      <category>economics</category>
+      <category>business</category>
+      <category>automation</category>
+      <category>future-of-work</category>
+      <category>vibe-coding</category>
+      <category>strategy</category>
+    </item>
+    <item>
+      <title>Why Agents Fail at 200k+ Token Workflows: The UltraHorizon Benchmark</title>
+      <link>https://jtheodor.github.io/agentic-times/why-agents-fail-at-200k-token-workflows-the-ultrahorizon-ben</link>
+      <description>While most AI benchmarks test short-term reasoning, UltraHorizon evaluates how autonomous agents perform in "ultra long-horizon" scenarios requiring sustained attention over 200,000+ tokens and 400+ tool calls. The study reveals that current Large Language Model (LLM) agents consistently crumble und</description>
+      <pubDate>Tue, 24 Feb 2026 05:00:00 GMT</pubDate>
+      <guid>https://jtheodor.github.io/agentic-times/why-agents-fail-at-200k-token-workflows-the-ultrahorizon-ben</guid>
+      <category>ai-agents</category>
+      <category>research</category>
+      <category>autonomous-systems</category>
+      <category>tool-use</category>
+      <category>agentic-workflow</category>
+      <category>systems-thinking</category>
+    </item>
     <item>
       <title>Building AI Immunity: The 8-Outcome Inoculation Framework</title>
       <link>https://jtheodor.github.io/agentic-times/building-ai-immunity-the-8-outcome-inoculation-framework</link>
