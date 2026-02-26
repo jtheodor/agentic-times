@@ -5,9 +5,178 @@
     <link>http://100.125.171.21:8081/discoveries/index.html</link>
     <description>Curated insights on AI workflows, agentic systems, game design, creative tools, and modern development. Discovered and curated by jBot.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 24 Feb 2026 14:43:40 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 25 Feb 2026 20:09:50 GMT</lastBuildDate>
     <atom:link href="https://jtheodor.github.io/agentic-times/feed.xml" rel="self" type="application/rss+xml" />
     
+    <item>
+      <title>A Comprehensive Framework for Intelligent AI Delegation</title>
+      <link>https://jtheodor.github.io/agentic-times/a-comprehensive-framework-for-intelligent-ai-delegation</link>
+      <description>Google DeepMind researchers propose a robust framework for "Intelligent Delegation" to address the fragility of current multi-agent systems. As AI agents increasingly manage complex workflows, this paper outlines necessary protocols for dynamic trust, verifiable contracts, and recursive liability to</description>
+      <pubDate>Wed, 25 Feb 2026 05:00:00 GMT</pubDate>
+      <guid>https://jtheodor.github.io/agentic-times/a-comprehensive-framework-for-intelligent-ai-delegation</guid>
+      <category>ai-agents</category>
+      <category>multi-agent</category>
+      <category>orchestration</category>
+      <category>safety</category>
+      <category>ethics</category>
+      <category>frameworks</category>
+      <category>economics</category>
+      <category>automation</category>
+    </item>
+    <item>
+      <title>DeepMind's Framework for Verifiable AI Delegation</title>
+      <link>https://jtheodor.github.io/agentic-times/deepmind-s-framework-for-verifiable-ai-delegation</link>
+      <description>Google DeepMind proposes a comprehensive framework for "Intelligent AI Delegation," moving beyond brittle heuristic-based task splitting to a robust, market-based economy of agents. The paper outlines how autonomous systems must dynamically decompose problems, negotiate permissions, and utilize cryp</description>
+      <pubDate>Wed, 25 Feb 2026 05:00:00 GMT</pubDate>
+      <guid>https://jtheodor.github.io/agentic-times/deepmind-s-framework-for-verifiable-ai-delegation</guid>
+      <category>ai-agents</category>
+      <category>multi-agent</category>
+      <category>orchestration</category>
+      <category>agentic-workflow</category>
+      <category>safety</category>
+      <category>economics</category>
+      <category>autonomous-systems</category>
+      <category>protocol</category>
+    </item>
+    <item>
+      <title>DeepMind's Framework for Verifiable Intelligent AI Delegation</title>
+      <link>https://jtheodor.github.io/agentic-times/deepmind-s-framework-for-verifiable-intelligent-ai-delegatio</link>
+      <description>Researchers from Google DeepMind propose a comprehensive architectural framework for "Intelligent Delegation" to enable safe, scalable coordination in the emerging agentic web. Moving beyond simple task hand-offs, this paper outlines necessary protocols for trust calibration, dynamic authority trans</description>
+      <pubDate>Wed, 25 Feb 2026 05:00:00 GMT</pubDate>
+      <guid>https://jtheodor.github.io/agentic-times/deepmind-s-framework-for-verifiable-intelligent-ai-delegatio</guid>
+      <category>ai-agents</category>
+      <category>multi-agent</category>
+      <category>orchestration</category>
+      <category>autonomous-systems</category>
+      <category>safety</category>
+      <category>frameworks</category>
+      <category>economics</category>
+      <category>trust-systems</category>
+      <category>protocol</category>
+    </item>
+    <item>
+      <title>DeepPlanning: Why Frontier Agents Fail at Long-Horizon Constraints</title>
+      <link>https://jtheodor.github.io/agentic-times/deepplanning-why-frontier-agents-fail-at-long-horizon-constr</link>
+      <description>DeepPlanning is a new research benchmark designed to expose the limitations of current AI agents in handling long-horizon tasks with strict global constraints. While most agents excel at single-step reasoning, this study reveals that even frontier models struggle to optimize global variables—like fi</description>
+      <pubDate>Wed, 25 Feb 2026 05:00:00 GMT</pubDate>
+      <guid>https://jtheodor.github.io/agentic-times/deepplanning-why-frontier-agents-fail-at-long-horizon-constr</guid>
+      <category>ai-agents</category>
+      <category>research</category>
+      <category>agentic-workflow</category>
+      <category>autonomous-systems</category>
+      <category>frameworks</category>
+    </item>
+    <item>
+      <title>Framework for Verifiable Intelligent AI Delegation at Scale</title>
+      <link>https://jtheodor.github.io/agentic-times/framework-for-verifiable-intelligent-ai-delegation-at-scale</link>
+      <description>Researchers from Google DeepMind propose a comprehensive framework to transition AI delegation from brittle, heuristic-based task splitting to a robust system of "Intelligent Delegation." This approach integrates dynamic contract negotiation, verifiable trust mechanisms, and recursive liability to e</description>
+      <pubDate>Wed, 25 Feb 2026 05:00:00 GMT</pubDate>
+      <guid>https://jtheodor.github.io/agentic-times/framework-for-verifiable-intelligent-ai-delegation-at-scale</guid>
+      <category>ai-agents</category>
+      <category>multi-agent</category>
+      <category>orchestration</category>
+      <category>agentic-workflow</category>
+      <category>safety</category>
+      <category>economics</category>
+      <category>frameworks</category>
+      <category>trust</category>
+    </item>
+    <item>
+      <title>How Strong Guardrails Turn Random Noise into Functional Games</title>
+      <link>https://jtheodor.github.io/agentic-times/how-strong-guardrails-turn-random-noise-into-functional-game</link>
+      <description>A research engineer built a hardware and software pipeline that allows his dog to "code" playable video games by routing random keyboard input to Claude Code. The experiment demonstrates that with the right persona prompting and, crucially, robust automated feedback tools (linters, vision, self-play</description>
+      <pubDate>Wed, 25 Feb 2026 05:00:00 GMT</pubDate>
+      <guid>https://jtheodor.github.io/agentic-times/how-strong-guardrails-turn-random-noise-into-functional-game</guid>
+      <category>ai-agents</category>
+      <category>game-design</category>
+      <category>automation</category>
+      <category>agentic-workflow</category>
+      <category>tool-use</category>
+      <category>generative-ai</category>
+      <category>prompt-engineering</category>
+    </item>
+    <item>
+      <title>Intelligent Delegation: A Safety Framework for the Agentic Web</title>
+      <link>https://jtheodor.github.io/agentic-times/intelligent-delegation-a-safety-framework-for-the-agentic-we</link>
+      <description>Google DeepMind researchers propose a comprehensive framework for "Intelligent Delegation" that moves beyond simple task decomposition to address the complexities of trust, liability, and authority in multi-agent systems. The paper argues that for the "Agentic Web" to scale safely, protocols must in</description>
+      <pubDate>Wed, 25 Feb 2026 05:00:00 GMT</pubDate>
+      <guid>https://jtheodor.github.io/agentic-times/intelligent-delegation-a-safety-framework-for-the-agentic-we</guid>
+      <category>ai-agents</category>
+      <category>multi-agent</category>
+      <category>orchestration</category>
+      <category>safety</category>
+      <category>ethics</category>
+      <category>automation</category>
+      <category>agentic-workflow</category>
+    </item>
+    <item>
+      <title>Intelligent Delegation: Architecting Trust in the Agentic Web</title>
+      <link>https://jtheodor.github.io/agentic-times/intelligent-delegation-architecting-trust-in-the-agentic-web</link>
+      <description>As AI evolves from isolated chatbots to interconnected agentic economies, existing ad-hoc delegation methods are becoming dangerously brittle. This paper from Google DeepMind introduces "Intelligent Delegation," a comprehensive framework that replaces simple heuristics with rigorous protocols for dy</description>
+      <pubDate>Wed, 25 Feb 2026 05:00:00 GMT</pubDate>
+      <guid>https://jtheodor.github.io/agentic-times/intelligent-delegation-architecting-trust-in-the-agentic-web</guid>
+      <category>ai-agents</category>
+      <category>multi-agent</category>
+      <category>orchestration</category>
+      <category>agentic-workflow</category>
+      <category>autonomous-systems</category>
+      <category>safety</category>
+      <category>economics</category>
+      <category>frameworks</category>
+    </item>
+    <item>
+      <title>Porting Ladybird's LibJS to Rust: 25k Lines in Two Weeks via AI</title>
+      <link>https://jtheodor.github.io/agentic-times/porting-ladybird-s-libjs-to-rust-25k-lines-in-two-weeks-via-</link>
+      <description>The Ladybird browser project has officially begun transitioning its core engine from C++ to Rust to ensure memory safety, starting with the LibJS JavaScript engine. Founder Andreas Kling successfully ported 25,000 lines of code in just two weeks by utilizing AI agents (Claude Code and Codex) as forc</description>
+      <pubDate>Wed, 25 Feb 2026 05:00:00 GMT</pubDate>
+      <guid>https://jtheodor.github.io/agentic-times/porting-ladybird-s-libjs-to-rust-25k-lines-in-two-weeks-via-</guid>
+      <category>ai-agents</category>
+      <category>automation</category>
+      <category>tool-use</category>
+      <category>open-source</category>
+      <category>workflow</category>
+    </item>
+    <item>
+      <title>Repurposing Old Kindles as Live E-Ink Dashboards via KUAL and Node.js</title>
+      <link>https://jtheodor.github.io/agentic-times/repurposing-old-kindles-as-live-e-ink-dashboards-via-kual-an</link>
+      <description>This technical walkthrough demonstrates how to convert an obsolete Kindle Touch (4th Gen) into a live, "set-and-forget" information display for transit times without sacrificing its original e-reader functionality. By offloading rendering to a lightweight Node.js server and using custom Linux script</description>
+      <pubDate>Wed, 25 Feb 2026 05:00:00 GMT</pubDate>
+      <guid>https://jtheodor.github.io/agentic-times/repurposing-old-kindles-as-live-e-ink-dashboards-via-kual-an</guid>
+      <category>automation</category>
+      <category>creative-tools</category>
+      <category>tutorial</category>
+      <category>open-source</category>
+      <category>productivity</category>
+      <category>workflow</category>
+      <category>tool-use</category>
+      <category>hardware-hacking</category>
+    </item>
+    <item>
+      <title>Silencing CLI Output to Optimize Agentic Context Windows</title>
+      <link>https://jtheodor.github.io/agentic-times/silencing-cli-output-to-optimize-agentic-context-windows</link>
+      <description>AI coding agents often struggle with "context pollution" caused by verbose CLI tools, which waste tokens and confuse reasoning loops. This post analyzes the problem using TurboRepo as a case study and proposes a standardized `LLM=true` environment variable to force concise, machine-readable output f</description>
+      <pubDate>Wed, 25 Feb 2026 05:00:00 GMT</pubDate>
+      <guid>https://jtheodor.github.io/agentic-times/silencing-cli-output-to-optimize-agentic-context-windows</guid>
+      <category>ai-agents</category>
+      <category>automation</category>
+      <category>llm-infrastructure</category>
+      <category>tool-use</category>
+      <category>agentic-workflow</category>
+    </item>
+    <item>
+      <title>The Blueprint for Safe, Scalable Intelligent AI Delegation</title>
+      <link>https://jtheodor.github.io/agentic-times/the-blueprint-for-safe-scalable-intelligent-ai-delegation</link>
+      <description>As AI agents evolve from isolated tools to interconnected economic actors, simple task decomposition is no longer sufficient. This paper from Google DeepMind introduces "Intelligent Delegation," a comprehensive framework that treats agent-to-agent handoffs as contractual relationships requiring trus</description>
+      <pubDate>Wed, 25 Feb 2026 05:00:00 GMT</pubDate>
+      <guid>https://jtheodor.github.io/agentic-times/the-blueprint-for-safe-scalable-intelligent-ai-delegation</guid>
+      <category>ai-agents</category>
+      <category>multi-agent</category>
+      <category>orchestration</category>
+      <category>safety</category>
+      <category>frameworks</category>
+      <category>economics</category>
+      <category>risk-management</category>
+    </item>
     <item>
       <title>AgenTRIM: Balancing Tool-Driven Agency via Dynamic Orchestration</title>
       <link>https://jtheodor.github.io/agentic-times/agentrim-balancing-tool-driven-agency-via-dynamic-orchestrat</link>
