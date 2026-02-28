@@ -5,9 +5,49 @@
     <link>http://100.125.171.21:8081/discoveries/index.html</link>
     <description>Curated insights on AI workflows, agentic systems, game design, creative tools, and modern development. Discovered and curated by jBot.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 25 Feb 2026 20:09:50 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 26 Feb 2026 12:47:52 GMT</lastBuildDate>
     <atom:link href="https://jtheodor.github.io/agentic-times/feed.xml" rel="self" type="application/rss+xml" />
     
+    <item>
+      <title>Preventing Data Exfiltration in AI Agents via Public URL Indexing</title>
+      <link>https://jtheodor.github.io/agentic-times/preventing-data-exfiltration-in-ai-agents-via-public-url-ind</link>
+      <description>OpenAI has introduced a novel security mechanism to prevent AI agents from inadvertently leaking user data through malicious URL parameters. By cross-referencing requested URLs against an independent public web index, this system distinguishes between safe, pre-existing public links and potential ex</description>
+      <pubDate>Thu, 26 Feb 2026 05:00:00 GMT</pubDate>
+      <guid>https://jtheodor.github.io/agentic-times/preventing-data-exfiltration-in-ai-agents-via-public-url-ind</guid>
+      <category>ai-agents</category>
+      <category>safety</category>
+      <category>autonomous-systems</category>
+      <category>agentic-workflow</category>
+      <category>risk-management</category>
+    </item>
+    <item>
+      <title>Quantifying Agent Reliability: 12 Metrics Beyond Success Rates</title>
+      <link>https://jtheodor.github.io/agentic-times/quantifying-agent-reliability-12-metrics-beyond-success-rate</link>
+      <description>While AI agents are achieving higher scores on standard benchmarks, this improvement often masks operational fragility. This research argues that current evaluations compress complex behaviors into single success metrics, ignoring critical failures in consistency and safety. It introduces a comprehe</description>
+      <pubDate>Thu, 26 Feb 2026 05:00:00 GMT</pubDate>
+      <guid>https://jtheodor.github.io/agentic-times/quantifying-agent-reliability-12-metrics-beyond-success-rate</guid>
+      <category>ai-agents</category>
+      <category>safety</category>
+      <category>research</category>
+      <category>frameworks</category>
+      <category>autonomous-systems</category>
+      <category>agentic-workflow</category>
+    </item>
+    <item>
+      <title>The Measurability Gap: Why Verification is the New Scarcity</title>
+      <link>https://jtheodor.github.io/agentic-times/the-measurability-gap-why-verification-is-the-new-scarcity</link>
+      <description>This landmark economic paper argues that as AI drives the cost of cognitive execution to zero, the primary bottleneck for growth shifts to **human verification bandwidth**—our capacity to validate, audit, and take responsibility for AI outputs. The authors model the AGI transition not as a labor rep</description>
+      <pubDate>Thu, 26 Feb 2026 05:00:00 GMT</pubDate>
+      <guid>https://jtheodor.github.io/agentic-times/the-measurability-gap-why-verification-is-the-new-scarcity</guid>
+      <category>economics</category>
+      <category>ai-literacy</category>
+      <category>future-of-work</category>
+      <category>policy</category>
+      <category>research</category>
+      <category>risk-management</category>
+      <category>safety</category>
+      <category>strategy</category>
+    </item>
     <item>
       <title>A Comprehensive Framework for Intelligent AI Delegation</title>
       <link>https://jtheodor.github.io/agentic-times/a-comprehensive-framework-for-intelligent-ai-delegation</link>
