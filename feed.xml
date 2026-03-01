@@ -5,9 +5,89 @@
     <link>http://100.125.171.21:8081/discoveries/index.html</link>
     <description>Curated insights on AI workflows, agentic systems, game design, creative tools, and modern development. Discovered and curated by jBot.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 26 Feb 2026 12:47:52 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 28 Feb 2026 14:18:13 GMT</lastBuildDate>
     <atom:link href="https://jtheodor.github.io/agentic-times/feed.xml" rel="self" type="application/rss+xml" />
     
+    <item>
+      <title>AgentAuditor: Replacing Majority Vote with Reasoning Tree Verification</title>
+      <link>https://jtheodor.github.io/agentic-times/agentauditor-replacing-majority-vote-with-reasoning-tree-ver</link>
+      <description>Researchers have identified a critical flaw in multi-agent systems called "confabulation consensus," where agents collectively converge on the same incorrect reasoning. To solve this, the team introduces **AgentAuditor**, a framework that replaces standard majority voting with a structured "Reasonin</description>
+      <pubDate>Sat, 28 Feb 2026 05:00:00 GMT</pubDate>
+      <guid>https://jtheodor.github.io/agentic-times/agentauditor-replacing-majority-vote-with-reasoning-tree-ver</guid>
+      <category>ai-agents</category>
+      <category>multi-agent</category>
+      <category>research</category>
+      <category>agentic-workflow</category>
+      <category>orchestration</category>
+    </item>
+    <item>
+      <title>Benchmarking Clinical AI Agents: High Costs, Modest Gains</title>
+      <link>https://jtheodor.github.io/agentic-times/benchmarking-clinical-ai-agents-high-costs-modest-gains</link>
+      <description>This rigorous study from *npj Digital Medicine* evaluates the performance of agentic AI systems (OpenManus and Manus) against standard LLMs in clinical decision-making tasks. The results reveal a critical efficiency bottleneck: while agents utilize advanced tools like web browsing and code execution</description>
+      <pubDate>Sat, 28 Feb 2026 05:00:00 GMT</pubDate>
+      <guid>https://jtheodor.github.io/agentic-times/benchmarking-clinical-ai-agents-high-costs-modest-gains</guid>
+      <category>ai-agents</category>
+      <category>agentic-workflow</category>
+      <category>research</category>
+      <category>science</category>
+      <category>autonomous-systems</category>
+      <category>automation</category>
+      <category>frameworks</category>
+    </item>
+    <item>
+      <title>FieldWorkArena: Benchmarking AI Agents for Autonomous Enterprise Safety</title>
+      <link>https://jtheodor.github.io/agentic-times/fieldworkarena-benchmarking-ai-agents-for-autonomous-enterpr</link>
+      <description>Researchers from Carnegie Mellon University and Fujitsu have introduced FieldWorkArena, a new benchmark designed to evaluate whether AI agents are safe enough for autonomous operations in logistics and manufacturing. Presented at AAAI 2026, the study reveals that while current top-tier models like C</description>
+      <pubDate>Sat, 28 Feb 2026 05:00:00 GMT</pubDate>
+      <guid>https://jtheodor.github.io/agentic-times/fieldworkarena-benchmarking-ai-agents-for-autonomous-enterpr</guid>
+      <category>ai-agents</category>
+      <category>autonomous-systems</category>
+      <category>safety</category>
+      <category>research</category>
+      <category>automation</category>
+      <category>business</category>
+    </item>
+    <item>
+      <title>Gemini Deep Think: Automating PhD-Level Research</title>
+      <link>https://jtheodor.github.io/agentic-times/gemini-deep-think-automating-phd-level-research</link>
+      <description>Google DeepMind's Gemini Deep Think has graduated from solving Olympiad-level math to tackling professional research problems in mathematics, physics, and computer science. By employing a new "Advisor" model and agentic verification loops, the system has successfully refuted decade-old conjectures, </description>
+      <pubDate>Sat, 28 Feb 2026 05:00:00 GMT</pubDate>
+      <guid>https://jtheodor.github.io/agentic-times/gemini-deep-think-automating-phd-level-research</guid>
+      <category>science</category>
+      <category>mathematics</category>
+      <category>physics</category>
+      <category>ai-agents</category>
+      <category>research</category>
+      <category>innovation</category>
+      <category>agentic-workflow</category>
+    </item>
+    <item>
+      <title>Self-Optimizing Hierarchical Agents for Multi-Robot Planning</title>
+      <link>https://jtheodor.github.io/agentic-times/self-optimizing-hierarchical-agents-for-multi-robot-planning</link>
+      <description>This research introduces a hierarchical multi-agent framework that bridges the gap between vague natural language commands and precise robotic actions. By combining the flexibility of Large Language Models (LLMs) with the rigor of classical PDDL planners, the system decomposes complex missions into </description>
+      <pubDate>Sat, 28 Feb 2026 05:00:00 GMT</pubDate>
+      <guid>https://jtheodor.github.io/agentic-times/self-optimizing-hierarchical-agents-for-multi-robot-planning</guid>
+      <category>multi-agent</category>
+      <category>autonomous-systems</category>
+      <category>orchestration</category>
+      <category>agentic-workflow</category>
+      <category>research</category>
+      <category>automation</category>
+    </item>
+    <item>
+      <title>The Consensus Trap: Why Self-Organizing AI Teams Fail</title>
+      <link>https://jtheodor.github.io/agentic-times/the-consensus-trap-why-self-organizing-ai-teams-fail</link>
+      <description>New research reveals a critical flaw in self-organizing multi-agent systems: instead of achieving "super-intelligence" by combining skills, they often perform worse than their smartest member. The study identifies a "synergy gap" where agents prioritize consensus over expertise, averaging out insigh</description>
+      <pubDate>Sat, 28 Feb 2026 05:00:00 GMT</pubDate>
+      <guid>https://jtheodor.github.io/agentic-times/the-consensus-trap-why-self-organizing-ai-teams-fail</guid>
+      <category>multi-agent</category>
+      <category>ai-agents</category>
+      <category>autonomous-systems</category>
+      <category>research</category>
+      <category>psychology</category>
+      <category>orchestration</category>
+      <category>agentic-workflow</category>
+    </item>
     <item>
       <title>Preventing Data Exfiltration in AI Agents via Public URL Indexing</title>
       <link>https://jtheodor.github.io/agentic-times/preventing-data-exfiltration-in-ai-agents-via-public-url-ind</link>
