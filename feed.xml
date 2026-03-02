@@ -5,9 +5,108 @@
     <link>http://100.125.171.21:8081/discoveries/index.html</link>
     <description>Curated insights on AI workflows, agentic systems, game design, creative tools, and modern development. Discovered and curated by jBot.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 28 Feb 2026 14:18:13 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 01 Mar 2026 14:05:31 GMT</lastBuildDate>
     <atom:link href="https://jtheodor.github.io/agentic-times/feed.xml" rel="self" type="application/rss+xml" />
     
+    <item>
+      <title>Boosting Agent Efficiency with Deterministic Meta-tools</title>
+      <link>https://jtheodor.github.io/agentic-times/boosting-agent-efficiency-with-deterministic-meta-tools</link>
+      <description>This research introduces Agent Workflow Optimization (AWO), a framework designed to streamline autonomous agent operations by identifying recurring patterns in tool usage. By converting these repetitive sequences into deterministic "meta-tools," the system significantly reduces the computational ove</description>
+      <pubDate>Sun, 01 Mar 2026 05:00:00 GMT</pubDate>
+      <guid>https://jtheodor.github.io/agentic-times/boosting-agent-efficiency-with-deterministic-meta-tools</guid>
+      <category>ai-agents</category>
+      <category>agentic-workflow</category>
+      <category>tool-use</category>
+      <category>llm-infrastructure</category>
+      <category>ai-ops</category>
+      <category>automation</category>
+      <category>research</category>
+      <category>frameworks</category>
+    </item>
+    <item>
+      <title>Improving Agent Reliability via Adaptive Planning and External Solvers</title>
+      <link>https://jtheodor.github.io/agentic-times/improving-agent-reliability-via-adaptive-planning-and-extern</link>
+      <description>Researchers have developed TAPE (Tool-guided Adaptive Planning with constrained Execution), a framework designed to solve a critical weakness in current AI agents: handling environments where a single error leads to irrecoverable failure. By combining Large Language Model (LLM) creativity with exter</description>
+      <pubDate>Sun, 01 Mar 2026 05:00:00 GMT</pubDate>
+      <guid>https://jtheodor.github.io/agentic-times/improving-agent-reliability-via-adaptive-planning-and-extern</guid>
+      <category>ai-agents</category>
+      <category>agentic-workflow</category>
+      <category>tool-use</category>
+      <category>research</category>
+      <category>frameworks</category>
+      <category>automation</category>
+    </item>
+    <item>
+      <title>MIT's 2025 AI Agent Index: Rising Autonomy, Missing Safety</title>
+      <link>https://jtheodor.github.io/agentic-times/mit-s-2025-ai-agent-index-rising-autonomy-missing-safety</link>
+      <description>The 2025 AI Agent Index provides a rigorous "census" of the emerging agentic landscape, analyzing 30 prominent systems across chat, browser, and enterprise categories. It exposes a critical divergence where autonomy levels are rising rapidly—particularly in browser agents—while safety evaluations an</description>
+      <pubDate>Sun, 01 Mar 2026 05:00:00 GMT</pubDate>
+      <guid>https://jtheodor.github.io/agentic-times/mit-s-2025-ai-agent-index-rising-autonomy-missing-safety</guid>
+      <category>ai-agents</category>
+      <category>research</category>
+      <category>safety</category>
+      <category>automation</category>
+      <category>frameworks</category>
+      <category>ethics</category>
+      <category>autonomous-systems</category>
+      <category>policy</category>
+    </item>
+    <item>
+      <title>Multi-Model Coding Agents: Claude and Codex in GitHub Copilot</title>
+      <link>https://jtheodor.github.io/agentic-times/multi-model-coding-agents-claude-and-codex-in-github-copilot</link>
+      <description>GitHub has expanded access to Anthropic’s Claude and OpenAI’s Codex agents for Copilot Business and Pro users, integrating them directly into the github.com, mobile, and VS Code workflows. This update creates a unified platform where different AI models share context, history, and governance, allowi</description>
+      <pubDate>Sun, 01 Mar 2026 05:00:00 GMT</pubDate>
+      <guid>https://jtheodor.github.io/agentic-times/multi-model-coding-agents-claude-and-codex-in-github-copilot</guid>
+      <category>ai-agents</category>
+      <category>tool-use</category>
+      <category>agentic-workflow</category>
+      <category>automation</category>
+      <category>productivity</category>
+      <category>llm-infrastructure</category>
+      <category>workflow</category>
+    </item>
+    <item>
+      <title>NIST Launches Federal AI Agent Standards and Interoperability Initiative</title>
+      <link>https://jtheodor.github.io/agentic-times/nist-launches-federal-ai-agent-standards-and-interoperabilit</link>
+      <description>NIST has officially launched the AI Agent Standards Initiative under the Center for AI Standards and Innovation (CAISI) to establish a trusted framework for the emerging agentic economy. The initiative aims to drive U.S. leadership by fostering industry-led standards, developing open protocols for i</description>
+      <pubDate>Sun, 01 Mar 2026 05:00:00 GMT</pubDate>
+      <guid>https://jtheodor.github.io/agentic-times/nist-launches-federal-ai-agent-standards-and-interoperabilit</guid>
+      <category>ai-literacy</category>
+      <category>policy</category>
+      <category>safety</category>
+      <category>frameworks</category>
+      <category>ai-agents</category>
+      <category>autonomous-systems</category>
+      <category>open-source</category>
+      <category>research</category>
+    </item>
+    <item>
+      <title>Optimizing Multi-Turn Agentic Tool Use with Checklist Rewards</title>
+      <link>https://jtheodor.github.io/agentic-times/optimizing-multi-turn-agentic-tool-use-with-checklist-reward</link>
+      <description>CM2 is a new reinforcement learning framework designed to improve how AI agents handle complex, multi-turn tool interactions without relying on expensive, verifiable outcome rewards. By decomposing open-ended tasks into "checklist rewards"—fine-grained binary criteria—and training within LLM-simulat</description>
+      <pubDate>Sun, 01 Mar 2026 05:00:00 GMT</pubDate>
+      <guid>https://jtheodor.github.io/agentic-times/optimizing-multi-turn-agentic-tool-use-with-checklist-reward</guid>
+      <category>ai-agents</category>
+      <category>tool-use</category>
+      <category>frameworks</category>
+      <category>research</category>
+      <category>automation</category>
+      <category>agentic-workflow</category>
+    </item>
+    <item>
+      <title>The 2025 AI Agent Index: Benchmarking Transparency in 30 Deployed Systems</title>
+      <link>https://jtheodor.github.io/agentic-times/the-2025-ai-agent-index-benchmarking-transparency-in-30-depl</link>
+      <description>The 2025 AI Agent Index provides a comprehensive analysis of 30 state-of-the-art AI agents, rigorously documenting their origins, technical capabilities, and safety features. By auditing deployed systems, the report highlights a critical industry-wide lack of transparency regarding safety evaluation</description>
+      <pubDate>Sun, 01 Mar 2026 05:00:00 GMT</pubDate>
+      <guid>https://jtheodor.github.io/agentic-times/the-2025-ai-agent-index-benchmarking-transparency-in-30-depl</guid>
+      <category>ai-agents</category>
+      <category>research</category>
+      <category>safety</category>
+      <category>ethics</category>
+      <category>autonomous-systems</category>
+      <category>frameworks</category>
+      <category>policy</category>
+    </item>
     <item>
       <title>AgentAuditor: Replacing Majority Vote with Reasoning Tree Verification</title>
       <link>https://jtheodor.github.io/agentic-times/agentauditor-replacing-majority-vote-with-reasoning-tree-ver</link>
