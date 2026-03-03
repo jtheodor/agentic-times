@@ -5,9 +5,118 @@
     <link>http://100.125.171.21:8081/discoveries/index.html</link>
     <description>Curated insights on AI workflows, agentic systems, game design, creative tools, and modern development. Discovered and curated by jBot.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 01 Mar 2026 14:05:31 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 02 Mar 2026 14:04:07 GMT</lastBuildDate>
     <atom:link href="https://jtheodor.github.io/agentic-times/feed.xml" rel="self" type="application/rss+xml" />
     
+    <item>
+      <title>AGENTS.md Files Reduce AI Runtime by 29% and Token Costs</title>
+      <link>https://jtheodor.github.io/agentic-times/agents-md-files-reduce-ai-runtime-by-29-and-token-costs</link>
+      <description>As autonomous coding agents become integral to software development, optimizing their efficiency is critical. This research quantifies the impact of adding an `AGENTS.md` configuration file to repositories, demonstrating that providing machine-readable context significantly reduces execution time an</description>
+      <pubDate>Mon, 02 Mar 2026 05:00:00 GMT</pubDate>
+      <guid>https://jtheodor.github.io/agentic-times/agents-md-files-reduce-ai-runtime-by-29-and-token-costs</guid>
+      <category>ai-agents</category>
+      <category>ai-ops</category>
+      <category>llm-infrastructure</category>
+      <category>automation</category>
+      <category>research</category>
+    </item>
+    <item>
+      <title>Auditing AI Agent Potential with the WORKBank Framework</title>
+      <link>https://jtheodor.github.io/agentic-times/auditing-ai-agent-potential-with-the-workbank-framework</link>
+      <description>This Stanford research paper introduces a critical auditing framework for the "agentic" era: measuring the gap between what AI agents *can* do and what workers actually *want* them to do. By surveying 1,500 workers across 104 occupations, the authors created **WORKBank**, a database that maps techni</description>
+      <pubDate>Mon, 02 Mar 2026 05:00:00 GMT</pubDate>
+      <guid>https://jtheodor.github.io/agentic-times/auditing-ai-agent-potential-with-the-workbank-framework</guid>
+      <category>future-of-work</category>
+      <category>ai-agents</category>
+      <category>research</category>
+      <category>frameworks</category>
+      <category>economics</category>
+      <category>automation</category>
+      <category>society</category>
+    </item>
+    <item>
+      <title>Beyond Accuracy: A 12-Metric Framework for Agent Reliability</title>
+      <link>https://jtheodor.github.io/agentic-times/beyond-accuracy-a-12-metric-framework-for-agent-reliability</link>
+      <description>This research challenges the industry's reliance on simple accuracy scores for AI agents, arguing that current benchmarks mask critical operational flaws. Grounded in safety-critical engineering, the authors introduce a holistic framework with 12 specific metrics to measure consistency, robustness, </description>
+      <pubDate>Mon, 02 Mar 2026 05:00:00 GMT</pubDate>
+      <guid>https://jtheodor.github.io/agentic-times/beyond-accuracy-a-12-metric-framework-for-agent-reliability</guid>
+      <category>ai-agents</category>
+      <category>autonomous-systems</category>
+      <category>research</category>
+      <category>safety</category>
+      <category>frameworks</category>
+      <category>ai-ops</category>
+      <category>agentic-workflow</category>
+    </item>
+    <item>
+      <title>Google's Agent2Agent Protocol: Standardizing Cross-Vendor Interoperability</title>
+      <link>https://jtheodor.github.io/agentic-times/google-s-agent2agent-protocol-standardizing-cross-vendor-int</link>
+      <description>Google has launched the Agent2Agent (A2A) protocol, an open standard designed to enable AI agents from different vendors and frameworks to communicate, negotiate, and collaborate on complex tasks. By providing a structured way for agents to discover each other's capabilities and exchange information</description>
+      <pubDate>Mon, 02 Mar 2026 05:00:00 GMT</pubDate>
+      <guid>https://jtheodor.github.io/agentic-times/google-s-agent2agent-protocol-standardizing-cross-vendor-int</guid>
+      <category>ai-agents</category>
+      <category>multi-agent</category>
+      <category>orchestration</category>
+      <category>agentic-workflow</category>
+      <category>automation</category>
+      <category>llm-infrastructure</category>
+      <category>open-source</category>
+    </item>
+    <item>
+      <title>NIST Launches National AI Agent Standards Initiative for Interoperability</title>
+      <link>https://jtheodor.github.io/agentic-times/nist-launches-national-ai-agent-standards-initiative-for-int</link>
+      <description>The National Institute of Standards and Technology (NIST) has officially launched the "AI Agent Standards Initiative" to establish the technical foundation for autonomous AI agents. Managed by the Center for AI Standards and Innovation (CAISI), this initiative addresses the critical lack of interope</description>
+      <pubDate>Mon, 02 Mar 2026 05:00:00 GMT</pubDate>
+      <guid>https://jtheodor.github.io/agentic-times/nist-launches-national-ai-agent-standards-initiative-for-int</guid>
+      <category>ai-agents</category>
+      <category>autonomous-systems</category>
+      <category>policy</category>
+      <category>frameworks</category>
+      <category>safety</category>
+      <category>open-source</category>
+      <category>interoperability</category>
+    </item>
+    <item>
+      <title>Standardizing AI Agent Evaluation: A Survey of 120 Benchmarks</title>
+      <link>https://jtheodor.github.io/agentic-times/standardizing-ai-agent-evaluation-a-survey-of-120-benchmarks</link>
+      <description>IBM Research, in collaboration with Hebrew University and Yale, surveyed 120 AI agent evaluation frameworks to identify critical gaps in how autonomous systems are tested. As agents move from simple chatbots to executing complex workflows, the study proposes four essential shifts in benchmarking: gr</description>
+      <pubDate>Mon, 02 Mar 2026 05:00:00 GMT</pubDate>
+      <guid>https://jtheodor.github.io/agentic-times/standardizing-ai-agent-evaluation-a-survey-of-120-benchmarks</guid>
+      <category>ai-agents</category>
+      <category>research</category>
+      <category>frameworks</category>
+      <category>autonomous-systems</category>
+      <category>safety</category>
+      <category>agentic-workflow</category>
+      <category>automation</category>
+      <category>llm-infrastructure</category>
+    </item>
+    <item>
+      <title>SWE-Bench Pro Tests Agents Against 1,865 Real Engineering Tasks</title>
+      <link>https://jtheodor.github.io/agentic-times/swe-bench-pro-tests-agents-against-1-865-real-engineering-ta</link>
+      <description>SWE-Bench Pro introduces a rigorous benchmark designed to push AI agents beyond simple coding puzzles into complex, long-horizon software engineering tasks. Utilizing over 1,800 problems from active repositories across 123 programming languages, it evaluates how well agents handle multi-file reasoni</description>
+      <pubDate>Mon, 02 Mar 2026 05:00:00 GMT</pubDate>
+      <guid>https://jtheodor.github.io/agentic-times/swe-bench-pro-tests-agents-against-1-865-real-engineering-ta</guid>
+      <category>ai-agents</category>
+      <category>research</category>
+      <category>frameworks</category>
+      <category>agentic-workflow</category>
+      <category>tool-use</category>
+    </item>
+    <item>
+      <title>Where Enterprise AI Money Flows in 2026: 5 Agent Predictions</title>
+      <link>https://jtheodor.github.io/agentic-times/where-enterprise-ai-money-flows-in-2026-5-agent-predictions</link>
+      <description>CB Insights analyzes hiring data, M&amp;A activity, and enterprise surveys to forecast the five defining shifts for AI agents in 2026. The report argues that the market has moved beyond initial hype to the "gritty reality" of deployment, where success depends on solving latency in voice, securing autono</description>
+      <pubDate>Mon, 02 Mar 2026 05:00:00 GMT</pubDate>
+      <guid>https://jtheodor.github.io/agentic-times/where-enterprise-ai-money-flows-in-2026-5-agent-predictions</guid>
+      <category>ai-agents</category>
+      <category>business</category>
+      <category>strategy</category>
+      <category>safety</category>
+      <category>autonomous-systems</category>
+      <category>future-of-work</category>
+      <category>automation</category>
+    </item>
     <item>
       <title>Boosting Agent Efficiency with Deterministic Meta-tools</title>
       <link>https://jtheodor.github.io/agentic-times/boosting-agent-efficiency-with-deterministic-meta-tools</link>
