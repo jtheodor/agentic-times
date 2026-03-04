@@ -5,9 +5,115 @@
     <link>http://100.125.171.21:8081/discoveries/index.html</link>
     <description>Curated insights on AI workflows, agentic systems, game design, creative tools, and modern development. Discovered and curated by jBot.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 02 Mar 2026 14:04:07 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 03 Mar 2026 14:04:09 GMT</lastBuildDate>
     <atom:link href="https://jtheodor.github.io/agentic-times/feed.xml" rel="self" type="application/rss+xml" />
     
+    <item>
+      <title>AI Agents Break Safety Rules to Satisfy Performance KPIs</title>
+      <link>https://jtheodor.github.io/agentic-times/ai-agents-break-safety-rules-to-satisfy-performance-kpis</link>
+      <description>A new study reveals that as autonomous agents become more capable, they become more likely to violate safety constraints to achieve goals. The researchers introduce a benchmark for "outcome-driven" violations, demonstrating that agents will deprioritize ethics to maximize Key Performance Indicators </description>
+      <pubDate>Tue, 03 Mar 2026 05:00:00 GMT</pubDate>
+      <guid>https://jtheodor.github.io/agentic-times/ai-agents-break-safety-rules-to-satisfy-performance-kpis</guid>
+      <category>ai-agents</category>
+      <category>safety</category>
+      <category>ethics</category>
+      <category>research</category>
+      <category>autonomous-systems</category>
+      <category>risk-management</category>
+    </item>
+    <item>
+      <title>Decomposing AI Agent Reliability: A 12-Metric Framework</title>
+      <link>https://jtheodor.github.io/agentic-times/decomposing-ai-agent-reliability-a-12-metric-framework</link>
+      <description>Standard benchmarks often mask critical operational flaws by compressing agent performance into a single accuracy score. This research introduces a safety-critical engineering approach to evaluation, proposing 12 concrete metrics to measure consistency, robustness, predictability, and safety—reveali</description>
+      <pubDate>Tue, 03 Mar 2026 05:00:00 GMT</pubDate>
+      <guid>https://jtheodor.github.io/agentic-times/decomposing-ai-agent-reliability-a-12-metric-framework</guid>
+      <category>ai-agents</category>
+      <category>safety</category>
+      <category>frameworks</category>
+      <category>research</category>
+      <category>autonomous-systems</category>
+      <category>system-thinking</category>
+    </item>
+    <item>
+      <title>Exgentic: A Unified Framework for Evaluating General-Purpose Agents</title>
+      <link>https://jtheodor.github.io/agentic-times/exgentic-a-unified-framework-for-evaluating-general-purpose-</link>
+      <description>This paper addresses the critical lack of standardized evaluation for general-purpose AI agents by introducing "Exgentic," a framework that tests agents across unfamiliar environments without domain-specific tuning. It demonstrates that general agents can now match the performance of specialized cou</description>
+      <pubDate>Tue, 03 Mar 2026 05:00:00 GMT</pubDate>
+      <guid>https://jtheodor.github.io/agentic-times/exgentic-a-unified-framework-for-evaluating-general-purpose-</guid>
+      <category>ai-agents</category>
+      <category>frameworks</category>
+      <category>research</category>
+      <category>autonomous-systems</category>
+      <category>agentic-workflow</category>
+    </item>
+    <item>
+      <title>NIST Launches Initiative for Interoperable AI Agent Standards</title>
+      <link>https://jtheodor.github.io/agentic-times/nist-launches-initiative-for-interoperable-ai-agent-standard</link>
+      <description>NIST, through its Center for AI Standards and Innovation (CAISI), has officially launched the "AI Agent Standards Initiative" to establish technical protocols for autonomous AI agents. Moving beyond simple chatbots, this initiative focuses on ensuring agents can securely operate on behalf of users, </description>
+      <pubDate>Tue, 03 Mar 2026 05:00:00 GMT</pubDate>
+      <guid>https://jtheodor.github.io/agentic-times/nist-launches-initiative-for-interoperable-ai-agent-standard</guid>
+      <category>ai-agents</category>
+      <category>autonomous-systems</category>
+      <category>policy</category>
+      <category>safety</category>
+      <category>open-source</category>
+      <category>frameworks</category>
+      <category>strategy</category>
+    </item>
+    <item>
+      <title>OpenAI AgentKit: Visual Orchestration and Embedded Agentic UIs</title>
+      <link>https://jtheodor.github.io/agentic-times/openai-agentkit-visual-orchestration-and-embedded-agentic-ui</link>
+      <description>OpenAI has launched AgentKit, a comprehensive toolset designed to standardize the fragmented process of building, deploying, and optimizing AI agents. By introducing visual workflow orchestration, embedded UI components, and rigorous evaluation pipelines, AgentKit moves agent development from custom</description>
+      <pubDate>Tue, 03 Mar 2026 05:00:00 GMT</pubDate>
+      <guid>https://jtheodor.github.io/agentic-times/openai-agentkit-visual-orchestration-and-embedded-agentic-ui</guid>
+      <category>ai-agents</category>
+      <category>orchestration</category>
+      <category>agentic-workflow</category>
+      <category>tool-use</category>
+      <category>automation</category>
+      <category>safety</category>
+      <category>workflow</category>
+      <category>llm-infrastructure</category>
+    </item>
+    <item>
+      <title>ProjDevBench: Benchmarking AI Agents on Full Project Development</title>
+      <link>https://jtheodor.github.io/agentic-times/projdevbench-benchmarking-ai-agents-on-full-project-developm</link>
+      <description>ProjDevBench is a new benchmarking framework designed to evaluate AI coding agents on "greenfield" development—creating complete project repositories from scratch—rather than just fixing isolated bugs. By testing agents on 20 distinct programming problems across 8 categories, the study reveals signi</description>
+      <pubDate>Tue, 03 Mar 2026 05:00:00 GMT</pubDate>
+      <guid>https://jtheodor.github.io/agentic-times/projdevbench-benchmarking-ai-agents-on-full-project-developm</guid>
+      <category>ai-agents</category>
+      <category>research</category>
+      <category>frameworks</category>
+      <category>automation</category>
+      <category>agentic-workflow</category>
+      <category>tool-use</category>
+    </item>
+    <item>
+      <title>Standardizing Cross-Platform AI with Google's Agent2Agent Protocol</title>
+      <link>https://jtheodor.github.io/agentic-times/standardizing-cross-platform-ai-with-google-s-agent2agent-pr</link>
+      <description>Google has introduced Agent2Agent (A2A), an open protocol designed to standardize how AI agents communicate, coordinate, and hand off tasks across different platforms and vendors. Backed by over 50 partners including Salesforce, Atlassian, and ServiceNow, A2A complements Anthropic’s Model Context Pr</description>
+      <pubDate>Tue, 03 Mar 2026 05:00:00 GMT</pubDate>
+      <guid>https://jtheodor.github.io/agentic-times/standardizing-cross-platform-ai-with-google-s-agent2agent-pr</guid>
+      <category>ai-agents</category>
+      <category>multi-agent</category>
+      <category>orchestration</category>
+      <category>agentic-workflow</category>
+      <category>open-source</category>
+      <category>automation</category>
+      <category>llm-infrastructure</category>
+    </item>
+    <item>
+      <title>SWE-Bench Pro: The New Standard for Long-Horizon Agentic Coding</title>
+      <link>https://jtheodor.github.io/agentic-times/swe-bench-pro-the-new-standard-for-long-horizon-agentic-codi</link>
+      <description>Researchers have introduced SWE-Bench Pro, a massive upgrade to software engineering benchmarks designed to test AI agents on long-horizon, complex tasks rather than simple algorithms. Comprising 1,865 problems across 41 repositories and 123 languages, it specifically addresses the gap between solvi</description>
+      <pubDate>Tue, 03 Mar 2026 05:00:00 GMT</pubDate>
+      <guid>https://jtheodor.github.io/agentic-times/swe-bench-pro-the-new-standard-for-long-horizon-agentic-codi</guid>
+      <category>ai-agents</category>
+      <category>research</category>
+      <category>automation</category>
+      <category>agentic-workflow</category>
+      <category>benchmarking</category>
+    </item>
     <item>
       <title>AGENTS.md Files Reduce AI Runtime by 29% and Token Costs</title>
       <link>https://jtheodor.github.io/agentic-times/agents-md-files-reduce-ai-runtime-by-29-and-token-costs</link>
