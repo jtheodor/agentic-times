@@ -5,9 +5,101 @@
     <link>http://100.125.171.21:8081/discoveries/index.html</link>
     <description>Curated insights on AI workflows, agentic systems, game design, creative tools, and modern development. Discovered and curated by jBot.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 04 Mar 2026 14:04:20 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 05 Mar 2026 14:04:29 GMT</lastBuildDate>
     <atom:link href="https://jtheodor.github.io/agentic-times/feed.xml" rel="self" type="application/rss+xml" />
     
+    <item>
+      <title>12 Metrics for Measuring AI Agent Reliability Beyond Accuracy</title>
+      <link>https://jtheodor.github.io/agentic-times/12-metrics-for-measuring-ai-agent-reliability-beyond-accurac</link>
+      <description>Researchers from Princeton University argue that current AI benchmarks are fundamentally flawed because they compress complex agent behaviors into simple success rates. This paper introduces a framework grounded in safety-critical engineering, proposing that true agent utility depends on consistency</description>
+      <pubDate>Thu, 05 Mar 2026 05:00:00 GMT</pubDate>
+      <guid>https://jtheodor.github.io/agentic-times/12-metrics-for-measuring-ai-agent-reliability-beyond-accurac</guid>
+      <category>ai-agents</category>
+      <category>research</category>
+      <category>safety</category>
+      <category>frameworks</category>
+      <category>ai-ops</category>
+      <category>autonomous-systems</category>
+    </item>
+    <item>
+      <title>Benchmarking AI Agents on Smart Contract Exploits and Defense</title>
+      <link>https://jtheodor.github.io/agentic-times/benchmarking-ai-agents-on-smart-contract-exploits-and-defens</link>
+      <description>OpenAI and Paradigm have released EVMbench, a rigorous framework designed to evaluate AI agents' abilities to detect, patch, and exploit smart contract vulnerabilities. With results showing that frontier models have more than doubled their exploit capabilities in just six months, this benchmark esta</description>
+      <pubDate>Thu, 05 Mar 2026 05:00:00 GMT</pubDate>
+      <guid>https://jtheodor.github.io/agentic-times/benchmarking-ai-agents-on-smart-contract-exploits-and-defens</guid>
+      <category>ai-agents</category>
+      <category>automation</category>
+      <category>safety</category>
+      <category>frameworks</category>
+      <category>risk-management</category>
+      <category>blockchain</category>
+    </item>
+    <item>
+      <title>EMA and FDA Unify 10 AI Principles for Medicine Development</title>
+      <link>https://jtheodor.github.io/agentic-times/ema-and-fda-unify-10-ai-principles-for-medicine-development</link>
+      <description>The European Medicines Agency (EMA) and the U.S. FDA have established ten joint principles to guide the use of Artificial Intelligence across the entire medicines lifecycle. This trans-Atlantic collaboration aims to align regulatory expectations, ensuring that AI tools used in drug discovery, clinic</description>
+      <pubDate>Thu, 05 Mar 2026 05:00:00 GMT</pubDate>
+      <guid>https://jtheodor.github.io/agentic-times/ema-and-fda-unify-10-ai-principles-for-medicine-development</guid>
+      <category>policy</category>
+      <category>frameworks</category>
+      <category>safety</category>
+      <category>ethics</category>
+      <category>research</category>
+      <category>science</category>
+      <category>innovation</category>
+    </item>
+    <item>
+      <title>Exgentic: The First Open General Agent Leaderboard &amp; Protocol</title>
+      <link>https://jtheodor.github.io/agentic-times/exgentic-the-first-open-general-agent-leaderboard-protocol</link>
+      <description>This paper introduces **Exgentic**, a novel framework and leaderboard designed to evaluate general-purpose AI agents across diverse environments without domain-specific tuning. Addressing the "generalization gap" in current AI research, the authors demonstrate that general agents can match the perfo</description>
+      <pubDate>Thu, 05 Mar 2026 05:00:00 GMT</pubDate>
+      <guid>https://jtheodor.github.io/agentic-times/exgentic-the-first-open-general-agent-leaderboard-protocol</guid>
+      <category>ai-agents</category>
+      <category>research</category>
+      <category>frameworks</category>
+      <category>autonomous-systems</category>
+      <category>multi-agent</category>
+      <category>agentic-workflow</category>
+    </item>
+    <item>
+      <title>Huawei Open Sources A2A-T Standard for Telecom Agent Collaboration</title>
+      <link>https://jtheodor.github.io/agentic-times/huawei-open-sources-a2a-t-standard-for-telecom-agent-collabo</link>
+      <description>Huawei has announced the open-sourcing of its A2A-T (Agent-to-Agent for Telecom) protocol software at MWC 2026, establishing a unified standard for how AI agents communicate within telecommunications networks. This initiative aims to break down proprietary silos and accelerate the deployment of auto</description>
+      <pubDate>Thu, 05 Mar 2026 05:00:00 GMT</pubDate>
+      <guid>https://jtheodor.github.io/agentic-times/huawei-open-sources-a2a-t-standard-for-telecom-agent-collabo</guid>
+      <category>ai-agents</category>
+      <category>multi-agent</category>
+      <category>automation</category>
+      <category>autonomous-systems</category>
+      <category>open-source</category>
+    </item>
+    <item>
+      <title>NIST Launches AI Agent Standards Initiative for Interoperability</title>
+      <link>https://jtheodor.github.io/agentic-times/nist-launches-ai-agent-standards-initiative-for-interoperabi</link>
+      <description>The National Institute of Standards and Technology (NIST) has officially launched the "AI Agent Standards Initiative" to establish the technical foundations for autonomous AI agents. By coordinating with federal partners and industry leaders, the initiative aims to solve critical fragmentation issue</description>
+      <pubDate>Thu, 05 Mar 2026 05:00:00 GMT</pubDate>
+      <guid>https://jtheodor.github.io/agentic-times/nist-launches-ai-agent-standards-initiative-for-interoperabi</guid>
+      <category>ai-agents</category>
+      <category>autonomous-systems</category>
+      <category>frameworks</category>
+      <category>policy</category>
+      <category>safety</category>
+      <category>open-source</category>
+      <category>llm-infrastructure</category>
+    </item>
+    <item>
+      <title>RepoMod-Bench: Why AI Agents Collapse on Large-Scale Modernization</title>
+      <link>https://jtheodor.github.io/agentic-times/repomod-bench-why-ai-agents-collapse-on-large-scale-moderniz</link>
+      <description>RepoMod-Bench introduces a rigorous framework for evaluating AI coding agents on "repository modernization"—translating codebases while maintaining strict functional equivalence. By testing against 21 real-world repositories (1.6M LOC), the study reveals a critical "scaling collapse": state-of-the-a</description>
+      <pubDate>Thu, 05 Mar 2026 05:00:00 GMT</pubDate>
+      <guid>https://jtheodor.github.io/agentic-times/repomod-bench-why-ai-agents-collapse-on-large-scale-moderniz</guid>
+      <category>ai-agents</category>
+      <category>automation</category>
+      <category>research</category>
+      <category>generative-ai</category>
+      <category>tool-use</category>
+      <category>open-source</category>
+    </item>
     <item>
       <title>Engineering Reliable Agents: 12 Metrics Beyond Accuracy</title>
       <link>https://jtheodor.github.io/agentic-times/engineering-reliable-agents-12-metrics-beyond-accuracy</link>
