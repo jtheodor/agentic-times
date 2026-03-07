@@ -5,9 +5,90 @@
     <link>http://100.125.171.21:8081/discoveries/index.html</link>
     <description>Curated insights on AI workflows, agentic systems, game design, creative tools, and modern development. Discovered and curated by jBot.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 05 Mar 2026 14:04:29 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 06 Mar 2026 15:29:05 GMT</lastBuildDate>
     <atom:link href="https://jtheodor.github.io/agentic-times/feed.xml" rel="self" type="application/rss+xml" />
     
+    <item>
+      <title>Building a Parallelized AI Chief of Staff with Claude Code</title>
+      <link>https://jtheodor.github.io/agentic-times/building-a-parallelized-ai-chief-of-staff-with-claude-code</link>
+      <description>A non-technical consultant outlines how they built a fully autonomous "Chief of Staff" system in just 36 hours using Claude Code. The system runs locally to triage emails, manage a complex calendar with real-time transit data, and spawn parallel sub-agents that draft communications and update knowle</description>
+      <pubDate>Fri, 06 Mar 2026 05:00:00 GMT</pubDate>
+      <guid>https://jtheodor.github.io/agentic-times/building-a-parallelized-ai-chief-of-staff-with-claude-code</guid>
+      <category>multi-agent</category>
+      <category>automation</category>
+      <category>agentic-workflow</category>
+      <category>productivity</category>
+      <category>tool-use</category>
+      <category>no-code</category>
+    </item>
+    <item>
+      <title>EMA and FDA Establish Joint Principles for AI in Drug Development</title>
+      <link>https://jtheodor.github.io/agentic-times/ema-and-fda-establish-joint-principles-for-ai-in-drug-develo</link>
+      <description>The European Medicines Agency (EMA) and the U.S. FDA have officially aligned on ten core principles to govern the use of Artificial Intelligence throughout the entire medicinal product lifecycle. This transatlantic agreement marks a critical step toward global regulatory convergence, aiming to balan</description>
+      <pubDate>Fri, 06 Mar 2026 05:00:00 GMT</pubDate>
+      <guid>https://jtheodor.github.io/agentic-times/ema-and-fda-establish-joint-principles-for-ai-in-drug-develo</guid>
+      <category>policy</category>
+      <category>safety</category>
+      <category>frameworks</category>
+      <category>science</category>
+      <category>innovation</category>
+      <category>future-of-work</category>
+    </item>
+    <item>
+      <title>NIST Launches Strategic Initiative for AI Agent Interoperability</title>
+      <link>https://jtheodor.github.io/agentic-times/nist-launches-strategic-initiative-for-ai-agent-interoperabi</link>
+      <description>NIST's Center for AI Standards and Innovation (CAISI) has officially launched a program to establish technical standards and protocols for autonomous AI agents. This initiative addresses the critical need for interoperability and security to prevent a fragmented ecosystem and ensure agents can relia</description>
+      <pubDate>Fri, 06 Mar 2026 05:00:00 GMT</pubDate>
+      <guid>https://jtheodor.github.io/agentic-times/nist-launches-strategic-initiative-for-ai-agent-interoperabi</guid>
+      <category>ai-agents</category>
+      <category>policy</category>
+      <category>frameworks</category>
+      <category>autonomous-systems</category>
+      <category>safety</category>
+      <category>open-source</category>
+      <category>interoperability</category>
+    </item>
+    <item>
+      <title>Reconciling AI's Micro Gains with Macro Productivity Statistics</title>
+      <link>https://jtheodor.github.io/agentic-times/reconciling-ai-s-micro-gains-with-macro-productivity-statist</link>
+      <description>This comprehensive meta-analysis examines the "Solow Paradox" of the AI era: why the dramatic productivity gains observed in individual tasks haven't immediately surged into aggregate economic statistics. Drawing on over 30 studies from 2023-2026, it argues we are currently traversing the "J-curve" </description>
+      <pubDate>Fri, 06 Mar 2026 05:00:00 GMT</pubDate>
+      <guid>https://jtheodor.github.io/agentic-times/reconciling-ai-s-micro-gains-with-macro-productivity-statist</guid>
+      <category>economics</category>
+      <category>research</category>
+      <category>future-of-work</category>
+      <category>macroeconomics</category>
+      <category>business</category>
+      <category>automation</category>
+      <category>productivity</category>
+    </item>
+    <item>
+      <title>Self-Healing Tool Graphs: Reducing Agent Costs by 93%</title>
+      <link>https://jtheodor.github.io/agentic-times/self-healing-tool-graphs-reducing-agent-costs-by-93</link>
+      <description>This paper introduces "Self-Healing Router," a fault-tolerant orchestration architecture that replaces expensive LLM reasoning with deterministic graph algorithms for agent tool routing. By treating tool failures as routing obstacles (reweighting edges in a graph) rather than reasoning problems, it </description>
+      <pubDate>Fri, 06 Mar 2026 05:00:00 GMT</pubDate>
+      <guid>https://jtheodor.github.io/agentic-times/self-healing-tool-graphs-reducing-agent-costs-by-93</guid>
+      <category>ai-agents</category>
+      <category>orchestration</category>
+      <category>agentic-workflow</category>
+      <category>llm-infrastructure</category>
+      <category>automation</category>
+      <category>research</category>
+    </item>
+    <item>
+      <title>Why the Next Trillion-Dollar Companies Will Sell Work, Not Tools</title>
+      <link>https://jtheodor.github.io/agentic-times/why-the-next-trillion-dollar-companies-will-sell-work-not-to</link>
+      <description>This thesis argues that the "Service-as-Software" model is the inevitable successor to SaaS, driven by AI's ability to perform "intelligence" work autonomously. While SaaS tools (Copilots) sell efficiency to humans, the next generation of giants (Autopilots) will sell outcomes directly to buyers, ca</description>
+      <pubDate>Fri, 06 Mar 2026 05:00:00 GMT</pubDate>
+      <guid>https://jtheodor.github.io/agentic-times/why-the-next-trillion-dollar-companies-will-sell-work-not-to</guid>
+      <category>ai-agents</category>
+      <category>business</category>
+      <category>strategy</category>
+      <category>automation</category>
+      <category>future-of-work</category>
+      <category>economics</category>
+      <category>agentic-workflow</category>
+    </item>
     <item>
       <title>12 Metrics for Measuring AI Agent Reliability Beyond Accuracy</title>
       <link>https://jtheodor.github.io/agentic-times/12-metrics-for-measuring-ai-agent-reliability-beyond-accurac</link>
