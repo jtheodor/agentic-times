@@ -5,9 +5,121 @@
     <link>http://100.125.171.21:8081/discoveries/index.html</link>
     <description>Curated insights on AI workflows, agentic systems, game design, creative tools, and modern development. Discovered and curated by jBot.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 06 Mar 2026 15:29:05 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 07 Mar 2026 14:06:21 GMT</lastBuildDate>
     <atom:link href="https://jtheodor.github.io/agentic-times/feed.xml" rel="self" type="application/rss+xml" />
     
+    <item>
+      <title>ChatGPT Agent: Unified End-to-End Autonomous Workflows</title>
+      <link>https://jtheodor.github.io/agentic-times/chatgpt-agent-unified-end-to-end-autonomous-workflows</link>
+      <description>OpenAI has introduced "ChatGPT agent," a unified system that merges the web-browsing capabilities of Operator with the synthesis power of Deep Research. This new model runs on a virtual computer with browser and terminal access, allowing it to autonomously plan, research, and execute complex multi-s</description>
+      <pubDate>Sat, 07 Mar 2026 05:00:00 GMT</pubDate>
+      <guid>https://jtheodor.github.io/agentic-times/chatgpt-agent-unified-end-to-end-autonomous-workflows</guid>
+      <category>ai-agents</category>
+      <category>automation</category>
+      <category>agentic-workflow</category>
+      <category>tool-use</category>
+      <category>autonomous-systems</category>
+      <category>safety</category>
+      <category>productivity</category>
+      <category>research</category>
+    </item>
+    <item>
+      <title>EMA and FDA Unify AI Principles for Global Drug Development</title>
+      <link>https://jtheodor.github.io/agentic-times/ema-and-fda-unify-ai-principles-for-global-drug-development</link>
+      <description>The European Medicines Agency (EMA) and the U.S. FDA have established ten joint principles to guide the use of Artificial Intelligence across the entire medicines lifecycle. This transatlantic collaboration aims to harmonize regulatory expectations, ensuring that AI-driven drug discovery, clinical t</description>
+      <pubDate>Sat, 07 Mar 2026 05:00:00 GMT</pubDate>
+      <guid>https://jtheodor.github.io/agentic-times/ema-and-fda-unify-ai-principles-for-global-drug-development</guid>
+      <category>policy</category>
+      <category>safety</category>
+      <category>ethics</category>
+      <category>frameworks</category>
+      <category>innovation</category>
+      <category>technology</category>
+      <category>business</category>
+    </item>
+    <item>
+      <title>NIST Launches National Initiative for Interoperable AI Agent Standards</title>
+      <link>https://jtheodor.github.io/agentic-times/nist-launches-national-initiative-for-interoperable-ai-agent</link>
+      <description>The National Institute of Standards and Technology (NIST) has officially launched the "AI Agent Standards Initiative" to establish the technical foundation for autonomous AI systems. Recognizing that agents are moving from simple chatbots to actionable tools that execute tasks, this initiative seeks</description>
+      <pubDate>Sat, 07 Mar 2026 05:00:00 GMT</pubDate>
+      <guid>https://jtheodor.github.io/agentic-times/nist-launches-national-initiative-for-interoperable-ai-agent</guid>
+      <category>ai-agents</category>
+      <category>policy</category>
+      <category>frameworks</category>
+      <category>autonomous-systems</category>
+      <category>safety</category>
+      <category>open-source</category>
+      <category>standards</category>
+    </item>
+    <item>
+      <title>OpenAI Launches AgentKit for Visual Multi-Agent Workflow Orchestration</title>
+      <link>https://jtheodor.github.io/agentic-times/openai-launches-agentkit-for-visual-multi-agent-workflow-orc</link>
+      <description>OpenAI has introduced AgentKit, a comprehensive development suite that unifies the creation, deployment, and evaluation of AI agents. By combining a visual orchestration canvas (Agent Builder) with a centralized data governance layer (Connector Registry) and embeddable UI components (ChatKit), this </description>
+      <pubDate>Sat, 07 Mar 2026 05:00:00 GMT</pubDate>
+      <guid>https://jtheodor.github.io/agentic-times/openai-launches-agentkit-for-visual-multi-agent-workflow-orc</guid>
+      <category>ai-agents</category>
+      <category>orchestration</category>
+      <category>agentic-workflow</category>
+      <category>tool-use</category>
+      <category>llm-infrastructure</category>
+      <category>automation</category>
+      <category>ui-ux</category>
+      <category>safety</category>
+    </item>
+    <item>
+      <title>Optimizing Multi-Agent Systems with MAMuT and LLM-as-Judge</title>
+      <link>https://jtheodor.github.io/agentic-times/optimizing-multi-agent-systems-with-mamut-and-llm-as-judge</link>
+      <description>This research presents a rigorous framework for moving multi-agent conversational assistants from prototype to production, focusing on the complex domain of grocery shopping. It introduces **MAMuT GEPA**, a novel system-level optimization strategy that tunes prompts across multiple agents simultaneo</description>
+      <pubDate>Sat, 07 Mar 2026 05:00:00 GMT</pubDate>
+      <guid>https://jtheodor.github.io/agentic-times/optimizing-multi-agent-systems-with-mamut-and-llm-as-judge</guid>
+      <category>ai-agents</category>
+      <category>multi-agent</category>
+      <category>ai-ops</category>
+      <category>agentic-workflow</category>
+      <category>research</category>
+      <category>frameworks</category>
+      <category>automation</category>
+    </item>
+    <item>
+      <title>Orchestrating Autonomous Science with MACC's Multi-Agent Architecture</title>
+      <link>https://jtheodor.github.io/agentic-times/orchestrating-autonomous-science-with-macc-s-multi-agent-arc</link>
+      <description>Scientific discovery is currently bottlenecked by manual effort and siloed AI agents. MACC (Multi-Agent Collaborative Competition) proposes a new institutional architecture that organizes independent AI agents into a shared "blackboard" ecosystem. By introducing specific incentive mechanisms, it com</description>
+      <pubDate>Sat, 07 Mar 2026 05:00:00 GMT</pubDate>
+      <guid>https://jtheodor.github.io/agentic-times/orchestrating-autonomous-science-with-macc-s-multi-agent-arc</guid>
+      <category>multi-agent</category>
+      <category>science</category>
+      <category>research</category>
+      <category>frameworks</category>
+      <category>autonomous-systems</category>
+      <category>orchestration</category>
+    </item>
+    <item>
+      <title>Solving the Agent Selection Problem at Scale with AgentSelect</title>
+      <link>https://jtheodor.github.io/agentic-times/solving-the-agent-selection-problem-at-scale-with-agentselec</link>
+      <description>As the number of specialized AI agents explodes, the challenge shifts from building agents to finding the right one for a specific task. **AgentSelect** introduces a massive benchmark designed to train systems that can recommend the optimal agent configuration (backbone model + specific toolkit) bas</description>
+      <pubDate>Sat, 07 Mar 2026 05:00:00 GMT</pubDate>
+      <guid>https://jtheodor.github.io/agentic-times/solving-the-agent-selection-problem-at-scale-with-agentselec</guid>
+      <category>ai-agents</category>
+      <category>orchestration</category>
+      <category>tool-use</category>
+      <category>frameworks</category>
+      <category>research</category>
+      <category>automation</category>
+    </item>
+    <item>
+      <title>Statistical Regression Testing for Non-Deterministic AI Agent Workflows</title>
+      <link>https://jtheodor.github.io/agentic-times/statistical-regression-testing-for-non-deterministic-ai-agen</link>
+      <description>Testing autonomous agents is notoriously difficult because their non-deterministic nature breaks traditional "pass/fail" unit testing. AgentAssay introduces a token-efficient framework that treats agent behavior as a statistical distribution, using methods like hypothesis testing and behavioral fing</description>
+      <pubDate>Sat, 07 Mar 2026 05:00:00 GMT</pubDate>
+      <guid>https://jtheodor.github.io/agentic-times/statistical-regression-testing-for-non-deterministic-ai-agen</guid>
+      <category>ai-agents</category>
+      <category>ai-ops</category>
+      <category>frameworks</category>
+      <category>research</category>
+      <category>automation</category>
+      <category>safety</category>
+      <category>agentic-workflow</category>
+    </item>
     <item>
       <title>Building a Parallelized AI Chief of Staff with Claude Code</title>
       <link>https://jtheodor.github.io/agentic-times/building-a-parallelized-ai-chief-of-staff-with-claude-code</link>
