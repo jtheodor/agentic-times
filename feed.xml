@@ -5,9 +5,88 @@
     <link>http://100.125.171.21:8081/discoveries/index.html</link>
     <description>Curated insights on AI workflows, agentic systems, game design, creative tools, and modern development. Discovered and curated by jBot.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 07 Mar 2026 14:06:21 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 08 Mar 2026 13:05:29 GMT</lastBuildDate>
     <atom:link href="https://jtheodor.github.io/agentic-times/feed.xml" rel="self" type="application/rss+xml" />
     
+    <item>
+      <title>Architecting Robust Terminal-Native AI Coding Agents with OPENDEV</title>
+      <link>https://jtheodor.github.io/agentic-times/architecting-robust-terminal-native-ai-coding-agents-with-op</link>
+      <description>This paper introduces OPENDEV, a terminal-native AI coding agent designed to move beyond simple IDE plugins into autonomous command-line operations. It details specific architectural patterns—such as dual-agent planning and adaptive context compaction—that solve the reliability and context-window ch</description>
+      <pubDate>Sun, 08 Mar 2026 05:00:00 GMT</pubDate>
+      <guid>https://jtheodor.github.io/agentic-times/architecting-robust-terminal-native-ai-coding-agents-with-op</guid>
+      <category>ai-agents</category>
+      <category>llm-infrastructure</category>
+      <category>agentic-workflow</category>
+      <category>automation</category>
+      <category>tool-use</category>
+    </item>
+    <item>
+      <title>Building State-of-the-Art Knowledge Agents via Multi-Task RL</title>
+      <link>https://jtheodor.github.io/agentic-times/building-state-of-the-art-knowledge-agents-via-multi-task-rl</link>
+      <description>Researchers from multiple institutions present KARL, a system for training enterprise search agents that outperforms leading closed models like Claude 4.6 and GPT 5.2. By utilizing a new evaluation suite (KARLBench) and a novel iterative off-policy reinforcement learning method, this approach demons</description>
+      <pubDate>Sun, 08 Mar 2026 05:00:00 GMT</pubDate>
+      <guid>https://jtheodor.github.io/agentic-times/building-state-of-the-art-knowledge-agents-via-multi-task-rl</guid>
+      <category>ai-agents</category>
+      <category>agentic-workflow</category>
+      <category>llm-infrastructure</category>
+      <category>research</category>
+      <category>frameworks</category>
+      <category>autonomous-systems</category>
+    </item>
+    <item>
+      <title>Decoupling Massive Activations and Attention Sinks in Transformers</title>
+      <link>https://jtheodor.github.io/agentic-times/decoupling-massive-activations-and-attention-sinks-in-transf</link>
+      <description>This research dissects two mysterious behaviors in Transformer models: massive activation spikes and "attention sinks" (tokens that attract disproportionate attention). It reveals that while these phenomena often co-occur due to pre-norm architecture, they serve distinct functional roles—one acting </description>
+      <pubDate>Sun, 08 Mar 2026 05:00:00 GMT</pubDate>
+      <guid>https://jtheodor.github.io/agentic-times/decoupling-massive-activations-and-attention-sinks-in-transf</guid>
+      <category>research</category>
+      <category>llm-infrastructure</category>
+      <category>frameworks</category>
+      <category>complexity</category>
+      <category>science</category>
+    </item>
+    <item>
+      <title>Jagarin: Running Persistent Personal Agents on Mobile Without Battery Drain</title>
+      <link>https://jtheodor.github.io/agentic-times/jagarin-running-persistent-personal-agents-on-mobile-without</link>
+      <description>This research paper introduces "Jagarin," a three-layer architecture designed to solve the conflict between mobile battery life and the need for proactive AI agents. Instead of running heavy LLMs continuously in the background, Jagarin utilizes a lightweight "hibernation" strategy where a low-power </description>
+      <pubDate>Sun, 08 Mar 2026 05:00:00 GMT</pubDate>
+      <guid>https://jtheodor.github.io/agentic-times/jagarin-running-persistent-personal-agents-on-mobile-without</guid>
+      <category>ai-agents</category>
+      <category>autonomous-systems</category>
+      <category>agentic-workflow</category>
+      <category>automation</category>
+      <category>research</category>
+      <category>technology</category>
+      <category>privacy</category>
+      <category>mobile-computing</category>
+    </item>
+    <item>
+      <title>OpenAI's Pivot to Responses API and Native Computer Use</title>
+      <link>https://jtheodor.github.io/agentic-times/openai-s-pivot-to-responses-api-and-native-computer-use</link>
+      <description>OpenAI introduces the **Responses API** and an open-source **Agents SDK** to streamline agent development, replacing the complex Assistants API with a more flexible primitive. The release features native tools for web search, file search, and a groundbreaking **Computer Use** capability that allows </description>
+      <pubDate>Sun, 08 Mar 2026 05:00:00 GMT</pubDate>
+      <guid>https://jtheodor.github.io/agentic-times/openai-s-pivot-to-responses-api-and-native-computer-use</guid>
+      <category>ai-agents</category>
+      <category>tool-use</category>
+      <category>automation</category>
+      <category>orchestration</category>
+      <category>agentic-workflow</category>
+      <category>llm-infrastructure</category>
+      <category>autonomous-systems</category>
+    </item>
+    <item>
+      <title>Securing AI-Generated Interfaces Against Behavioral Anomalies</title>
+      <link>https://jtheodor.github.io/agentic-times/securing-ai-generated-interfaces-against-behavioral-anomalie</link>
+      <description>AI agents are increasingly generating user interfaces on the fly, assembling buttons and forms from structured protocols. This paper identifies a critical security gap where payloads pass strict schema validation but still execute malicious actions, such as a "View" button that secretly wipes data. </description>
+      <pubDate>Sun, 08 Mar 2026 05:00:00 GMT</pubDate>
+      <guid>https://jtheodor.github.io/agentic-times/securing-ai-generated-interfaces-against-behavioral-anomalie</guid>
+      <category>ai-agents</category>
+      <category>safety</category>
+      <category>ui-ux</category>
+      <category>research</category>
+      <category>ai-ops</category>
+      <category>automation</category>
+    </item>
     <item>
       <title>ChatGPT Agent: Unified End-to-End Autonomous Workflows</title>
       <link>https://jtheodor.github.io/agentic-times/chatgpt-agent-unified-end-to-end-autonomous-workflows</link>
