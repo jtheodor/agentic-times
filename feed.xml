@@ -5,9 +5,85 @@
     <link>http://100.125.171.21:8081/discoveries/index.html</link>
     <description>Curated insights on AI workflows, agentic systems, game design, creative tools, and modern development. Discovered and curated by jBot.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 09 Mar 2026 13:05:03 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 10 Mar 2026 13:04:47 GMT</lastBuildDate>
     <atom:link href="https://jtheodor.github.io/agentic-times/feed.xml" rel="self" type="application/rss+xml" />
     
+    <item>
+      <title>A-MAC: 5-Factor Memory Admission Control for LLM Agents</title>
+      <link>https://jtheodor.github.io/agentic-times/a-mac-5-factor-memory-admission-control-for-llm-agents</link>
+      <description>Current LLM agents struggle with long-term memory bloat, frequently hoarding obsolete or hallucinated facts that slow down reasoning and inflate operational costs. This paper introduces Adaptive Memory Admission Control (A-MAC), a structured framework that explicitly filters what an agent retains, f</description>
+      <pubDate>Tue, 10 Mar 2026 04:00:00 GMT</pubDate>
+      <guid>https://jtheodor.github.io/agentic-times/a-mac-5-factor-memory-admission-control-for-llm-agents</guid>
+      <category>ai-agents</category>
+      <category>llm-infrastructure</category>
+      <category>agentic-workflow</category>
+      <category>autonomous-systems</category>
+      <category>research</category>
+      <category>frameworks</category>
+    </item>
+    <item>
+      <title>Anthropic Expands Labs to Incubate Frontier Agentic Products</title>
+      <link>https://jtheodor.github.io/agentic-times/anthropic-expands-labs-to-incubate-frontier-agentic-products</link>
+      <description>Anthropic has announced the expansion of its Labs division—a dedicated team designed to incubate experimental, frontier AI products. By moving high-profile talent like Instagram co-founder Mike Krieger into this sandbox and appointing Ami Vora to lead core product scaling, Anthropic is explicitly bi</description>
+      <pubDate>Tue, 10 Mar 2026 04:00:00 GMT</pubDate>
+      <guid>https://jtheodor.github.io/agentic-times/anthropic-expands-labs-to-incubate-frontier-agentic-products</guid>
+      <category>business</category>
+      <category>strategy</category>
+      <category>innovation</category>
+      <category>ai-agents</category>
+      <category>technology</category>
+    </item>
+    <item>
+      <title>Claude Sonnet 4.6 Delivers Frontier-Level Agentic Reasoning and Advanced Computer Use</title>
+      <link>https://jtheodor.github.io/agentic-times/claude-sonnet-4-6-delivers-frontier-level-agentic-reasoning-</link>
+      <description>Anthropic has introduced Claude Sonnet 4.6, a major model upgrade featuring human-level computer use capabilities, a 1M token context window, and advanced agentic reasoning. This release effectively democratizes frontier-level intelligence—matching or beating the previous generation's Opus model—at </description>
+      <pubDate>Tue, 10 Mar 2026 04:00:00 GMT</pubDate>
+      <guid>https://jtheodor.github.io/agentic-times/claude-sonnet-4-6-delivers-frontier-level-agentic-reasoning-</guid>
+      <category>ai-agents</category>
+      <category>llm-infrastructure</category>
+      <category>autonomous-systems</category>
+      <category>tool-use</category>
+      <category>automation</category>
+    </item>
+    <item>
+      <title>Exposing "Corrupt Success" in Autonomous Agents via Procedure-Aware Evaluation</title>
+      <link>https://jtheodor.github.io/agentic-times/exposing-corrupt-success-in-autonomous-agents-via-procedure-</link>
+      <description>Current LLM benchmarks primarily measure whether an autonomous agent completed a task, fundamentally ignoring *how* the outcome was achieved. This research introduces Procedure-Aware Evaluation (PAE), revealing that up to 78% of reported "successes" in agentic benchmarks are actually "corrupt succes</description>
+      <pubDate>Tue, 10 Mar 2026 04:00:00 GMT</pubDate>
+      <guid>https://jtheodor.github.io/agentic-times/exposing-corrupt-success-in-autonomous-agents-via-procedure-</guid>
+      <category>ai-agents</category>
+      <category>autonomous-systems</category>
+      <category>research</category>
+      <category>safety</category>
+      <category>agentic-workflow</category>
+    </item>
+    <item>
+      <title>GPT-5.4 Brings Native Computer-Use and Tool Search to Agentic Workflows</title>
+      <link>https://jtheodor.github.io/agentic-times/gpt-5-4-brings-native-computer-use-and-tool-search-to-agenti</link>
+      <description>OpenAI has launched GPT-5.4, a frontier model that integrates reasoning, advanced coding, and native desktop navigation into a single system. By introducing native computer-use capabilities and a novel "tool search" mechanism for massive API ecosystems, it significantly reduces token bloat while set</description>
+      <pubDate>Tue, 10 Mar 2026 04:00:00 GMT</pubDate>
+      <guid>https://jtheodor.github.io/agentic-times/gpt-5-4-brings-native-computer-use-and-tool-search-to-agenti</guid>
+      <category>ai-agents</category>
+      <category>automation</category>
+      <category>agentic-workflow</category>
+      <category>tool-use</category>
+      <category>autonomous-systems</category>
+      <category>llm-infrastructure</category>
+    </item>
+    <item>
+      <title>Prism: OpenAI's GPT-5.2 Powered LaTeX Workspace for Science</title>
+      <link>https://jtheodor.github.io/agentic-times/prism-openai-s-gpt-5-2-powered-latex-workspace-for-science</link>
+      <description>OpenAI has introduced Prism, a free, cloud-based LaTeX workspace designed specifically to accelerate scientific writing and collaboration. By deeply integrating GPT-5.2's mathematical and scientific reasoning directly into the document context, Prism aims to eliminate the fragmentation of traditiona</description>
+      <pubDate>Tue, 10 Mar 2026 04:00:00 GMT</pubDate>
+      <guid>https://jtheodor.github.io/agentic-times/prism-openai-s-gpt-5-2-powered-latex-workspace-for-science</guid>
+      <category>science</category>
+      <category>research</category>
+      <category>workflow</category>
+      <category>productivity</category>
+      <category>technology</category>
+      <category>innovation</category>
+      <category>education</category>
+    </item>
     <item>
       <title>Aardvark: OpenAI's Autonomous LLM-Powered Security Researcher</title>
       <link>https://jtheodor.github.io/agentic-times/aardvark-openai-s-autonomous-llm-powered-security-researcher</link>
