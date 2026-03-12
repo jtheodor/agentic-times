@@ -5,9 +5,110 @@
     <link>http://100.125.171.21:8081/discoveries/index.html</link>
     <description>Curated insights on AI workflows, agentic systems, game design, creative tools, and modern development. Discovered and curated by jBot.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 10 Mar 2026 13:04:47 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 11 Mar 2026 13:04:26 GMT</lastBuildDate>
     <atom:link href="https://jtheodor.github.io/agentic-times/feed.xml" rel="self" type="application/rss+xml" />
     
+    <item>
+      <title>12 New Metrics for Evaluating AI Agent Reliability</title>
+      <link>https://jtheodor.github.io/agentic-times/12-new-metrics-for-evaluating-ai-agent-reliability</link>
+      <description>Despite rising accuracy scores on standard benchmarks, AI agents frequently fail in real-world deployments due to hidden operational flaws. This research paper introduces twelve concrete metrics across four dimensions—consistency, robustness, predictability, and safety—to provide a holistic performa</description>
+      <pubDate>Wed, 11 Mar 2026 04:00:00 GMT</pubDate>
+      <guid>https://jtheodor.github.io/agentic-times/12-new-metrics-for-evaluating-ai-agent-reliability</guid>
+      <category>ai-agents</category>
+      <category>research</category>
+      <category>autonomous-systems</category>
+      <category>safety</category>
+      <category>frameworks</category>
+      <category>ai-ops</category>
+    </item>
+    <item>
+      <title>Autonomous Vulnerability Discovery and Patching with Aardvark</title>
+      <link>https://jtheodor.github.io/agentic-times/autonomous-vulnerability-discovery-and-patching-with-aardvar</link>
+      <description>Aardvark (recently integrated as Codex Security) is a GPT-5-powered autonomous agent that acts as a continuous security researcher for codebases. Instead of relying on static analysis, it actively reads code, builds threat models, validates exploits in sandboxed environments, and generates patches, </description>
+      <pubDate>Wed, 11 Mar 2026 04:00:00 GMT</pubDate>
+      <guid>https://jtheodor.github.io/agentic-times/autonomous-vulnerability-discovery-and-patching-with-aardvar</guid>
+      <category>ai-agents</category>
+      <category>autonomous-systems</category>
+      <category>agentic-workflow</category>
+      <category>automation</category>
+      <category>risk-management</category>
+      <category>cybersecurity</category>
+    </item>
+    <item>
+      <title>Benchmarking AI Agents in Adversarial Financial Markets</title>
+      <link>https://jtheodor.github.io/agentic-times/benchmarking-ai-agents-in-adversarial-financial-markets</link>
+      <description>TraderBench is a new evaluation framework that tests AI agents in dynamic, adversarial financial markets rather than relying on static tasks or subjective LLM judges. The benchmark reveals a critical insight for the current wave of AI: while "extended thinking" models dramatically improve at knowled</description>
+      <pubDate>Wed, 11 Mar 2026 04:00:00 GMT</pubDate>
+      <guid>https://jtheodor.github.io/agentic-times/benchmarking-ai-agents-in-adversarial-financial-markets</guid>
+      <category>ai-agents</category>
+      <category>autonomous-systems</category>
+      <category>research</category>
+      <category>investing</category>
+      <category>risk-management</category>
+    </item>
+    <item>
+      <title>Building the Google I/O 2026 Games with Agentic AI</title>
+      <link>https://jtheodor.github.io/agentic-times/building-the-google-i-o-2026-games-with-agentic-ai</link>
+      <description>Google's developer team shares the behind-the-scenes process of building the 2026 I/O "Save the Date" puzzle games using Gemini models and their agentic environment, Google Antigravity. The postmortem demonstrates how AI can empower the entire game development cycle, from rapidly generating foundati</description>
+      <pubDate>Wed, 11 Mar 2026 04:00:00 GMT</pubDate>
+      <guid>https://jtheodor.github.io/agentic-times/building-the-google-i-o-2026-games-with-agentic-ai</guid>
+      <category>game-design</category>
+      <category>level-design</category>
+      <category>mechanics</category>
+      <category>ai-agents</category>
+      <category>agentic-workflow</category>
+      <category>generative-ai</category>
+      <category>workflow</category>
+    </item>
+    <item>
+      <title>Claude Opus 4.6: Agent Teams, Adaptive Thinking, and 1M-Token Context</title>
+      <link>https://jtheodor.github.io/agentic-times/claude-opus-4-6-agent-teams-adaptive-thinking-and-1m-token-c</link>
+      <description>Anthropic’s Claude Opus 4.6 introduces a 1M-token context window, adaptive thinking capabilities, and native multi-agent coordination. This release sets a new benchmark for autonomous coding, deep reasoning across massive codebases, and long-horizon tasks without succumbing to traditional context ro</description>
+      <pubDate>Wed, 11 Mar 2026 04:00:00 GMT</pubDate>
+      <guid>https://jtheodor.github.io/agentic-times/claude-opus-4-6-agent-teams-adaptive-thinking-and-1m-token-c</guid>
+      <category>ai-agents</category>
+      <category>multi-agent</category>
+      <category>llm-infrastructure</category>
+      <category>agentic-workflow</category>
+      <category>autonomous-systems</category>
+    </item>
+    <item>
+      <title>Native Computer Use and Dynamic Tool Search in GPT-5.4</title>
+      <link>https://jtheodor.github.io/agentic-times/native-computer-use-and-dynamic-tool-search-in-gpt-5-4</link>
+      <description>OpenAI has released GPT-5.4, a frontier model specifically designed for professional work, featuring state-of-the-art native computer-use APIs. It drastically improves large-scale agentic workflows with a new "tool search" feature to manage massive tool ecosystems efficiently, alongside transparent </description>
+      <pubDate>Wed, 11 Mar 2026 04:00:00 GMT</pubDate>
+      <guid>https://jtheodor.github.io/agentic-times/native-computer-use-and-dynamic-tool-search-in-gpt-5-4</guid>
+      <category>ai-agents</category>
+      <category>automation</category>
+      <category>tool-use</category>
+      <category>agentic-workflow</category>
+      <category>llm-infrastructure</category>
+      <category>autonomous-systems</category>
+    </item>
+    <item>
+      <title>Scaling Enterprise AI: OpenAI's New Channel for Operational Strategy</title>
+      <link>https://jtheodor.github.io/agentic-times/scaling-enterprise-ai-openai-s-new-channel-for-operational-s</link>
+      <description>OpenAI is launching the "Adoption" news channel, a business blog focused on the practical realities of integrating AI into enterprise operations. Recognizing that the bottleneck to AI value is no longer technical capability but operational execution, the channel provides frameworks and insights for </description>
+      <pubDate>Wed, 11 Mar 2026 04:00:00 GMT</pubDate>
+      <guid>https://jtheodor.github.io/agentic-times/scaling-enterprise-ai-openai-s-new-channel-for-operational-s</guid>
+      <category>future-of-work</category>
+      <category>strategy</category>
+      <category>business</category>
+      <category>frameworks</category>
+      <category>economics</category>
+    </item>
+    <item>
+      <title>Teaching Claude Judgment: Anthropic's Context-Driven AI Constitution</title>
+      <link>https://jtheodor.github.io/agentic-times/teaching-claude-judgment-anthropic-s-context-driven-ai-const</link>
+      <description>Anthropic has released a completely redesigned constitution for its Claude AI models, moving away from standalone rules toward explainable, context-driven values. This marks a critical shift in AI alignment strategy: rather than enforcing rigid, easily broken guardrails, the framework teaches the AI</description>
+      <pubDate>Wed, 11 Mar 2026 04:00:00 GMT</pubDate>
+      <guid>https://jtheodor.github.io/agentic-times/teaching-claude-judgment-anthropic-s-context-driven-ai-const</guid>
+      <category>safety</category>
+      <category>ethics</category>
+      <category>frameworks</category>
+      <category>policy</category>
+      <category>ai-literacy</category>
+    </item>
     <item>
       <title>A-MAC: 5-Factor Memory Admission Control for LLM Agents</title>
       <link>https://jtheodor.github.io/agentic-times/a-mac-5-factor-memory-admission-control-for-llm-agents</link>
