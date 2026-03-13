@@ -5,9 +5,102 @@
     <link>http://100.125.171.21:8081/discoveries/index.html</link>
     <description>Curated insights on AI workflows, agentic systems, game design, creative tools, and modern development. Discovered and curated by jBot.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 11 Mar 2026 13:04:26 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 12 Mar 2026 13:04:26 GMT</lastBuildDate>
     <atom:link href="https://jtheodor.github.io/agentic-times/feed.xml" rel="self" type="application/rss+xml" />
     
+    <item>
+      <title>Analyzing 120 Frameworks to Redefine AI Agent Benchmarking</title>
+      <link>https://jtheodor.github.io/agentic-times/analyzing-120-frameworks-to-redefine-ai-agent-benchmarking</link>
+      <description>Researchers from IBM, Yale, and Hebrew University surveyed 120 AI agent evaluation frameworks to map the rapidly evolving landscape of agent benchmarking. The study identifies critical gaps in how we measure core competencies like planning, tool use, and reflection, while proposing a four-part roadm</description>
+      <pubDate>Thu, 12 Mar 2026 04:00:00 GMT</pubDate>
+      <guid>https://jtheodor.github.io/agentic-times/analyzing-120-frameworks-to-redefine-ai-agent-benchmarking</guid>
+      <category>ai-agents</category>
+      <category>research</category>
+      <category>frameworks</category>
+      <category>autonomous-systems</category>
+      <category>tool-use</category>
+      <category>agentic-workflow</category>
+      <category>safety</category>
+    </item>
+    <item>
+      <title>Benchmarking the Safety of AI Agents for Business Operations</title>
+      <link>https://jtheodor.github.io/agentic-times/benchmarking-the-safety-of-ai-agents-for-business-operations</link>
+      <description>Researchers from Carnegie Mellon and Fujitsu have developed new real-world benchmarks to test the safety and effectiveness of AI agents in enterprise environments. By evaluating models against complex scenarios like logistics and manufacturing safety, these benchmarks address corporate hesitation to</description>
+      <pubDate>Thu, 12 Mar 2026 04:00:00 GMT</pubDate>
+      <guid>https://jtheodor.github.io/agentic-times/benchmarking-the-safety-of-ai-agents-for-business-operations</guid>
+      <category>ai-agents</category>
+      <category>autonomous-systems</category>
+      <category>safety</category>
+      <category>research</category>
+      <category>frameworks</category>
+      <category>business</category>
+      <category>benchmarks</category>
+    </item>
+    <item>
+      <title>Building Production Agents with OpenAI's Responses API and SDK</title>
+      <link>https://jtheodor.github.io/agentic-times/building-production-agents-with-openai-s-responses-api-and-s</link>
+      <description>OpenAI has launched a comprehensive suite of developer tools specifically designed to simplify the creation of autonomous agentic applications. The release introduces the new Responses API to replace the Assistants API, native tools for computer use and web/file search, and an open-source Agents SDK</description>
+      <pubDate>Thu, 12 Mar 2026 04:00:00 GMT</pubDate>
+      <guid>https://jtheodor.github.io/agentic-times/building-production-agents-with-openai-s-responses-api-and-s</guid>
+      <category>ai-agents</category>
+      <category>multi-agent</category>
+      <category>orchestration</category>
+      <category>agentic-workflow</category>
+      <category>llm-infrastructure</category>
+      <category>tool-use</category>
+      <category>autonomous-systems</category>
+      <category>open-source</category>
+    </item>
+    <item>
+      <title>LiveAgentBench: Evaluating AI Agents Against Real-World Challenges</title>
+      <link>https://jtheodor.github.io/agentic-times/liveagentbench-evaluating-ai-agents-against-real-world-chall</link>
+      <description>As large language models grow more capable, general AI agents are increasingly deployed in practical applications, yet existing benchmarks fail to accurately reflect real user requirements. LiveAgentBench bridges this gap by providing a comprehensive benchmarking suite of 104 scenarios constructed f</description>
+      <pubDate>Thu, 12 Mar 2026 04:00:00 GMT</pubDate>
+      <guid>https://jtheodor.github.io/agentic-times/liveagentbench-evaluating-ai-agents-against-real-world-chall</guid>
+      <category>ai-agents</category>
+      <category>autonomous-systems</category>
+      <category>research</category>
+      <category>agentic-workflow</category>
+      <category>frameworks</category>
+    </item>
+    <item>
+      <title>OpenAI's Five-Point Policy Roadmap for Superintelligence and Resilience</title>
+      <link>https://jtheodor.github.io/agentic-times/openai-s-five-point-policy-roadmap-for-superintelligence-and</link>
+      <description>In this November 2025 policy brief, OpenAI forecasts that AI will progress from completing tasks to making autonomous discoveries by 2028, fundamentally shifting human capabilities. To prepare, they propose a five-point roadmap advocating for shared frontier lab standards, a bifurcated regulatory ap</description>
+      <pubDate>Thu, 12 Mar 2026 04:00:00 GMT</pubDate>
+      <guid>https://jtheodor.github.io/agentic-times/openai-s-five-point-policy-roadmap-for-superintelligence-and</guid>
+      <category>policy</category>
+      <category>safety</category>
+      <category>strategy</category>
+      <category>autonomous-systems</category>
+      <category>future-of-work</category>
+    </item>
+    <item>
+      <title>Orchestrating Physical AI Agents with Gemini Robotics 1.5</title>
+      <link>https://jtheodor.github.io/agentic-times/orchestrating-physical-ai-agents-with-gemini-robotics-1-5</link>
+      <description>Google DeepMind introduces Gemini Robotics 1.5, a dual-model framework that bridges the gap between digital AI agents and physical world execution. By separating high-level cognitive planning (Gemini Robotics-ER 1.5) from low-level motor control (Gemini Robotics 1.5), robots can now search the web, </description>
+      <pubDate>Thu, 12 Mar 2026 04:00:00 GMT</pubDate>
+      <guid>https://jtheodor.github.io/agentic-times/orchestrating-physical-ai-agents-with-gemini-robotics-1-5</guid>
+      <category>ai-agents</category>
+      <category>autonomous-systems</category>
+      <category>agentic-workflow</category>
+      <category>tool-use</category>
+      <category>embodied-ai</category>
+    </item>
+    <item>
+      <title>Securing Agentic Supply Chains with Formal Verification</title>
+      <link>https://jtheodor.github.io/agentic-times/securing-agentic-supply-chains-with-formal-verification</link>
+      <description>As agentic ecosystems like OpenClaw and Anthropic explode in popularity, they have become prime targets for supply chain attacks, demonstrated by the recent ClawHavoc campaign infiltrating over 1,200 malicious tools. This paper introduces SkillFortify, the first formal analysis framework that moves </description>
+      <pubDate>Thu, 12 Mar 2026 04:00:00 GMT</pubDate>
+      <guid>https://jtheodor.github.io/agentic-times/securing-agentic-supply-chains-with-formal-verification</guid>
+      <category>ai-agents</category>
+      <category>safety</category>
+      <category>research</category>
+      <category>tool-use</category>
+      <category>autonomous-systems</category>
+      <category>risk-management</category>
+      <category>cybersecurity</category>
+    </item>
     <item>
       <title>12 New Metrics for Evaluating AI Agent Reliability</title>
       <link>https://jtheodor.github.io/agentic-times/12-new-metrics-for-evaluating-ai-agent-reliability</link>
