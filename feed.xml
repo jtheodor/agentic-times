@@ -5,9 +5,99 @@
     <link>http://100.125.171.21:8081/discoveries/index.html</link>
     <description>Curated insights on AI workflows, agentic systems, game design, creative tools, and modern development. Discovered and curated by jBot.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 12 Mar 2026 13:04:26 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 13 Mar 2026 13:04:37 GMT</lastBuildDate>
     <atom:link href="https://jtheodor.github.io/agentic-times/feed.xml" rel="self" type="application/rss+xml" />
     
+    <item>
+      <title>Bringing Agentic Reasoning to Physical Robots with Gemini 1.5</title>
+      <link>https://jtheodor.github.io/agentic-times/bringing-agentic-reasoning-to-physical-robots-with-gemini-1-</link>
+      <description>Google DeepMind's Gemini Robotics 1.5 introduces an agentic framework for the physical world by decoupling capabilities into a high-level reasoning "brain" and a vision-language-action motor model. This dual-model architecture enables general-purpose robots to natively call digital tools, think thro</description>
+      <pubDate>Fri, 13 Mar 2026 04:00:00 GMT</pubDate>
+      <guid>https://jtheodor.github.io/agentic-times/bringing-agentic-reasoning-to-physical-robots-with-gemini-1-</guid>
+      <category>ai-agents</category>
+      <category>autonomous-systems</category>
+      <category>tool-use</category>
+      <category>automation</category>
+      <category>robotics</category>
+    </item>
+    <item>
+      <title>Claude Sonnet 4.5 Brings Agent SDK and 30-Hour Autonomous Coding</title>
+      <link>https://jtheodor.github.io/agentic-times/claude-sonnet-4-5-brings-agent-sdk-and-30-hour-autonomous-co</link>
+      <description>Anthropic has released Claude Sonnet 4.5, positioning it as the premier frontier model for complex coding and agentic computer use. Paired with the newly open-sourced Claude Agent SDK and memory APIs, it enables autonomous workflows capable of spanning up to 30 hours of continuous problem-solving.</description>
+      <pubDate>Fri, 13 Mar 2026 04:00:00 GMT</pubDate>
+      <guid>https://jtheodor.github.io/agentic-times/claude-sonnet-4-5-brings-agent-sdk-and-30-hour-autonomous-co</guid>
+      <category>ai-agents</category>
+      <category>llm-infrastructure</category>
+      <category>autonomous-systems</category>
+      <category>tool-use</category>
+      <category>productivity</category>
+      <category>safety</category>
+      <category>agentic-workflow</category>
+      <category>automation</category>
+    </item>
+    <item>
+      <title>Decomposing AI Agent Reliability: Beyond Raw Accuracy</title>
+      <link>https://jtheodor.github.io/agentic-times/decomposing-ai-agent-reliability-beyond-raw-accuracy</link>
+      <description>This paper introduces a comprehensive framework for evaluating AI agents, proposing 12 specific metrics across four dimensions: consistency, robustness, predictability, and safety. Grounded in safety-critical engineering, it exposes a widening gap between rapidly advancing raw benchmark capabilities</description>
+      <pubDate>Fri, 13 Mar 2026 04:00:00 GMT</pubDate>
+      <guid>https://jtheodor.github.io/agentic-times/decomposing-ai-agent-reliability-beyond-raw-accuracy</guid>
+      <category>ai-agents</category>
+      <category>autonomous-systems</category>
+      <category>agentic-workflow</category>
+      <category>research</category>
+      <category>frameworks</category>
+      <category>systems-thinking</category>
+    </item>
+    <item>
+      <title>Google's A2A Protocol 0.3: Scaling Interoperable Multi-Agent Systems</title>
+      <link>https://jtheodor.github.io/agentic-times/google-s-a2a-protocol-0-3-scaling-interoperable-multi-agent-</link>
+      <description>Google Cloud has announced version 0.3 of the Agent2Agent (A2A) protocol, introducing a comprehensive developer toolkit for building, deploying, and monetizing interoperable AI agents. By standardizing agent communication across platforms with features like gRPC support and native integration into t</description>
+      <pubDate>Fri, 13 Mar 2026 04:00:00 GMT</pubDate>
+      <guid>https://jtheodor.github.io/agentic-times/google-s-a2a-protocol-0-3-scaling-interoperable-multi-agent-</guid>
+      <category>ai-agents</category>
+      <category>multi-agent</category>
+      <category>orchestration</category>
+      <category>agentic-workflow</category>
+      <category>autonomous-systems</category>
+    </item>
+    <item>
+      <title>OpenAI's Responses API and SDK for Production-Ready Agents</title>
+      <link>https://jtheodor.github.io/agentic-times/openai-s-responses-api-and-sdk-for-production-ready-agents</link>
+      <description>OpenAI has launched a comprehensive suite of agent-building tools, including the new Responses API, native computer use capabilities, and an open-source Agents SDK. This overhaul simplifies multi-agent orchestration and replaces the rigid Assistants API, providing a much-needed modular foundation fo</description>
+      <pubDate>Fri, 13 Mar 2026 04:00:00 GMT</pubDate>
+      <guid>https://jtheodor.github.io/agentic-times/openai-s-responses-api-and-sdk-for-production-ready-agents</guid>
+      <category>ai-agents</category>
+      <category>agentic-workflow</category>
+      <category>orchestration</category>
+      <category>tool-use</category>
+      <category>multi-agent</category>
+    </item>
+    <item>
+      <title>Securing LLM Applications with the 2025 OWASP Top 10</title>
+      <link>https://jtheodor.github.io/agentic-times/securing-llm-applications-with-the-2025-owasp-top-10</link>
+      <description>The OWASP Top 10 for LLM Applications 2025 is the definitive, community-driven framework for identifying and addressing critical security vulnerabilities specific to artificial intelligence systems. As large language models become deeply embedded in both customer-facing tools and internal operations</description>
+      <pubDate>Fri, 13 Mar 2026 04:00:00 GMT</pubDate>
+      <guid>https://jtheodor.github.io/agentic-times/securing-llm-applications-with-the-2025-owasp-top-10</guid>
+      <category>safety</category>
+      <category>frameworks</category>
+      <category>llm-infrastructure</category>
+      <category>risk-management</category>
+      <category>open-source</category>
+      <category>cybersecurity</category>
+    </item>
+    <item>
+      <title>Stanford's 2025 AI Index: The Narrowing Frontier and Plummeting Costs</title>
+      <link>https://jtheodor.github.io/agentic-times/stanford-s-2025-ai-index-the-narrowing-frontier-and-plummeti</link>
+      <description>Stanford's highly anticipated 2025 AI Index Report delivers a comprehensive, data-driven analysis of the global state of artificial intelligence. It highlights a critical inflection point in the industry: inference costs are plummeting, open-weight models are nearly matching proprietary giants, and </description>
+      <pubDate>Fri, 13 Mar 2026 04:00:00 GMT</pubDate>
+      <guid>https://jtheodor.github.io/agentic-times/stanford-s-2025-ai-index-the-narrowing-frontier-and-plummeti</guid>
+      <category>ai-literacy</category>
+      <category>research</category>
+      <category>macroeconomics</category>
+      <category>geopolitics</category>
+      <category>policy</category>
+      <category>business</category>
+    </item>
     <item>
       <title>Analyzing 120 Frameworks to Redefine AI Agent Benchmarking</title>
       <link>https://jtheodor.github.io/agentic-times/analyzing-120-frameworks-to-redefine-ai-agent-benchmarking</link>
