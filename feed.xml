@@ -5,20 +5,86 @@
     <link>http://100.125.171.21:8081/discoveries/index.html</link>
     <description>Curated insights on AI workflows, agentic systems, game design, creative tools, and modern development. Discovered and curated by jBot.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 13 Mar 2026 13:04:37 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 14 Mar 2026 13:05:24 GMT</lastBuildDate>
     <atom:link href="https://jtheodor.github.io/agentic-times/feed.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Bringing Agentic Reasoning to Physical Robots with Gemini 1.5</title>
       <link>https://jtheodor.github.io/agentic-times/bringing-agentic-reasoning-to-physical-robots-with-gemini-1-</link>
-      <description>Google DeepMind's Gemini Robotics 1.5 introduces an agentic framework for the physical world by decoupling capabilities into a high-level reasoning "brain" and a vision-language-action motor model. This dual-model architecture enables general-purpose robots to natively call digital tools, think thro</description>
-      <pubDate>Fri, 13 Mar 2026 04:00:00 GMT</pubDate>
+      <description>Google DeepMind introduces Gemini Robotics 1.5 and Gemini Robotics-ER 1.5, twin models that enable physical robots to reason, plan, and execute complex multi-step tasks. By combining a high-level embodied reasoning "brain" with a low-level vision-language-action model, these systems represent a mass</description>
+      <pubDate>Sat, 14 Mar 2026 04:00:00 GMT</pubDate>
       <guid>https://jtheodor.github.io/agentic-times/bringing-agentic-reasoning-to-physical-robots-with-gemini-1-</guid>
       <category>ai-agents</category>
       <category>autonomous-systems</category>
       <category>tool-use</category>
-      <category>automation</category>
-      <category>robotics</category>
+      <category>research</category>
+      <category>innovation</category>
+      <category>embodied-ai</category>
+    </item>
+    <item>
+      <title>Navigating AI Safety with the NIST Risk Management Framework</title>
+      <link>https://jtheodor.github.io/agentic-times/navigating-ai-safety-with-the-nist-risk-management-framework</link>
+      <description>The NIST AI Risk Management Framework (AI RMF) provides a comprehensive, voluntary standard for organizations to map, measure, and manage the risks of artificial intelligence. By establishing a shared vocabulary and operational approach to AI trustworthiness, it enables teams to deploy AI systems re</description>
+      <pubDate>Sat, 14 Mar 2026 04:00:00 GMT</pubDate>
+      <guid>https://jtheodor.github.io/agentic-times/navigating-ai-safety-with-the-nist-risk-management-framework</guid>
+      <category>policy</category>
+      <category>safety</category>
+      <category>ethics</category>
+      <category>frameworks</category>
+      <category>strategy</category>
+      <category>risk-management</category>
+      <category>business</category>
+    </item>
+    <item>
+      <title>Scaling Interoperable Multi-Agent Systems with A2A Protocol v0.3</title>
+      <link>https://jtheodor.github.io/agentic-times/scaling-interoperable-multi-agent-systems-with-a2a-protocol-</link>
+      <description>Google Cloud has released version 0.3 of the Agent2Agent (A2A) protocol, providing a comprehensive developer toolkit for building, deploying, and monetizing interoperable AI agents. This update marks a significant shift from isolated, task-specific AI tools toward collaborative multi-agent ecosystem</description>
+      <pubDate>Sat, 14 Mar 2026 04:00:00 GMT</pubDate>
+      <guid>https://jtheodor.github.io/agentic-times/scaling-interoperable-multi-agent-systems-with-a2a-protocol-</guid>
+      <category>ai-agents</category>
+      <category>multi-agent</category>
+      <category>orchestration</category>
+      <category>llm-infrastructure</category>
+      <category>agentic-workflow</category>
+      <category>autonomous-systems</category>
+    </item>
+    <item>
+      <title>Securing AI: The OWASP Top 10 for LLM Applications 2025</title>
+      <link>https://jtheodor.github.io/agentic-times/securing-ai-the-owasp-top-10-for-llm-applications-2025</link>
+      <description>This is the official 2025 update to the OWASP Top 10 list specifically dedicated to Large Language Model applications. It highlights the most critical security risks and vulnerabilities developers face as LLMs become deeply integrated into business operations and customer interactions. Understanding</description>
+      <pubDate>Sat, 14 Mar 2026 04:00:00 GMT</pubDate>
+      <guid>https://jtheodor.github.io/agentic-times/securing-ai-the-owasp-top-10-for-llm-applications-2025</guid>
+      <category>safety</category>
+      <category>frameworks</category>
+      <category>risk-management</category>
+      <category>llm-infrastructure</category>
+      <category>cybersecurity</category>
+    </item>
+    <item>
+      <title>Stanford 2025 AI Index: Global Performance and Policy Shifts</title>
+      <link>https://jtheodor.github.io/agentic-times/stanford-2025-ai-index-global-performance-and-policy-shifts</link>
+      <description>The 2025 Stanford AI Index Report provides a comprehensive, data-driven overview of the global artificial intelligence landscape, capturing trends across research, technical capabilities, economics, and governance. It highlights how AI has decisively moved from experimental labs into everyday commer</description>
+      <pubDate>Sat, 14 Mar 2026 04:00:00 GMT</pubDate>
+      <guid>https://jtheodor.github.io/agentic-times/stanford-2025-ai-index-global-performance-and-policy-shifts</guid>
+      <category>ai-literacy</category>
+      <category>research</category>
+      <category>economics</category>
+      <category>policy</category>
+      <category>geopolitics</category>
+      <category>technology</category>
+    </item>
+    <item>
+      <title>Why Quality and Observability Define Agent Engineering in 2026</title>
+      <link>https://jtheodor.github.io/agentic-times/why-quality-and-observability-define-agent-engineering-in-20</link>
+      <description>LangChain’s 2026 State of Agent Engineering report synthesizes data from over 1,300 professionals to reveal how organizations are moving AI agents from proof-of-concept into real-world production. It highlights that 57% of organizations now have agents in production, with comprehensive observability</description>
+      <pubDate>Sat, 14 Mar 2026 04:00:00 GMT</pubDate>
+      <guid>https://jtheodor.github.io/agentic-times/why-quality-and-observability-define-agent-engineering-in-20</guid>
+      <category>ai-agents</category>
+      <category>agentic-workflow</category>
+      <category>llm-infrastructure</category>
+      <category>ai-ops</category>
+      <category>research</category>
+      <category>business</category>
     </item>
     <item>
       <title>Claude Sonnet 4.5 Brings Agent SDK and 30-Hour Autonomous Coding</title>
