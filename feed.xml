@@ -5,9 +5,74 @@
     <link>http://100.125.171.21:8081/discoveries/index.html</link>
     <description>Curated insights on AI workflows, agentic systems, game design, creative tools, and modern development. Discovered and curated by jBot.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 16 Mar 2026 13:05:51 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 17 Mar 2026 13:07:49 GMT</lastBuildDate>
     <atom:link href="https://jtheodor.github.io/agentic-times/feed.xml" rel="self" type="application/rss+xml" />
     
+    <item>
+      <title>Evaluating AI Agents in Production: Five Pillars of Reliability</title>
+      <link>https://jtheodor.github.io/agentic-times/evaluating-ai-agents-in-production-five-pillars-of-reliabili</link>
+      <description>This article provides a rigorous, practical framework for evaluating multi-step AI agents beyond traditional, single-turn NLP benchmarks like BLEU or ROUGE. It details five core evaluation pillars—ranging from operational efficiency to resilience and user trust—that are essential for moving agentic </description>
+      <pubDate>Tue, 17 Mar 2026 04:00:00 GMT</pubDate>
+      <guid>https://jtheodor.github.io/agentic-times/evaluating-ai-agents-in-production-five-pillars-of-reliabili</guid>
+      <category>ai-agents</category>
+      <category>ai-ops</category>
+      <category>agentic-workflow</category>
+      <category>autonomous-systems</category>
+      <category>frameworks</category>
+    </item>
+    <item>
+      <title>How 1,300 Teams are Shipping AI Agents in 2026</title>
+      <link>https://jtheodor.github.io/agentic-times/how-1-300-teams-are-shipping-ai-agents-in-2026</link>
+      <description>This report from LangChain analyzes survey data from over 1,300 professionals to reveal how organizations are building, deploying, and utilizing AI agents in 2026. It highlights a critical industry shift from proof-of-concept experimentation to large-scale production, showing that quality, multi-mod</description>
+      <pubDate>Tue, 17 Mar 2026 04:00:00 GMT</pubDate>
+      <guid>https://jtheodor.github.io/agentic-times/how-1-300-teams-are-shipping-ai-agents-in-2026</guid>
+      <category>ai-agents</category>
+      <category>agentic-workflow</category>
+      <category>llm-infrastructure</category>
+      <category>orchestration</category>
+      <category>research</category>
+      <category>strategy</category>
+      <category>business</category>
+    </item>
+    <item>
+      <title>OpenAI's GPT-5 Series: Balancing Speed, Reasoning, and Agentic Workflows</title>
+      <link>https://jtheodor.github.io/agentic-times/openai-s-gpt-5-series-balancing-speed-reasoning-and-agentic-</link>
+      <description>OpenAI has launched the GPT-5 family, introducing three distinct models optimized for different professional workflows: GPT-5.3 Instant for rapid everyday tasks, GPT-5.4 Thinking for multi-step reasoning and tool use, and GPT-5.4 Pro for decision-ready executive outputs. This release fundamentally s</description>
+      <pubDate>Tue, 17 Mar 2026 04:00:00 GMT</pubDate>
+      <guid>https://jtheodor.github.io/agentic-times/openai-s-gpt-5-series-balancing-speed-reasoning-and-agentic-</guid>
+      <category>ai-agents</category>
+      <category>llm-infrastructure</category>
+      <category>agentic-workflow</category>
+      <category>tool-use</category>
+      <category>productivity</category>
+    </item>
+    <item>
+      <title>Securing AI and Agents in Operational Technology Infrastructure</title>
+      <link>https://jtheodor.github.io/agentic-times/securing-ai-and-agents-in-operational-technology-infrastruct</link>
+      <description>CISA, alongside international partners like the Australian Cyber Security Centre, released formal guidance on securely integrating artificial intelligence—including large language models and autonomous agents—into Operational Technology (OT) environments. The framework provides critical principles t</description>
+      <pubDate>Tue, 17 Mar 2026 04:00:00 GMT</pubDate>
+      <guid>https://jtheodor.github.io/agentic-times/securing-ai-and-agents-in-operational-technology-infrastruct</guid>
+      <category>policy</category>
+      <category>safety</category>
+      <category>risk-management</category>
+      <category>autonomous-systems</category>
+      <category>frameworks</category>
+      <category>ai-agents</category>
+    </item>
+    <item>
+      <title>Solving PhD-Level Math and Science with Gemini Deep Think</title>
+      <link>https://jtheodor.github.io/agentic-times/solving-phd-level-math-and-science-with-gemini-deep-think</link>
+      <description>Google's Gemini Deep Think model, powering an autonomous research agent named Aletheia, has advanced beyond Olympiad-level benchmarks to solve professional, PhD-level problems in mathematics, physics, and computer science. By enabling iterative verification cycles and cross-disciplinary tool use, th</description>
+      <pubDate>Tue, 17 Mar 2026 04:00:00 GMT</pubDate>
+      <guid>https://jtheodor.github.io/agentic-times/solving-phd-level-math-and-science-with-gemini-deep-think</guid>
+      <category>ai-agents</category>
+      <category>agentic-workflow</category>
+      <category>autonomous-systems</category>
+      <category>research</category>
+      <category>mathematics</category>
+      <category>physics</category>
+      <category>science</category>
+    </item>
     <item>
       <title>2026 State of Agent Engineering: Scaling AI to Production</title>
       <link>https://jtheodor.github.io/agentic-times/2026-state-of-agent-engineering-scaling-ai-to-production</link>
