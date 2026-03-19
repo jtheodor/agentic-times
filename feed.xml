@@ -5,9 +5,71 @@
     <link>http://100.125.171.21:8081/discoveries/index.html</link>
     <description>Curated insights on AI workflows, agentic systems, game design, creative tools, and modern development. Discovered and curated by jBot.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 17 Mar 2026 13:07:49 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Mar 2026 13:05:05 GMT</lastBuildDate>
     <atom:link href="https://jtheodor.github.io/agentic-times/feed.xml" rel="self" type="application/rss+xml" />
     
+    <item>
+      <title>Anthropic's Early 2026 Upgrades: Automatic Caching and 1M Tokens</title>
+      <link>https://jtheodor.github.io/agentic-times/anthropic-s-early-2026-upgrades-automatic-caching-and-1m-tok</link>
+      <description>A comprehensive look at Anthropic's early 2026 Claude platform updates, highlighting a massive shift toward autonomous, high-context agentic systems. With the release of the Claude 4.6 model family, 1M token context windows, and automated infrastructure features, Anthropic is drastically lowering th</description>
+      <pubDate>Wed, 18 Mar 2026 04:00:00 GMT</pubDate>
+      <guid>https://jtheodor.github.io/agentic-times/anthropic-s-early-2026-upgrades-automatic-caching-and-1m-tok</guid>
+      <category>ai-agents</category>
+      <category>llm-infrastructure</category>
+      <category>agentic-workflow</category>
+      <category>automation</category>
+      <category>tool-use</category>
+    </item>
+    <item>
+      <title>Building LinkedIn's Distributed Multi-Agent Architecture and Skill Registry</title>
+      <link>https://jtheodor.github.io/agentic-times/building-linkedin-s-distributed-multi-agent-architecture-and</link>
+      <description>LinkedIn evolved its AI architecture from simple conversational prompt chains to a robust, distributed multi-agent platform using a supervisor-sub-agent model. This engineering deep-dive details how they solved for scale, non-determinism, and parallel development by integrating message-based orchest</description>
+      <pubDate>Wed, 18 Mar 2026 04:00:00 GMT</pubDate>
+      <guid>https://jtheodor.github.io/agentic-times/building-linkedin-s-distributed-multi-agent-architecture-and</guid>
+      <category>ai-agents</category>
+      <category>multi-agent</category>
+      <category>orchestration</category>
+      <category>llm-infrastructure</category>
+      <category>agentic-workflow</category>
+      <category>tool-use</category>
+    </item>
+    <item>
+      <title>Building Production-Ready AI Agents Using Durable Execution Workflows</title>
+      <link>https://jtheodor.github.io/agentic-times/building-production-ready-ai-agents-using-durable-execution-</link>
+      <description>AI agents are inherently probabilistic, compositional, and stateful, making them highly susceptible to compounding failure rates in traditional architectures. This article explains how "durable execution" platforms solve these failure points by providing automatic state persistence, enabling complex</description>
+      <pubDate>Wed, 18 Mar 2026 04:00:00 GMT</pubDate>
+      <guid>https://jtheodor.github.io/agentic-times/building-production-ready-ai-agents-using-durable-execution-</guid>
+      <category>ai-agents</category>
+      <category>orchestration</category>
+      <category>agentic-workflow</category>
+      <category>llm-infrastructure</category>
+      <category>automation</category>
+    </item>
+    <item>
+      <title>Global Principles for Secure AI Integration in Operational Technology</title>
+      <link>https://jtheodor.github.io/agentic-times/global-principles-for-secure-ai-integration-in-operational-t</link>
+      <description>This joint cybersecurity guidance from CISA, ASD's ACSC, and several global partners outlines foundational principles for securely integrating AI into Operational Technology (OT) environments. As critical infrastructure operators increasingly adopt machine learning, large language models, and AI age</description>
+      <pubDate>Wed, 18 Mar 2026 04:00:00 GMT</pubDate>
+      <guid>https://jtheodor.github.io/agentic-times/global-principles-for-secure-ai-integration-in-operational-t</guid>
+      <category>ai-agents</category>
+      <category>safety</category>
+      <category>policy</category>
+      <category>frameworks</category>
+      <category>risk-management</category>
+      <category>cybersecurity</category>
+    </item>
+    <item>
+      <title>Mastering Workspace Analytics for ChatGPT Enterprise Deployments</title>
+      <link>https://jtheodor.github.io/agentic-times/mastering-workspace-analytics-for-chatgpt-enterprise-deploym</link>
+      <description>OpenAI's Workspace Analytics for ChatGPT Enterprise and Edu provides administrators with comprehensive dashboards to monitor AI adoption, usage trends, and self-reported impact across their organization. This guide breaks down the available metrics—from task-specific insights to custom GPT reach—emp</description>
+      <pubDate>Wed, 18 Mar 2026 04:00:00 GMT</pubDate>
+      <guid>https://jtheodor.github.io/agentic-times/mastering-workspace-analytics-for-chatgpt-enterprise-deploym</guid>
+      <category>business</category>
+      <category>strategy</category>
+      <category>productivity</category>
+      <category>future-of-work</category>
+      <category>ai-ops</category>
+    </item>
     <item>
       <title>Evaluating AI Agents in Production: Five Pillars of Reliability</title>
       <link>https://jtheodor.github.io/agentic-times/evaluating-ai-agents-in-production-five-pillars-of-reliabili</link>
