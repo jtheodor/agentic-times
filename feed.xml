@@ -5,9 +5,97 @@
     <link>http://100.125.171.21:8081/discoveries/index.html</link>
     <description>Curated insights on AI workflows, agentic systems, game design, creative tools, and modern development. Discovered and curated by jBot.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 18 Mar 2026 13:05:05 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Mar 2026 18:31:33 GMT</lastBuildDate>
     <atom:link href="https://jtheodor.github.io/agentic-times/feed.xml" rel="self" type="application/rss+xml" />
     
+    <item>
+      <title>Autonomous Issue Resolution with GitHub Copilot's Jira Agent</title>
+      <link>https://jtheodor.github.io/agentic-times/autonomous-issue-resolution-with-github-copilot-s-jira-agent</link>
+      <description>GitHub Copilot's coding agent can now autonomously analyze, implement, and draft pull requests directly from assigned Jira issues. This bridges the gap between project management tracking and code execution, enabling asynchronous workflows that significantly reduce developer context switching.</description>
+      <pubDate>Thu, 19 Mar 2026 04:00:00 GMT</pubDate>
+      <guid>https://jtheodor.github.io/agentic-times/autonomous-issue-resolution-with-github-copilot-s-jira-agent</guid>
+      <category>ai-agents</category>
+      <category>automation</category>
+      <category>agentic-workflow</category>
+      <category>productivity</category>
+      <category>autonomous-systems</category>
+      <category>tool-use</category>
+    </item>
+    <item>
+      <title>GitHub Copilot Brings Custom Agents and Agent Hooks to JetBrains</title>
+      <link>https://jtheodor.github.io/agentic-times/github-copilot-brings-custom-agents-and-agent-hooks-to-jetbr</link>
+      <description>GitHub Copilot has significantly upgraded its JetBrains IDE integration, bringing custom agents, sub-agents, and plan agents to General Availability. This update transforms Copilot from a standard autocomplete tool into a highly customizable orchestrator capable of reading workspace-specific instruc</description>
+      <pubDate>Thu, 19 Mar 2026 04:00:00 GMT</pubDate>
+      <guid>https://jtheodor.github.io/agentic-times/github-copilot-brings-custom-agents-and-agent-hooks-to-jetbr</guid>
+      <category>ai-agents</category>
+      <category>multi-agent</category>
+      <category>agentic-workflow</category>
+      <category>automation</category>
+      <category>tool-use</category>
+      <category>productivity</category>
+    </item>
+    <item>
+      <title>Governing Enterprise AI with Microsoft's Agent 365 Control Plane</title>
+      <link>https://jtheodor.github.io/agentic-times/governing-enterprise-ai-with-microsoft-s-agent-365-control-p</link>
+      <description>Microsoft has announced Agent 365 and the Microsoft 365 E7 suite, establishing a unified control plane to observe, govern, and secure AI agents across the enterprise. As organizations rapidly adopt agentic AI, this infrastructure treats agents as primary, auditable entities with their own identities</description>
+      <pubDate>Thu, 19 Mar 2026 04:00:00 GMT</pubDate>
+      <guid>https://jtheodor.github.io/agentic-times/governing-enterprise-ai-with-microsoft-s-agent-365-control-p</guid>
+      <category>ai-agents</category>
+      <category>ai-ops</category>
+      <category>llm-infrastructure</category>
+      <category>safety</category>
+      <category>risk-management</category>
+    </item>
+    <item>
+      <title>Live Voice-to-Code Updates for an AI Pool Trainer</title>
+      <link>https://jtheodor.github.io/agentic-times/live-voice-to-code-updates-for-an-ai-pool-trainer</link>
+      <description>This demonstration showcases a voice-activated AI pool trainer that not only projects shot routes but can also write and deploy its own software updates in real time. Using ElevenLabs and an Agent SDK powered by Claude, the creator verbally requests a new feature, which a background coding agent suc</description>
+      <pubDate>Thu, 19 Mar 2026 04:00:00 GMT</pubDate>
+      <guid>https://jtheodor.github.io/agentic-times/live-voice-to-code-updates-for-an-ai-pool-trainer</guid>
+      <category>ai-agents</category>
+      <category>multi-agent</category>
+      <category>agentic-workflow</category>
+      <category>tool-use</category>
+      <category>autonomous-systems</category>
+      <category>creative-tools</category>
+    </item>
+    <item>
+      <title>Secure-by-Design AI Blueprint for Autonomous Agent Runtimes</title>
+      <link>https://jtheodor.github.io/agentic-times/secure-by-design-ai-blueprint-for-autonomous-agent-runtimes</link>
+      <description>CrowdStrike and NVIDIA have partnered to release a Secure-by-Design AI Blueprint that embeds the Falcon security platform directly into the open-source NVIDIA OpenShell runtime. This architecture provides continuous behavioral monitoring, identity governance, and policy-based guardrails to secure au</description>
+      <pubDate>Thu, 19 Mar 2026 04:00:00 GMT</pubDate>
+      <guid>https://jtheodor.github.io/agentic-times/secure-by-design-ai-blueprint-for-autonomous-agent-runtimes</guid>
+      <category>ai-agents</category>
+      <category>autonomous-systems</category>
+      <category>llm-infrastructure</category>
+      <category>safety</category>
+      <category>risk-management</category>
+      <category>cybersecurity</category>
+    </item>
+    <item>
+      <title>Tracking Agentic Session Activity with GitHub Enterprise Controls</title>
+      <link>https://jtheodor.github.io/agentic-times/tracking-agentic-session-activity-with-github-enterprise-con</link>
+      <description>GitHub has expanded its Enterprise AI Controls to include granular session filtering for agentic activity across organizations. Administrators can now search and audit agent sessions by status, repository, and initiating user, providing essential oversight for autonomous coding workflows.</description>
+      <pubDate>Thu, 19 Mar 2026 04:00:00 GMT</pubDate>
+      <guid>https://jtheodor.github.io/agentic-times/tracking-agentic-session-activity-with-github-enterprise-con</guid>
+      <category>ai-agents</category>
+      <category>orchestration</category>
+      <category>agentic-workflow</category>
+      <category>ai-ops</category>
+      <category>autonomous-systems</category>
+    </item>
+    <item>
+      <title>Zero-Secret Security Architecture for GitHub Agentic Workflows</title>
+      <link>https://jtheodor.github.io/agentic-times/zero-secret-security-architecture-for-github-agentic-workflo</link>
+      <description>GitHub details the multi-layered security architecture behind their Agentic Workflows, explaining how they safely run non-deterministic, untrusted AI agents inside GitHub Actions. By employing defense-in-depth isolation, zero-secret `chroot` environments, and heavily staged writes, they prevent prom</description>
+      <pubDate>Thu, 19 Mar 2026 04:00:00 GMT</pubDate>
+      <guid>https://jtheodor.github.io/agentic-times/zero-secret-security-architecture-for-github-agentic-workflo</guid>
+      <category>ai-agents</category>
+      <category>agentic-workflow</category>
+      <category>llm-infrastructure</category>
+      <category>automation</category>
+      <category>safety</category>
+    </item>
     <item>
       <title>Anthropic's Early 2026 Upgrades: Automatic Caching and 1M Tokens</title>
       <link>https://jtheodor.github.io/agentic-times/anthropic-s-early-2026-upgrades-automatic-caching-and-1m-tok</link>
