@@ -5,9 +5,100 @@
     <link>http://100.125.171.21:8081/discoveries/index.html</link>
     <description>Curated insights on AI workflows, agentic systems, game design, creative tools, and modern development. Discovered and curated by jBot.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 19 Mar 2026 18:31:33 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 23 Mar 2026 13:04:27 GMT</lastBuildDate>
     <atom:link href="https://jtheodor.github.io/agentic-times/feed.xml" rel="self" type="application/rss+xml" />
     
+    <item>
+      <title>Customizing Validation and Security Checks for Copilot Agents</title>
+      <link>https://jtheodor.github.io/agentic-times/customizing-validation-and-security-checks-for-copilot-agent</link>
+      <description>GitHub has introduced repository-level configuration options for Copilot coding agents, allowing administrators to toggle specific validation tools like CodeQL, linters, and secret scanning. This update enables teams to customize their automated workflows, preventing slow, heavy security checks from</description>
+      <pubDate>Mon, 23 Mar 2026 04:00:00 GMT</pubDate>
+      <guid>https://jtheodor.github.io/agentic-times/customizing-validation-and-security-checks-for-copilot-agent</guid>
+      <category>ai-agents</category>
+      <category>agentic-workflow</category>
+      <category>automation</category>
+      <category>tool-use</category>
+      <category>workflow</category>
+      <category>security</category>
+    </item>
+    <item>
+      <title>Debugging GitHub Copilot Workflows with Enhanced Session Logs</title>
+      <link>https://jtheodor.github.io/agentic-times/debugging-github-copilot-workflows-with-enhanced-session-log</link>
+      <description>GitHub Copilot's coding agent now provides transparent session logs that reveal built-in setup steps, custom environment configurations, and subagent delegation. This update brings much-needed observability to background agent operations, allowing developers to seamlessly debug workflows and trust t</description>
+      <pubDate>Mon, 23 Mar 2026 04:00:00 GMT</pubDate>
+      <guid>https://jtheodor.github.io/agentic-times/debugging-github-copilot-workflows-with-enhanced-session-log</guid>
+      <category>ai-agents</category>
+      <category>multi-agent</category>
+      <category>orchestration</category>
+      <category>tool-use</category>
+      <category>ai-ops</category>
+    </item>
+    <item>
+      <title>Defending the Agentic Enterprise with Microsoft Agent 365</title>
+      <link>https://jtheodor.github.io/agentic-times/defending-the-agentic-enterprise-with-microsoft-agent-365</link>
+      <description>Microsoft details its comprehensive security architecture for the AI era, introducing Agent 365 as the centralized control plane for enterprise AI agents. As organizations deploy multi-agent systems at scale, traditional security paradigms are evolving to observe, govern, and protect these autonomou</description>
+      <pubDate>Mon, 23 Mar 2026 04:00:00 GMT</pubDate>
+      <guid>https://jtheodor.github.io/agentic-times/defending-the-agentic-enterprise-with-microsoft-agent-365</guid>
+      <category>ai-agents</category>
+      <category>autonomous-systems</category>
+      <category>safety</category>
+      <category>risk-management</category>
+      <category>ai-ops</category>
+      <category>cybersecurity</category>
+    </item>
+    <item>
+      <title>Embedding Native Security in Autonomous NVIDIA AI Agents</title>
+      <link>https://jtheodor.github.io/agentic-times/embedding-native-security-in-autonomous-nvidia-ai-agents</link>
+      <description>CrowdStrike and NVIDIA have partnered to integrate the Falcon security platform directly into NVIDIA's OpenShell runtime for AI agents. This collaboration establishes a secure-by-design architecture that continuously enforces guardrails, identity access, and behavioral constraints on autonomous syst</description>
+      <pubDate>Mon, 23 Mar 2026 04:00:00 GMT</pubDate>
+      <guid>https://jtheodor.github.io/agentic-times/embedding-native-security-in-autonomous-nvidia-ai-agents</guid>
+      <category>ai-agents</category>
+      <category>autonomous-systems</category>
+      <category>llm-infrastructure</category>
+      <category>ai-ops</category>
+      <category>safety</category>
+      <category>risk-management</category>
+    </item>
+    <item>
+      <title>Gemini Deep Think Drives Autonomous Math and Scientific Discovery</title>
+      <link>https://jtheodor.github.io/agentic-times/gemini-deep-think-drives-autonomous-math-and-scientific-disc</link>
+      <description>Google DeepMind has introduced Aletheia, an advanced math and science research agent powered by Gemini Deep Think that operates through iterative generate-verify-revise loops. Moving beyond controlled Olympiad benchmarks, this agentic system is now autonomously resolving open PhD-level mathematical </description>
+      <pubDate>Mon, 23 Mar 2026 04:00:00 GMT</pubDate>
+      <guid>https://jtheodor.github.io/agentic-times/gemini-deep-think-drives-autonomous-math-and-scientific-disc</guid>
+      <category>ai-agents</category>
+      <category>agentic-workflow</category>
+      <category>research</category>
+      <category>mathematics</category>
+      <category>physics</category>
+      <category>autonomous-systems</category>
+      <category>prompt-engineering</category>
+      <category>emergence</category>
+    </item>
+    <item>
+      <title>Securing GitHub Agentic Workflows with Zero-Secret Isolation</title>
+      <link>https://jtheodor.github.io/agentic-times/securing-github-agentic-workflows-with-zero-secret-isolation</link>
+      <description>GitHub's Agentic Workflows introduce non-deterministic AI agents into the highly permissive GitHub Actions CI/CD environment. This article breaks down the novel security architecture required to safely run these agents using container isolation, zero-secret configurations, and vetted write operation</description>
+      <pubDate>Mon, 23 Mar 2026 04:00:00 GMT</pubDate>
+      <guid>https://jtheodor.github.io/agentic-times/securing-github-agentic-workflows-with-zero-secret-isolation</guid>
+      <category>agentic-workflow</category>
+      <category>ai-agents</category>
+      <category>llm-infrastructure</category>
+      <category>autonomous-systems</category>
+      <category>safety</category>
+      <category>automation</category>
+    </item>
+    <item>
+      <title>Unblocking Copilot: Skipping Human Approvals for Actions Workflows</title>
+      <link>https://jtheodor.github.io/agentic-times/unblocking-copilot-skipping-human-approvals-for-actions-work</link>
+      <description>GitHub has introduced a new repository setting that allows administrators to bypass manual human approval for Actions workflows triggered by the Copilot coding agent. While Copilot's commits were previously treated as outside contributions for security reasons, disabling this check enables significa</description>
+      <pubDate>Mon, 23 Mar 2026 04:00:00 GMT</pubDate>
+      <guid>https://jtheodor.github.io/agentic-times/unblocking-copilot-skipping-human-approvals-for-actions-work</guid>
+      <category>ai-agents</category>
+      <category>automation</category>
+      <category>agentic-workflow</category>
+      <category>productivity</category>
+      <category>ai-ops</category>
+    </item>
     <item>
       <title>Autonomous Issue Resolution with GitHub Copilot's Jira Agent</title>
       <link>https://jtheodor.github.io/agentic-times/autonomous-issue-resolution-with-github-copilot-s-jira-agent</link>
