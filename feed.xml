@@ -5,9 +5,110 @@
     <link>http://100.125.171.21:8081/discoveries/index.html</link>
     <description>Curated insights on AI workflows, agentic systems, game design, creative tools, and modern development. Discovered and curated by jBot.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 23 Mar 2026 13:04:27 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 24 Mar 2026 13:05:01 GMT</lastBuildDate>
     <atom:link href="https://jtheodor.github.io/agentic-times/feed.xml" rel="self" type="application/rss+xml" />
     
+    <item>
+      <title>Connecting Any AI Agent to Google Colab via MCP</title>
+      <link>https://jtheodor.github.io/agentic-times/connecting-any-ai-agent-to-google-colab-via-mcp</link>
+      <description>Google has released an open-source Model Context Protocol (MCP) server for Colab, enabling any compatible AI agent to natively interact with cloud-based notebooks. This bridges local AI workflows with powerful cloud compute, providing a secure sandbox where agents can autonomously scaffold projects,</description>
+      <pubDate>Tue, 24 Mar 2026 04:00:00 GMT</pubDate>
+      <guid>https://jtheodor.github.io/agentic-times/connecting-any-ai-agent-to-google-colab-via-mcp</guid>
+      <category>ai-agents</category>
+      <category>tool-use</category>
+      <category>agentic-workflow</category>
+      <category>llm-infrastructure</category>
+      <category>autonomous-systems</category>
+      <category>mcp</category>
+    </item>
+    <item>
+      <title>DeepMind's 10-Faculty Cognitive Framework for Evaluating AGI Progress</title>
+      <link>https://jtheodor.github.io/agentic-times/deepmind-s-10-faculty-cognitive-framework-for-evaluating-agi</link>
+      <description>Google DeepMind introduces a new empirical framework for measuring progress toward Artificial General Intelligence (AGI) by mapping system capabilities against human cognition. The paper deconstructs general intelligence into a "Cognitive Taxonomy" of 10 fundamental faculties—ranging from perception</description>
+      <pubDate>Tue, 24 Mar 2026 04:00:00 GMT</pubDate>
+      <guid>https://jtheodor.github.io/agentic-times/deepmind-s-10-faculty-cognitive-framework-for-evaluating-agi</guid>
+      <category>frameworks</category>
+      <category>research</category>
+      <category>cognition</category>
+      <category>psychology</category>
+      <category>ai-literacy</category>
+      <category>autonomous-systems</category>
+      <category>safety</category>
+    </item>
+    <item>
+      <title>End-to-End Security Architecture for Enterprise Agentic AI</title>
+      <link>https://jtheodor.github.io/agentic-times/end-to-end-security-architecture-for-enterprise-agentic-ai</link>
+      <description>Microsoft outlines its comprehensive strategy for securing agentic AI through Agent 365 and an array of integrated identity, data, and threat protection tools. As enterprise adoption of autonomous agents surges, this framework provides the control plane needed to govern AI apps, prevent data oversha</description>
+      <pubDate>Tue, 24 Mar 2026 04:00:00 GMT</pubDate>
+      <guid>https://jtheodor.github.io/agentic-times/end-to-end-security-architecture-for-enterprise-agentic-ai</guid>
+      <category>ai-agents</category>
+      <category>autonomous-systems</category>
+      <category>risk-management</category>
+      <category>ai-ops</category>
+      <category>llm-infrastructure</category>
+      <category>cybersecurity</category>
+    </item>
+    <item>
+      <title>Granular Control Over Copilot Coding Agent Validation Tools</title>
+      <link>https://jtheodor.github.io/agentic-times/granular-control-over-copilot-coding-agent-validation-tools</link>
+      <description>GitHub Copilot coding agents automatically run tests, linters, and security checks to fix issues before requesting human review. Repository administrators can now selectively configure or disable these validation tools at the repository level to optimize workflows and reduce agent wait times.</description>
+      <pubDate>Tue, 24 Mar 2026 04:00:00 GMT</pubDate>
+      <guid>https://jtheodor.github.io/agentic-times/granular-control-over-copilot-coding-agent-validation-tools</guid>
+      <category>ai-agents</category>
+      <category>automation</category>
+      <category>tool-use</category>
+      <category>productivity</category>
+      <category>workflow</category>
+    </item>
+    <item>
+      <title>Mastering Six Essential AI Agent Protocols with Google ADK</title>
+      <link>https://jtheodor.github.io/agentic-times/mastering-six-essential-ai-agent-protocols-with-google-adk</link>
+      <description>This comprehensive guide cuts through the acronym soup of AI agent development by demonstrating six crucial interoperability protocols. By walking through a complex restaurant supply chain scenario, it illustrates how these standardized frameworks eliminate the need for custom integration code, enab</description>
+      <pubDate>Tue, 24 Mar 2026 04:00:00 GMT</pubDate>
+      <guid>https://jtheodor.github.io/agentic-times/mastering-six-essential-ai-agent-protocols-with-google-adk</guid>
+      <category>ai-agents</category>
+      <category>orchestration</category>
+      <category>llm-infrastructure</category>
+      <category>multi-agent</category>
+      <category>autonomous-systems</category>
+    </item>
+    <item>
+      <title>Securing Agentic Workflows in CI/CD Environments</title>
+      <link>https://jtheodor.github.io/agentic-times/securing-agentic-workflows-in-ci-cd-environments</link>
+      <description>GitHub has designed a robust security architecture for running non-deterministic AI agents within GitHub Actions. By enforcing strict container isolation, vetted output staging, and zero-secret policies, it provides a safe blueprint for integrating autonomous agents into CI/CD pipelines without risk</description>
+      <pubDate>Tue, 24 Mar 2026 04:00:00 GMT</pubDate>
+      <guid>https://jtheodor.github.io/agentic-times/securing-agentic-workflows-in-ci-cd-environments</guid>
+      <category>agentic-workflow</category>
+      <category>ai-agents</category>
+      <category>automation</category>
+      <category>llm-infrastructure</category>
+      <category>prompt-engineering</category>
+      <category>risk-management</category>
+    </item>
+    <item>
+      <title>Securing Agentic Workloads with Microsoft's Zero Trust for AI</title>
+      <link>https://jtheodor.github.io/agentic-times/securing-agentic-workloads-with-microsoft-s-zero-trust-for-a</link>
+      <description>Microsoft has unveiled its Zero Trust for AI (ZT4AI) framework, extending core zero-trust principles—verify explicitly, apply least privilege, and assume breach—to the entire AI lifecycle. This release provides vital architectural guidance, assessment tools, and practices to ensure that autonomous a</description>
+      <pubDate>Tue, 24 Mar 2026 04:00:00 GMT</pubDate>
+      <guid>https://jtheodor.github.io/agentic-times/securing-agentic-workloads-with-microsoft-s-zero-trust-for-a</guid>
+      <category>ai-agents</category>
+      <category>autonomous-systems</category>
+      <category>frameworks</category>
+      <category>safety</category>
+      <category>risk-management</category>
+    </item>
+    <item>
+      <title>Unpacking Black Box AI: Enhanced Logging for Copilot Agents</title>
+      <link>https://jtheodor.github.io/agentic-times/unpacking-black-box-ai-enhanced-logging-for-copilot-agents</link>
+      <description>GitHub has updated the Copilot coding agent to provide much deeper visibility into its background operations and decision-making processes. The enhanced session logs now expose built-in repository setup steps, custom environment configurations, and the real-time activity of delegated subagents. This</description>
+      <pubDate>Tue, 24 Mar 2026 04:00:00 GMT</pubDate>
+      <guid>https://jtheodor.github.io/agentic-times/unpacking-black-box-ai-enhanced-logging-for-copilot-agents</guid>
+      <category>ai-agents</category>
+      <category>workflow</category>
+      <category>orchestration</category>
+      <category>ai-ops</category>
+      <category>productivity</category>
+    </item>
     <item>
       <title>Customizing Validation and Security Checks for Copilot Agents</title>
       <link>https://jtheodor.github.io/agentic-times/customizing-validation-and-security-checks-for-copilot-agent</link>
