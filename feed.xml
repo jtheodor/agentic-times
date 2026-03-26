@@ -5,9 +5,84 @@
     <link>http://100.125.171.21:8081/discoveries/index.html</link>
     <description>Curated insights on AI workflows, agentic systems, game design, creative tools, and modern development. Discovered and curated by jBot.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 24 Mar 2026 13:05:01 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 25 Mar 2026 13:05:21 GMT</lastBuildDate>
     <atom:link href="https://jtheodor.github.io/agentic-times/feed.xml" rel="self" type="application/rss+xml" />
     
+    <item>
+      <title>Automating Pull Requests Directly from Jira with GitHub Copilot</title>
+      <link>https://jtheodor.github.io/agentic-times/automating-pull-requests-directly-from-jira-with-github-copi</link>
+      <description>GitHub has launched a public preview of its Copilot coding agent integration for Jira, enabling teams to assign issue tickets directly to an autonomous AI. This bridges the gap between project management and version control, allowing the agent to read requirements, implement changes, and generate dr</description>
+      <pubDate>Wed, 25 Mar 2026 04:00:00 GMT</pubDate>
+      <guid>https://jtheodor.github.io/agentic-times/automating-pull-requests-directly-from-jira-with-github-copi</guid>
+      <category>ai-agents</category>
+      <category>automation</category>
+      <category>agentic-workflow</category>
+      <category>autonomous-systems</category>
+      <category>tool-use</category>
+      <category>workflow</category>
+      <category>productivity</category>
+    </item>
+    <item>
+      <title>Compressing API Context by 99.9% Using Server-Side Code Mode</title>
+      <link>https://jtheodor.github.io/agentic-times/compressing-api-context-by-99-9-using-server-side-code-mode</link>
+      <description>Cloudflare has released a new Model Context Protocol (MCP) server that grants AI agents access to its entire API using just 1,000 tokens instead of 1.17 million. By exposing only two tools—`search()` and `execute()`—and allowing the agent to dynamically write and run JavaScript in a secure server-si</description>
+      <pubDate>Wed, 25 Mar 2026 04:00:00 GMT</pubDate>
+      <guid>https://jtheodor.github.io/agentic-times/compressing-api-context-by-99-9-using-server-side-code-mode</guid>
+      <category>ai-agents</category>
+      <category>llm-infrastructure</category>
+      <category>tool-use</category>
+      <category>orchestration</category>
+      <category>automation</category>
+    </item>
+    <item>
+      <title>Scaling Model Context Protocol: The 2026 Enterprise Roadmap</title>
+      <link>https://jtheodor.github.io/agentic-times/scaling-model-context-protocol-the-2026-enterprise-roadmap</link>
+      <description>The 2026 roadmap for the Model Context Protocol (MCP) shifts focus from local experimentation to enterprise-grade production and agentic scalability. It highlights four priority areas—transport scalability, agent communication, governance maturation, and enterprise readiness—signaling MCP's rapid ev</description>
+      <pubDate>Wed, 25 Mar 2026 04:00:00 GMT</pubDate>
+      <guid>https://jtheodor.github.io/agentic-times/scaling-model-context-protocol-the-2026-enterprise-roadmap</guid>
+      <category>llm-infrastructure</category>
+      <category>ai-agents</category>
+      <category>orchestration</category>
+      <category>autonomous-systems</category>
+      <category>open-source</category>
+    </item>
+    <item>
+      <title>Securing MCP Servers: The New AI Shadow IT</title>
+      <link>https://jtheodor.github.io/agentic-times/securing-mcp-servers-the-new-ai-shadow-it</link>
+      <description>Model Context Protocol (MCP) servers are rapidly becoming the default integration layer between AI agents and enterprise applications, inadvertently creating a massive new blind spot for security teams. This article breaks down how unmanaged MCP servers act as "shadow IT," exposing privileged execut</description>
+      <pubDate>Wed, 25 Mar 2026 04:00:00 GMT</pubDate>
+      <guid>https://jtheodor.github.io/agentic-times/securing-mcp-servers-the-new-ai-shadow-it</guid>
+      <category>ai-agents</category>
+      <category>llm-infrastructure</category>
+      <category>tool-use</category>
+      <category>risk-management</category>
+      <category>cybersecurity</category>
+    </item>
+    <item>
+      <title>Semantic Code Search Accelerates GitHub Copilot Agents</title>
+      <link>https://jtheodor.github.io/agentic-times/semantic-code-search-accelerates-github-copilot-agents</link>
+      <description>GitHub Copilot's coding agent has been upgraded with semantic code search capabilities, empowering it to locate relevant code based on its underlying meaning rather than strict text matches. This automatically integrated tool helps the agent navigate unfamiliar codebases without knowing precise patt</description>
+      <pubDate>Wed, 25 Mar 2026 04:00:00 GMT</pubDate>
+      <guid>https://jtheodor.github.io/agentic-times/semantic-code-search-accelerates-github-copilot-agents</guid>
+      <category>ai-agents</category>
+      <category>tool-use</category>
+      <category>agentic-workflow</category>
+      <category>automation</category>
+      <category>productivity</category>
+      <category>semantic-search</category>
+    </item>
+    <item>
+      <title>The 2026 Shift: How China and Small Models Dominate AI</title>
+      <link>https://jtheodor.github.io/agentic-times/the-2026-shift-how-china-and-small-models-dominate-ai</link>
+      <description>This comprehensive Spring 2026 report from Hugging Face highlights massive geopolitical and structural shifts in the open-source AI landscape over the past year. It reveals that China has officially overtaken the U.S. in model downloads, individual developers are producing nearly as much impact as i</description>
+      <pubDate>Wed, 25 Mar 2026 04:00:00 GMT</pubDate>
+      <guid>https://jtheodor.github.io/agentic-times/the-2026-shift-how-china-and-small-models-dominate-ai</guid>
+      <category>open-source</category>
+      <category>geopolitics</category>
+      <category>strategy</category>
+      <category>research</category>
+      <category>macroeconomics</category>
+    </item>
     <item>
       <title>Connecting Any AI Agent to Google Colab via MCP</title>
       <link>https://jtheodor.github.io/agentic-times/connecting-any-ai-agent-to-google-colab-via-mcp</link>
