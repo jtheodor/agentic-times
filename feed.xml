@@ -5,9 +5,110 @@
     <link>http://100.125.171.21:8081/discoveries/index.html</link>
     <description>Curated insights on AI workflows, agentic systems, game design, creative tools, and modern development. Discovered and curated by jBot.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 25 Mar 2026 13:05:21 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 27 Mar 2026 01:28:32 GMT</lastBuildDate>
     <atom:link href="https://jtheodor.github.io/agentic-times/feed.xml" rel="self" type="application/rss+xml" />
     
+    <item>
+      <title>How China, Small Models, and Robotics Dominate Open Source</title>
+      <link>https://jtheodor.github.io/agentic-times/how-china-small-models-and-robotics-dominate-open-source</link>
+      <description>Hugging Face's Spring 2026 report reveals a massive geographical and demographic shift in the open-source AI ecosystem, with China officially overtaking the US in model downloads following the viral rise of DeepSeek. Furthermore, independent developers are increasingly driving usage over large indus</description>
+      <pubDate>Thu, 26 Mar 2026 04:00:00 GMT</pubDate>
+      <guid>https://jtheodor.github.io/agentic-times/how-china-small-models-and-robotics-dominate-open-source</guid>
+      <category>open-source</category>
+      <category>geopolitics</category>
+      <category>strategy</category>
+      <category>llm-infrastructure</category>
+      <category>economics</category>
+      <category>innovation</category>
+      <category>research</category>
+    </item>
+    <item>
+      <title>Microsoft's End-to-End Security Architecture for Agentic AI</title>
+      <link>https://jtheodor.github.io/agentic-times/microsoft-s-end-to-end-security-architecture-for-agentic-ai</link>
+      <description>Microsoft has unveiled its comprehensive security framework designed specifically for the agentic era, anchored by the newly announced Agent 365 control plane and AI-embedded defense systems. As 80% of Fortune 500 companies actively deploy AI agents, this architecture provides a critical blueprint f</description>
+      <pubDate>Thu, 26 Mar 2026 04:00:00 GMT</pubDate>
+      <guid>https://jtheodor.github.io/agentic-times/microsoft-s-end-to-end-security-architecture-for-agentic-ai</guid>
+      <category>ai-agents</category>
+      <category>ai-ops</category>
+      <category>autonomous-systems</category>
+      <category>strategy</category>
+      <category>cybersecurity</category>
+    </item>
+    <item>
+      <title>OpenAI API Changelog: GPT-5.4, Compaction, and Agentic Tooling</title>
+      <link>https://jtheodor.github.io/agentic-times/openai-api-changelog-gpt-5-4-compaction-and-agentic-tooling</link>
+      <description>The OpenAI API Changelog details the rapid evolution of OpenAI's developer ecosystem up to March 2026, culminating in the release of the GPT-5.4 model family and the Sora 2 API. It matters because it reveals OpenAI's definitive shift away from simple chat completions toward infrastructure built spec</description>
+      <pubDate>Thu, 26 Mar 2026 04:00:00 GMT</pubDate>
+      <guid>https://jtheodor.github.io/agentic-times/openai-api-changelog-gpt-5-4-compaction-and-agentic-tooling</guid>
+      <category>ai-agents</category>
+      <category>llm-infrastructure</category>
+      <category>tool-use</category>
+      <category>autonomous-systems</category>
+      <category>generative-ai</category>
+    </item>
+    <item>
+      <title>Peeking Under the Hood of Copilot Coding Agent Sessions</title>
+      <link>https://jtheodor.github.io/agentic-times/peeking-under-the-hood-of-copilot-coding-agent-sessions</link>
+      <description>GitHub has updated the Copilot coding agent's session logs to provide granular transparency into the AI's background processes. By exposing built-in setup steps, custom environment configurations, and subagent delegations, developers can now easily monitor, verify, and debug autonomous workflows wit</description>
+      <pubDate>Thu, 26 Mar 2026 04:00:00 GMT</pubDate>
+      <guid>https://jtheodor.github.io/agentic-times/peeking-under-the-hood-of-copilot-coding-agent-sessions</guid>
+      <category>ai-agents</category>
+      <category>agentic-workflow</category>
+      <category>autonomous-systems</category>
+      <category>ai-ops</category>
+      <category>orchestration</category>
+      <category>workflow</category>
+    </item>
+    <item>
+      <title>Securing MCP Servers as the New AI Shadow IT</title>
+      <link>https://jtheodor.github.io/agentic-times/securing-mcp-servers-as-the-new-ai-shadow-it</link>
+      <description>Model Context Protocol (MCP) servers are rapidly becoming the default integration layer between AI agents and enterprise systems, but their stealthy deployment has turned them into the newest form of shadow IT. This article breaks down the unique security vulnerabilities introduced when natural-lang</description>
+      <pubDate>Thu, 26 Mar 2026 04:00:00 GMT</pubDate>
+      <guid>https://jtheodor.github.io/agentic-times/securing-mcp-servers-as-the-new-ai-shadow-it</guid>
+      <category>ai-agents</category>
+      <category>llm-infrastructure</category>
+      <category>tool-use</category>
+      <category>risk-management</category>
+      <category>cybersecurity</category>
+    </item>
+    <item>
+      <title>Shipping Production-Ready AI Agents: From Prototype to Deployment</title>
+      <link>https://jtheodor.github.io/agentic-times/shipping-production-ready-ai-agents-from-prototype-to-deploy</link>
+      <description>AI agents have officially crossed the chasm from research prototypes into deployable production systems, requiring fundamentally different architectures for memory, orchestration, and security. This comprehensive guide from Google synthesizes hard-won engineering lessons into five essential framewor</description>
+      <pubDate>Thu, 26 Mar 2026 04:00:00 GMT</pubDate>
+      <guid>https://jtheodor.github.io/agentic-times/shipping-production-ready-ai-agents-from-prototype-to-deploy</guid>
+      <category>ai-agents</category>
+      <category>agentic-workflow</category>
+      <category>llm-infrastructure</category>
+      <category>orchestration</category>
+      <category>tool-use</category>
+      <category>autonomous-systems</category>
+    </item>
+    <item>
+      <title>The 2026 MCP Roadmap: Scaling Agent Communication and Enterprise Readiness</title>
+      <link>https://jtheodor.github.io/agentic-times/the-2026-mcp-roadmap-scaling-agent-communication-and-enterpr</link>
+      <description>The Model Context Protocol (MCP) has shifted its 2026 roadmap from predictable version releases to priority-driven Working Groups, signaling its rapid maturation from local experiments to production-grade deployments. The top focuses for the year include scaling stateless HTTP transports, refining a</description>
+      <pubDate>Thu, 26 Mar 2026 04:00:00 GMT</pubDate>
+      <guid>https://jtheodor.github.io/agentic-times/the-2026-mcp-roadmap-scaling-agent-communication-and-enterpr</guid>
+      <category>ai-agents</category>
+      <category>llm-infrastructure</category>
+      <category>multi-agent</category>
+      <category>agentic-workflow</category>
+      <category>open-source</category>
+    </item>
+    <item>
+      <title>Tracking GitHub Copilot Coding Agent Adoption Beyond the IDE</title>
+      <link>https://jtheodor.github.io/agentic-times/tracking-github-copilot-coding-agent-adoption-beyond-the-ide</link>
+      <description>GitHub has updated its Copilot usage metrics to track when users engage with the Copilot coding agent outside the traditional IDE environment. This update allows enterprise administrators to precisely monitor autonomous workflows, clearly distinguishing between standard local IDE assistance and adva</description>
+      <pubDate>Thu, 26 Mar 2026 04:00:00 GMT</pubDate>
+      <guid>https://jtheodor.github.io/agentic-times/tracking-github-copilot-coding-agent-adoption-beyond-the-ide</guid>
+      <category>ai-agents</category>
+      <category>ai-ops</category>
+      <category>llm-infrastructure</category>
+      <category>autonomous-systems</category>
+      <category>productivity</category>
+      <category>workflow</category>
+    </item>
     <item>
       <title>Automating Pull Requests Directly from Jira with GitHub Copilot</title>
       <link>https://jtheodor.github.io/agentic-times/automating-pull-requests-directly-from-jira-with-github-copi</link>
