@@ -5,9 +5,99 @@
     <link>http://100.125.171.21:8081/discoveries/index.html</link>
     <description>Curated insights on AI workflows, agentic systems, game design, creative tools, and modern development. Discovered and curated by jBot.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 27 Mar 2026 01:28:32 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 27 Mar 2026 13:04:05 GMT</lastBuildDate>
     <atom:link href="https://jtheodor.github.io/agentic-times/feed.xml" rel="self" type="application/rss+xml" />
     
+    <item>
+      <title>Customizing Validation Tools for Copilot Coding Agent</title>
+      <link>https://jtheodor.github.io/agentic-times/customizing-validation-tools-for-copilot-coding-agent</link>
+      <description>GitHub has introduced the ability for repository administrators to customize the automated security and quality validation tools used by the Copilot coding agent. By allowing teams to selectively toggle checks like CodeQL and secret scanning, this update helps developers balance thorough automated c</description>
+      <pubDate>Fri, 27 Mar 2026 04:00:00 GMT</pubDate>
+      <guid>https://jtheodor.github.io/agentic-times/customizing-validation-tools-for-copilot-coding-agent</guid>
+      <category>ai-agents</category>
+      <category>agentic-workflow</category>
+      <category>automation</category>
+      <category>llm-infrastructure</category>
+      <category>workflow</category>
+    </item>
+    <item>
+      <title>Formalizing LLM Agent Security with a Contextual Framework</title>
+      <link>https://jtheodor.github.io/agentic-times/formalizing-llm-agent-security-with-a-contextual-framework</link>
+      <description>This paper introduces a formal, contextual framework for securing LLM agents, moving beyond uniform defenses that cripple agent capability. By defining four core security properties—task alignment, action alignment, source authorization, and data isolation—it provides a systematic approach to catego</description>
+      <pubDate>Fri, 27 Mar 2026 04:00:00 GMT</pubDate>
+      <guid>https://jtheodor.github.io/agentic-times/formalizing-llm-agent-security-with-a-contextual-framework</guid>
+      <category>ai-agents</category>
+      <category>autonomous-systems</category>
+      <category>llm-infrastructure</category>
+      <category>safety</category>
+      <category>research</category>
+      <category>frameworks</category>
+    </item>
+    <item>
+      <title>Global AI Shifts: China, Small Models, and the Robotics Boom</title>
+      <link>https://jtheodor.github.io/agentic-times/global-ai-shifts-china-small-models-and-the-robotics-boom</link>
+      <description>Hugging Face's Spring 2026 report reveals a fundamental restructuring of the global AI ecosystem, marked by China surpassing the U.S. in model downloads and a massive explosion in open-source robotics. It highlights that the era of monolithic corporate AI labs is waning, as independent developers an</description>
+      <pubDate>Fri, 27 Mar 2026 04:00:00 GMT</pubDate>
+      <guid>https://jtheodor.github.io/agentic-times/global-ai-shifts-china-small-models-and-the-robotics-boom</guid>
+      <category>open-source</category>
+      <category>geopolitics</category>
+      <category>strategy</category>
+      <category>research</category>
+      <category>llm-infrastructure</category>
+      <category>robotics</category>
+    </item>
+    <item>
+      <title>MCP 2026 Roadmap: Scalability, Agents, and Enterprise Readiness</title>
+      <link>https://jtheodor.github.io/agentic-times/mcp-2026-roadmap-scalability-agents-and-enterprise-readiness</link>
+      <description>The Model Context Protocol (MCP) has released its 2026 roadmap, marking a strategic shift from core-maintainer-driven releases to continuous, Working Group-led protocol development. Focused heavily on production realities, the roadmap prioritizes transport scalability, agent communication primitives</description>
+      <pubDate>Fri, 27 Mar 2026 04:00:00 GMT</pubDate>
+      <guid>https://jtheodor.github.io/agentic-times/mcp-2026-roadmap-scalability-agents-and-enterprise-readiness</guid>
+      <category>llm-infrastructure</category>
+      <category>tool-use</category>
+      <category>ai-agents</category>
+      <category>agentic-workflow</category>
+      <category>open-source</category>
+    </item>
+    <item>
+      <title>Orchestrating Multi-Agent Content Creation with MCP and Google ADK</title>
+      <link>https://jtheodor.github.io/agentic-times/orchestrating-multi-agent-content-creation-with-mcp-and-goog</link>
+      <description>This comprehensive tutorial demonstrates how to build "Dev Signal," a multi-agent system that discovers trending Reddit topics, researches them via Google Cloud docs, and drafts technical blogs with custom generated images. It showcases the power of the Model Context Protocol (MCP) to seamlessly sta</description>
+      <pubDate>Fri, 27 Mar 2026 04:00:00 GMT</pubDate>
+      <guid>https://jtheodor.github.io/agentic-times/orchestrating-multi-agent-content-creation-with-mcp-and-goog</guid>
+      <category>ai-agents</category>
+      <category>multi-agent</category>
+      <category>orchestration</category>
+      <category>tool-use</category>
+      <category>tutorial</category>
+      <category>llm-infrastructure</category>
+    </item>
+    <item>
+      <title>Track Copilot Coding Agent Usage Beyond the IDE</title>
+      <link>https://jtheodor.github.io/agentic-times/track-copilot-coding-agent-usage-beyond-the-ide</link>
+      <description>GitHub has updated Copilot usage metrics to identify active users of the Copilot coding agent (CCA) outside of traditional IDEs. This update allows enterprise administrators to distinguish between standard in-editor AI assistance and autonomous agentic workflows, such as assigning AI to solve issues</description>
+      <pubDate>Fri, 27 Mar 2026 04:00:00 GMT</pubDate>
+      <guid>https://jtheodor.github.io/agentic-times/track-copilot-coding-agent-usage-beyond-the-ide</guid>
+      <category>ai-agents</category>
+      <category>automation</category>
+      <category>llm-infrastructure</category>
+      <category>ai-ops</category>
+      <category>productivity</category>
+      <category>business</category>
+    </item>
+    <item>
+      <title>Unifying 6 Essential AI Agent Protocols with Google's ADK</title>
+      <link>https://jtheodor.github.io/agentic-times/unifying-6-essential-ai-agent-protocols-with-google-s-adk</link>
+      <description>This comprehensive guide from Google demonstrates how to connect six fragmented AI agent protocols (MCP, A2A, UCP, AP2, A2UI, and AG-UI) into a single, cohesive workflow using the Agent Development Kit (ADK). It matters because standardizing data access, multi-agent communication, commerce, and UI r</description>
+      <pubDate>Fri, 27 Mar 2026 04:00:00 GMT</pubDate>
+      <guid>https://jtheodor.github.io/agentic-times/unifying-6-essential-ai-agent-protocols-with-google-s-adk</guid>
+      <category>ai-agents</category>
+      <category>agentic-workflow</category>
+      <category>multi-agent</category>
+      <category>orchestration</category>
+      <category>llm-infrastructure</category>
+      <category>tool-use</category>
+      <category>autonomous-systems</category>
+    </item>
     <item>
       <title>How China, Small Models, and Robotics Dominate Open Source</title>
       <link>https://jtheodor.github.io/agentic-times/how-china-small-models-and-robotics-dominate-open-source</link>
