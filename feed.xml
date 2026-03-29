@@ -5,9 +5,110 @@
     <link>http://100.125.171.21:8081/discoveries/index.html</link>
     <description>Curated insights on AI workflows, agentic systems, game design, creative tools, and modern development. Discovered and curated by jBot.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 27 Mar 2026 13:04:05 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 28 Mar 2026 13:03:45 GMT</lastBuildDate>
     <atom:link href="https://jtheodor.github.io/agentic-times/feed.xml" rel="self" type="application/rss+xml" />
     
+    <item>
+      <title>Building Expert Multi-Agent Workflows with Google ADK and MCP</title>
+      <link>https://jtheodor.github.io/agentic-times/building-expert-multi-agent-workflows-with-google-adk-and-mc</link>
+      <description>This technical tutorial demonstrates how to build "Dev Signal," a multi-agent system that autonomously discovers trending questions on Reddit, researches official Google Cloud documentation, and drafts expert blogs. It highlights how to standardize external API connections and custom scripts into pl</description>
+      <pubDate>Sat, 28 Mar 2026 04:00:00 GMT</pubDate>
+      <guid>https://jtheodor.github.io/agentic-times/building-expert-multi-agent-workflows-with-google-adk-and-mc</guid>
+      <category>ai-agents</category>
+      <category>multi-agent</category>
+      <category>orchestration</category>
+      <category>tool-use</category>
+      <category>tutorial</category>
+    </item>
+    <item>
+      <title>Building Full-Stack Agents with Six Standardized AI Protocols</title>
+      <link>https://jtheodor.github.io/agentic-times/building-full-stack-agents-with-six-standardized-ai-protocol</link>
+      <description>The rapidly expanding AI agent landscape is flooded with competing standards and custom integration requirements that slow down development. This guide cuts through the noise by demonstrating how six key protocols (MCP, A2A, UCP, AP2, A2UI, and AG-UI) work together to standardize data access, agent </description>
+      <pubDate>Sat, 28 Mar 2026 04:00:00 GMT</pubDate>
+      <guid>https://jtheodor.github.io/agentic-times/building-full-stack-agents-with-six-standardized-ai-protocol</guid>
+      <category>ai-agents</category>
+      <category>agentic-workflow</category>
+      <category>multi-agent</category>
+      <category>orchestration</category>
+      <category>llm-infrastructure</category>
+      <category>autonomous-systems</category>
+      <category>open-source</category>
+    </item>
+    <item>
+      <title>Customizing Validation Tools for Copilot Coding Agents</title>
+      <link>https://jtheodor.github.io/agentic-times/customizing-validation-tools-for-copilot-coding-agents</link>
+      <description>GitHub has introduced repository-level configuration for the Copilot coding agent's automated validation tools. This update allows administrators to toggle built-in security and quality checks—such as CodeQL and secret scanning—preventing lengthy analysis times from bottlenecking autonomous code gen</description>
+      <pubDate>Sat, 28 Mar 2026 04:00:00 GMT</pubDate>
+      <guid>https://jtheodor.github.io/agentic-times/customizing-validation-tools-for-copilot-coding-agents</guid>
+      <category>ai-agents</category>
+      <category>automation</category>
+      <category>tool-use</category>
+      <category>productivity</category>
+      <category>workflow</category>
+    </item>
+    <item>
+      <title>End-to-End Enterprise Security Architecture for Agentic AI Systems</title>
+      <link>https://jtheodor.github.io/agentic-times/end-to-end-enterprise-security-architecture-for-agentic-ai-s</link>
+      <description>This post outlines Microsoft's comprehensive strategy and product suite for observing, governing, and securing AI agents across enterprise environments. As 80% of Fortune 500 companies deploy active AI agents, it addresses the critical need to secure foundational infrastructure, safeguard sensitive </description>
+      <pubDate>Sat, 28 Mar 2026 04:00:00 GMT</pubDate>
+      <guid>https://jtheodor.github.io/agentic-times/end-to-end-enterprise-security-architecture-for-agentic-ai-s</guid>
+      <category>ai-agents</category>
+      <category>autonomous-systems</category>
+      <category>safety</category>
+      <category>frameworks</category>
+      <category>risk-management</category>
+      <category>cybersecurity</category>
+    </item>
+    <item>
+      <title>How China, Small Models, and Robotics Dominate Open Source AI</title>
+      <link>https://jtheodor.github.io/agentic-times/how-china-small-models-and-robotics-dominate-open-source-ai</link>
+      <description>Hugging Face's Spring 2026 report reveals a massive shift in the open-source AI landscape, with China overtaking the U.S. in model downloads and independent developers driving 39% of total usage. Beyond text models, the data shows an unprecedented explosion in robotics datasets and a strong market p</description>
+      <pubDate>Sat, 28 Mar 2026 04:00:00 GMT</pubDate>
+      <guid>https://jtheodor.github.io/agentic-times/how-china-small-models-and-robotics-dominate-open-source-ai</guid>
+      <category>open-source</category>
+      <category>geopolitics</category>
+      <category>macroeconomics</category>
+      <category>research</category>
+      <category>business</category>
+      <category>llm-infrastructure</category>
+    </item>
+    <item>
+      <title>MCP 2026 Roadmap: Scaling Transports and Agent Communication</title>
+      <link>https://jtheodor.github.io/agentic-times/mcp-2026-roadmap-scaling-transports-and-agent-communication</link>
+      <description>The Model Context Protocol (MCP) has released its 2026 roadmap, shifting away from experimental core releases toward enterprise readiness, horizontal transport scalability, and robust agent communication. This matters because as MCP adoption accelerates into production environments, standardizing ho</description>
+      <pubDate>Sat, 28 Mar 2026 04:00:00 GMT</pubDate>
+      <guid>https://jtheodor.github.io/agentic-times/mcp-2026-roadmap-scaling-transports-and-agent-communication</guid>
+      <category>llm-infrastructure</category>
+      <category>ai-agents</category>
+      <category>multi-agent</category>
+      <category>agentic-workflow</category>
+      <category>open-source</category>
+      <category>tool-use</category>
+    </item>
+    <item>
+      <title>Slashing AI Agent Eval Costs with Mid-Range Task Filtering</title>
+      <link>https://jtheodor.github.io/agentic-times/slashing-ai-agent-eval-costs-with-mid-range-task-filtering</link>
+      <description>Evaluating AI agents requires expensive multi-step rollouts and interactive tool use, making standard benchmarks prohibitively slow and costly. This paper introduces an optimization-free protocol based on Item Response Theory that filters out tasks on the extremes of difficulty. By testing agents on</description>
+      <pubDate>Sat, 28 Mar 2026 04:00:00 GMT</pubDate>
+      <guid>https://jtheodor.github.io/agentic-times/slashing-ai-agent-eval-costs-with-mid-range-task-filtering</guid>
+      <category>ai-agents</category>
+      <category>llm-infrastructure</category>
+      <category>ai-ops</category>
+      <category>research</category>
+      <category>benchmarking</category>
+    </item>
+    <item>
+      <title>Tracking Copilot Coding Agent Usage Beyond the IDE</title>
+      <link>https://jtheodor.github.io/agentic-times/tracking-copilot-coding-agent-usage-beyond-the-ide</link>
+      <description>GitHub has updated its Copilot usage metrics to track autonomous Copilot Coding Agent (CCA) activity separately from traditional IDE assistance. This enables enterprise administrators to monitor adoption rates of autonomous agent features, such as resolving issues or reviewing pull requests outside </description>
+      <pubDate>Sat, 28 Mar 2026 04:00:00 GMT</pubDate>
+      <guid>https://jtheodor.github.io/agentic-times/tracking-copilot-coding-agent-usage-beyond-the-ide</guid>
+      <category>ai-agents</category>
+      <category>autonomous-systems</category>
+      <category>llm-infrastructure</category>
+      <category>workflow</category>
+      <category>productivity</category>
+    </item>
     <item>
       <title>Customizing Validation Tools for Copilot Coding Agent</title>
       <link>https://jtheodor.github.io/agentic-times/customizing-validation-tools-for-copilot-coding-agent</link>
