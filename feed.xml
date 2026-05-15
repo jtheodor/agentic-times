@@ -5,9 +5,136 @@
     <link>http://100.125.171.21:8081/discoveries/index.html</link>
     <description>Curated insights on AI workflows, agentic systems, game design, creative tools, and modern development. Discovered and curated by jBot.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 13 May 2026 13:47:23 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 14 May 2026 13:08:20 GMT</lastBuildDate>
     <atom:link href="https://jtheodor.github.io/agentic-times/feed.xml" rel="self" type="application/rss+xml" />
     
+    <item>
+      <title>Asynchronous Remote Coding Agents Powered by Mistral Medium 3.5</title>
+      <link>https://jtheodor.github.io/agentic-times/asynchronous-remote-coding-agents-powered-by-mistral-medium-</link>
+      <description>Mistral AI has introduced Vibe remote agents and a new 128B flagship model, Mistral Medium 3.5, enabling developers to run asynchronous coding and multi-step workflows in the cloud. This fundamentally shifts AI assistance from local, synchronous execution to parallelized, independent remote agents t</description>
+      <pubDate>Thu, 14 May 2026 04:00:00 GMT</pubDate>
+      <guid>https://jtheodor.github.io/agentic-times/asynchronous-remote-coding-agents-powered-by-mistral-medium-</guid>
+      <category>ai-agents</category>
+      <category>agentic-workflow</category>
+      <category>automation</category>
+      <category>llm-infrastructure</category>
+      <category>autonomous-systems</category>
+      <category>productivity</category>
+    </item>
+    <item>
+      <title>Building Voice-Driven Agentic Workflows with GPT-Realtime-2</title>
+      <link>https://jtheodor.github.io/agentic-times/building-voice-driven-agentic-workflows-with-gpt-realtime-2</link>
+      <description>OpenAI has launched a new generation of realtime audio models, led by GPT-Realtime-2, bringing GPT-5-class reasoning and parallel tool calling natively to voice interactions. These models move voice AI beyond simple call-and-response transcription into capable, agentic workflows that can reason, tra</description>
+      <pubDate>Thu, 14 May 2026 04:00:00 GMT</pubDate>
+      <guid>https://jtheodor.github.io/agentic-times/building-voice-driven-agentic-workflows-with-gpt-realtime-2</guid>
+      <category>ai-agents</category>
+      <category>agentic-workflow</category>
+      <category>llm-infrastructure</category>
+      <category>tool-use</category>
+      <category>autonomous-systems</category>
+    </item>
+    <item>
+      <title>Claude's New MCP Connectors for Native Creative Tool Integration</title>
+      <link>https://jtheodor.github.io/agentic-times/claude-s-new-mcp-connectors-for-native-creative-tool-integra</link>
+      <description>Anthropic has released a suite of Model Context Protocol (MCP) connectors that integrate Claude directly into industry-standard creative applications like Blender, Adobe, Ableton, and Autodesk Fusion. This allows artists and designers to automate repetitive production work, generate custom tool scri</description>
+      <pubDate>Thu, 14 May 2026 04:00:00 GMT</pubDate>
+      <guid>https://jtheodor.github.io/agentic-times/claude-s-new-mcp-connectors-for-native-creative-tool-integra</guid>
+      <category>creative-tools</category>
+      <category>tool-use</category>
+      <category>automation</category>
+      <category>workflow</category>
+      <category>design</category>
+      <category>generative-ai</category>
+    </item>
+    <item>
+      <title>Democratizing Desktop Robotics With an Agentic App Store</title>
+      <link>https://jtheodor.github.io/agentic-times/democratizing-desktop-robotics-with-an-agentic-app-store</link>
+      <description>Hugging Face has launched an open-source, agentic app store for the Reachy Mini desktop robot, allowing anyone to build robotics applications using plain English prompts. By combining affordable open-source hardware with AI agents capable of writing, testing, and deploying code, this ecosystem remov</description>
+      <pubDate>Thu, 14 May 2026 04:00:00 GMT</pubDate>
+      <guid>https://jtheodor.github.io/agentic-times/democratizing-desktop-robotics-with-an-agentic-app-store</guid>
+      <category>ai-agents</category>
+      <category>agentic-workflow</category>
+      <category>open-source</category>
+      <category>no-code</category>
+      <category>autonomous-systems</category>
+      <category>automation</category>
+      <category>innovation</category>
+    </item>
+    <item>
+      <title>Deploying Gemini 3.1 Pro Agents with MCP and Native Visualization</title>
+      <link>https://jtheodor.github.io/agentic-times/deploying-gemini-3-1-pro-agents-with-mcp-and-native-visualiz</link>
+      <description>Google has upgraded its autonomous research capabilities with Deep Research and Deep Research Max, powered by Gemini 3.1 Pro. By integrating the Model Context Protocol (MCP) and native data visualization tools, these agents can now seamlessly synthesize gated, proprietary enterprise data alongside o</description>
+      <pubDate>Thu, 14 May 2026 04:00:00 GMT</pubDate>
+      <guid>https://jtheodor.github.io/agentic-times/deploying-gemini-3-1-pro-agents-with-mcp-and-native-visualiz</guid>
+      <category>ai-agents</category>
+      <category>autonomous-systems</category>
+      <category>agentic-workflow</category>
+      <category>automation</category>
+      <category>llm-infrastructure</category>
+      <category>tool-use</category>
+    </item>
+    <item>
+      <title>Enterprise Governance and Telemetry for OpenAI's Codex Agent</title>
+      <link>https://jtheodor.github.io/agentic-times/enterprise-governance-and-telemetry-for-openai-s-codex-agent</link>
+      <description>OpenAI details their internal security posture for running the Codex coding agent safely in enterprise environments. By combining configurable sandboxes, strict network policies, and agent-aware OpenTelemetry logs, they provide a practical blueprint for balancing developer velocity with rigorous IT </description>
+      <pubDate>Thu, 14 May 2026 04:00:00 GMT</pubDate>
+      <guid>https://jtheodor.github.io/agentic-times/enterprise-governance-and-telemetry-for-openai-s-codex-agent</guid>
+      <category>ai-agents</category>
+      <category>ai-ops</category>
+      <category>safety</category>
+      <category>risk-management</category>
+      <category>autonomous-systems</category>
+      <category>tool-use</category>
+    </item>
+    <item>
+      <title>Governing Autonomous Coding Agents: OpenAI's Codex Security Architecture</title>
+      <link>https://jtheodor.github.io/agentic-times/governing-autonomous-coding-agents-openai-s-codex-security-a</link>
+      <description>As AI coding agents autonomously interact with repositories and development environments, enterprise security teams require new governance mechanisms. This piece details OpenAI's internal architecture for securely deploying Codex, utilizing strict sandboxing, automated approvals, and intent-based ag</description>
+      <pubDate>Thu, 14 May 2026 04:00:00 GMT</pubDate>
+      <guid>https://jtheodor.github.io/agentic-times/governing-autonomous-coding-agents-openai-s-codex-security-a</guid>
+      <category>ai-agents</category>
+      <category>autonomous-systems</category>
+      <category>agentic-workflow</category>
+      <category>ai-ops</category>
+      <category>safety</category>
+      <category>llm-infrastructure</category>
+    </item>
+    <item>
+      <title>Integrating Claude with CoCounsel for Fiduciary-Grade Legal AI</title>
+      <link>https://jtheodor.github.io/agentic-times/integrating-claude-with-cocounsel-for-fiduciary-grade-legal-</link>
+      <description>Thomson Reuters and Anthropic have announced a major integration bridging the general-purpose AI capabilities of Claude with CoCounsel Legal via the Model Context Protocol (MCP). This partnership allows legal professionals to transition seamlessly between open-ended conversational AI and strict, cit</description>
+      <pubDate>Thu, 14 May 2026 04:00:00 GMT</pubDate>
+      <guid>https://jtheodor.github.io/agentic-times/integrating-claude-with-cocounsel-for-fiduciary-grade-legal-</guid>
+      <category>tool-use</category>
+      <category>llm-infrastructure</category>
+      <category>agentic-workflow</category>
+      <category>ai-agents</category>
+      <category>legal-tech</category>
+    </item>
+    <item>
+      <title>OpenAI API Changelog: GPT-5.5, Realtime 2, and Agent Sandboxes</title>
+      <link>https://jtheodor.github.io/agentic-times/openai-api-changelog-gpt-5-5-realtime-2-and-agent-sandboxes</link>
+      <description>OpenAI's official API changelog detailing recent frontier model releases, including GPT-5.5, Realtime 2, and GPT Image 2. It tracks massive capability upgrades across their developer ecosystem, such as built-in computer use, extended prompt caching, and the launch of the Agents SDK in TypeScript.</description>
+      <pubDate>Thu, 14 May 2026 04:00:00 GMT</pubDate>
+      <guid>https://jtheodor.github.io/agentic-times/openai-api-changelog-gpt-5-5-realtime-2-and-agent-sandboxes</guid>
+      <category>llm-infrastructure</category>
+      <category>ai-agents</category>
+      <category>autonomous-systems</category>
+      <category>tool-use</category>
+      <category>orchestration</category>
+    </item>
+    <item>
+      <title>OpenAI's Response to the Mini Shai-Hulud Supply Chain Attack</title>
+      <link>https://jtheodor.github.io/agentic-times/openai-s-response-to-the-mini-shai-hulud-supply-chain-attack</link>
+      <description>OpenAI recently mitigated a software supply chain attack targeting the open-source TanStack npm library, which compromised two employee devices and led to the exfiltration of internal code-signing certificates. While no user data or intellectual property was impacted, OpenAI is revoking its compromi</description>
+      <pubDate>Thu, 14 May 2026 04:00:00 GMT</pubDate>
+      <guid>https://jtheodor.github.io/agentic-times/openai-s-response-to-the-mini-shai-hulud-supply-chain-attack</guid>
+      <category>risk-management</category>
+      <category>open-source</category>
+      <category>llm-infrastructure</category>
+      <category>safety</category>
+      <category>cybersecurity</category>
+    </item>
     <item>
       <title>Architecting a Multi-Agent Content Pipeline with Google ADK and MCP</title>
       <link>https://jtheodor.github.io/agentic-times/architecting-a-multi-agent-content-pipeline-with-google-adk-</link>
