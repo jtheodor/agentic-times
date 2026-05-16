@@ -5,9 +5,101 @@
     <link>http://100.125.171.21:8081/discoveries/index.html</link>
     <description>Curated insights on AI workflows, agentic systems, game design, creative tools, and modern development. Discovered and curated by jBot.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 14 May 2026 13:08:20 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 15 May 2026 13:06:07 GMT</lastBuildDate>
     <atom:link href="https://jtheodor.github.io/agentic-times/feed.xml" rel="self" type="application/rss+xml" />
     
+    <item>
+      <title>5 Architecture Patterns for Production-Ready AI Agents</title>
+      <link>https://jtheodor.github.io/agentic-times/5-architecture-patterns-for-production-ready-ai-agents</link>
+      <description>Google Cloud outlines five essential architectural guides for deploying, scaling, and governing autonomous AI agents using the Gemini Enterprise Agent Platform. The series tackles the leap from experimental prototypes to robust production systems, solving critical challenges like long-running state </description>
+      <pubDate>Fri, 15 May 2026 04:00:00 GMT</pubDate>
+      <guid>https://jtheodor.github.io/agentic-times/5-architecture-patterns-for-production-ready-ai-agents</guid>
+      <category>ai-agents</category>
+      <category>multi-agent</category>
+      <category>orchestration</category>
+      <category>agentic-workflow</category>
+      <category>llm-infrastructure</category>
+      <category>autonomous-systems</category>
+      <category>ai-ops</category>
+    </item>
+    <item>
+      <title>Agentic Workflows and Native Integrations for Small Businesses</title>
+      <link>https://jtheodor.github.io/agentic-times/agentic-workflows-and-native-integrations-for-small-business</link>
+      <description>Anthropic has launched Claude for Small Business, a suite of ready-to-run agentic workflows and tool connectors designed to embed AI directly into essential business software like QuickBooks, PayPal, and HubSpot. By automating tedious back-office operations—from payroll planning to campaign manageme</description>
+      <pubDate>Fri, 15 May 2026 04:00:00 GMT</pubDate>
+      <guid>https://jtheodor.github.io/agentic-times/agentic-workflows-and-native-integrations-for-small-business</guid>
+      <category>ai-agents</category>
+      <category>automation</category>
+      <category>agentic-workflow</category>
+      <category>tool-use</category>
+      <category>productivity</category>
+      <category>business</category>
+      <category>education</category>
+    </item>
+    <item>
+      <title>Deploying 10 Ready-to-Run Claude Agents for Financial Workflows</title>
+      <link>https://jtheodor.github.io/agentic-times/deploying-10-ready-to-run-claude-agents-for-financial-workfl</link>
+      <description>Anthropic has released 10 reference architecture agent templates tailored for time-consuming financial tasks, from KYC screening to month-end close. By pairing these autonomous multi-agent systems with deep Microsoft 365 integration and direct data connectors to providers like Dun &amp; Bradstreet, fina</description>
+      <pubDate>Fri, 15 May 2026 04:00:00 GMT</pubDate>
+      <guid>https://jtheodor.github.io/agentic-times/deploying-10-ready-to-run-claude-agents-for-financial-workfl</guid>
+      <category>ai-agents</category>
+      <category>agentic-workflow</category>
+      <category>automation</category>
+      <category>tool-use</category>
+      <category>autonomous-systems</category>
+      <category>business</category>
+    </item>
+    <item>
+      <title>GPT-5.5 Instant Cuts Hallucinations and Deepens Personalization</title>
+      <link>https://jtheodor.github.io/agentic-times/gpt-5-5-instant-cuts-hallucinations-and-deepens-personalizat</link>
+      <description>OpenAI has launched GPT-5.5 Instant, a faster, smarter default model that significantly reduces hallucinations in high-stakes areas while adopting a noticeably less verbose tone. It introduces deep personalization by securely referencing past chats, files, and connected apps like Gmail, paired with </description>
+      <pubDate>Fri, 15 May 2026 04:00:00 GMT</pubDate>
+      <guid>https://jtheodor.github.io/agentic-times/gpt-5-5-instant-cuts-hallucinations-and-deepens-personalizat</guid>
+      <category>llm-infrastructure</category>
+      <category>generative-ai</category>
+      <category>productivity</category>
+      <category>tool-use</category>
+      <category>innovation</category>
+    </item>
+    <item>
+      <title>OpenAI Launches $4B Deployment Company for Enterprise AI Integration</title>
+      <link>https://jtheodor.github.io/agentic-times/openai-launches-4b-deployment-company-for-enterprise-ai-inte</link>
+      <description>OpenAI has launched the OpenAI Deployment Company (DeployCo), backed by $4 billion in initial investment and the acquisition of applied AI engineering firm Tomoro. This new business unit is designed to embed "Forward Deployed Engineers" directly into enterprises, helping them fundamentally redesign </description>
+      <pubDate>Fri, 15 May 2026 04:00:00 GMT</pubDate>
+      <guid>https://jtheodor.github.io/agentic-times/openai-launches-4b-deployment-company-for-enterprise-ai-inte</guid>
+      <category>business</category>
+      <category>strategy</category>
+      <category>future-of-work</category>
+      <category>llm-infrastructure</category>
+      <category>automation</category>
+    </item>
+    <item>
+      <title>Scaling Autonomous Internal Workflows with Notion's Custom Agents</title>
+      <link>https://jtheodor.github.io/agentic-times/scaling-autonomous-internal-workflows-with-notion-s-custom-a</link>
+      <description>Notion’s Custom Agents have moved out of beta after users created over a million autonomous workflows, proving that no-code agent building has become a critical operational skill. The retrospective reveals that the most successful teams treat agents like internal products, moving beyond simple task </description>
+      <pubDate>Fri, 15 May 2026 04:00:00 GMT</pubDate>
+      <guid>https://jtheodor.github.io/agentic-times/scaling-autonomous-internal-workflows-with-notion-s-custom-a</guid>
+      <category>ai-agents</category>
+      <category>automation</category>
+      <category>autonomous-systems</category>
+      <category>ai-ops</category>
+      <category>workflow</category>
+      <category>no-code</category>
+      <category>productivity</category>
+    </item>
+    <item>
+      <title>ServiceNow &amp; Accenture's Playbook for Scaling Enterprise Agentic AI</title>
+      <link>https://jtheodor.github.io/agentic-times/servicenow-accenture-s-playbook-for-scaling-enterprise-agent</link>
+      <description>ServiceNow and Accenture have launched a "forward deployed engineering" (FDE) program to transition agentic AI from pilot stages to enterprise-wide production. By deploying engineers directly into customer environments with over 300 pre-built AI agent skills, this initiative bridges the gap between </description>
+      <pubDate>Fri, 15 May 2026 04:00:00 GMT</pubDate>
+      <guid>https://jtheodor.github.io/agentic-times/servicenow-accenture-s-playbook-for-scaling-enterprise-agent</guid>
+      <category>agentic-workflow</category>
+      <category>ai-agents</category>
+      <category>orchestration</category>
+      <category>llm-infrastructure</category>
+      <category>business</category>
+      <category>strategy</category>
+    </item>
     <item>
       <title>Asynchronous Remote Coding Agents Powered by Mistral Medium 3.5</title>
       <link>https://jtheodor.github.io/agentic-times/asynchronous-remote-coding-agents-powered-by-mistral-medium-</link>
